@@ -77,6 +77,9 @@
 | ἀλήθεια | alētheia | **waarheid** | ✅ | |
 | חָכְמָה | chokmah | **wysheid** | ✅ | |
 | σοφία | sophia | **wysheid** | ✅ | |
+| אֵיבָה | eivah | **vyandskap** | ✅ | Committed 2026-05-30 (Gen 3:15). |
+| תְּשׁוּקָה | teshuqah | **begeerte** | ✅ | Committed 2026-05-30 (Gen 3:16); recurs 4:7 — keep consistent. |
+| אָרַר / אָרוּר | arar / arur | **vervloek** | ✅ | Committed 2026-05-30 (Gen 3:14, 17); distinct from *qelalah* (vloek, noun). |
 
 ---
 
@@ -139,6 +142,14 @@
 | צֶלֶם | tselem | **beeld** | ✅ | |
 | דְּמוּת | demut | **gelykenis** | ✅ | |
 | εἰκών | eikōn | **beeld** | ✅ | |
+| נָחָשׁ | nachash | **slang** | ✅ | Committed 2026-05-30 (Gen 3); the serpent. |
+| עָרוּם | arum | **listig** | ✅ | Committed 2026-05-30 (Gen 3:1); puns on *arummim* (naak, 2:25). |
+| זֶרַע | zera | **nageslag** / **saad** | ✅ | Committed 2026-05-30. "nageslag" for offspring/descendants; "saad" in agricultural contexts. |
+| חֲגוֹרָה | chagorah | **lendedoek** | ✅ | Committed 2026-05-30 (Gen 3:7); girdle/loincloth (from *chagar*, to gird) — literal over the apron tradition. |
+| חַוָּה | Chawwa | **Eva** | ✅ | Committed 2026-05-30 (Gen 3:20); established Afrikaans proper name; puns on *chai* (lewe). |
+| כְּרוּב | keruv (pl. keruvim) | **gérub** (pl. **gérubs**) | ✅ | Committed 2026-05-30 (Gen 3:24); transliterated established form. |
+| עִצָּבוֹן | itstsavon | **swaarkry** | ✅ | Committed 2026-05-30 (Gen 3:16 woman & 3:17 man); single rendering preserves the word-link between the two judgments. |
+| עֶצֶב | etzev | **pyn** | ✅ | Committed 2026-05-30 (Gen 3:16b); the birth pangs; sister noun of *itstsavon*. |
 
 ---
 

@@ -118,6 +118,56 @@
 
 **[2:25]** En hulle was altwee naak, die mens en sy vrou, en hulle was nie skaam voor mekaar nie.
 
+### Chapter 3
+
+**[3:1]** En die slang was listiger as al die wilde diere van die veld wat die HERE God gemaak het. En hy sê vir die vrou: "Het God werklik gesê: Julle mag nie eet van al die bome van die tuin nie?"
+
+**[3:2]** En die vrou sê vir die slang: "Van die vrugte van die bome van die tuin mag ons eet;
+
+**[3:3]** maar van die vrugte van die boom wat in die middel van die tuin is, het God gesê: Julle mag daarvan nie eet nie en dit nie aanraak nie, anders sal julle sterwe."
+
+**[3:4]** Toe sê die slang vir die vrou: "Julle sal sekerlik nie sterwe nie;
+
+**[3:5]** want God weet dat die dag as julle daarvan eet, julle oë sal oopgaan en julle soos God sal wees, wat goed en kwaad ken."
+
+**[3:6]** En die vrou het gesien dat die boom goed was om van te eet, en dat dit 'n lus vir die oë was, en dat die boom begeerlik was om insig te gee; en sy het van sy vrugte geneem en geëet, en ook aan haar man by haar gegee, en hy het geëet.
+
+**[3:7]** Toe gaan altwee se oë oop, en hulle het besef dat hulle naak was; en hulle het vyeblare aanmekaargewerk en vir hulle lendedoeke gemaak.
+
+**[3:8]** En hulle het die geluid van die HERE God gehoor terwyl Hy in die tuin wandel in die aandwind; en die mens en sy vrou het hulle weggesteek vir die aangesig van die HERE God, tussen die bome van die tuin.
+
+**[3:9]** En die HERE God het na die mens geroep en vir hom gesê: "Waar is jy?"
+
+**[3:10]** En hy sê: "Ek het U geluid in die tuin gehoor, en ek was bang, want ek is naak; en ek het my weggesteek."
+
+**[3:11]** En Hy sê: "Wie het jou vertel dat jy naak is? Het jy geëet van die boom waarvan Ek jou beveel het om nie te eet nie?"
+
+**[3:12]** En die mens sê: "Die vrou wat U my gegee het om by my te wees — sy het my van die boom gegee, en ek het geëet."
+
+**[3:13]** Toe sê die HERE God vir die vrou: "Wat het jy nou gedoen?" En die vrou sê: "Die slang het my mislei, en ek het geëet."
+
+**[3:14]** Toe sê die HERE God vir die slang: "Omdat jy dit gedoen het, is jy vervloek bo al die vee en bo al die wilde diere van die veld. Op jou buik sal jy seil, en stof sal jy eet al die dae van jou lewe.
+
+**[3:15]** En Ek sal vyandskap stel tussen jou en die vrou, en tussen jou nageslag en haar nageslag. Hy sal jou die kop vermorsel, en jy sal hom die hakskeen vermorsel."
+
+**[3:16]** Aan die vrou het Hy gesê: "Ek sal jou swaarkry en jou swangerskap grootliks vermeerder; met pyn sal jy kinders baar. En na jou man sal jou begeerte wees, en hy sal oor jou heers."
+
+**[3:17]** En aan die mens het Hy gesê: "Omdat jy geluister het na die stem van jou vrou en geëet het van die boom waarvan Ek jou beveel het: Jy mag daarvan nie eet nie — is die grond vervloek om jou ontwil; met swaarkry sal jy daarvan eet al die dae van jou lewe.
+
+**[3:18]** En dorings en distels sal dit vir jou laat uitspruit, en jy sal die plante van die veld eet.
+
+**[3:19]** In die sweet van jou aangesig sal jy brood eet totdat jy terugkeer na die grond, want daaruit is jy geneem; want stof is jy, en tot stof sal jy terugkeer."
+
+**[3:20]** En die mens het sy vrou Eva genoem, omdat sy die moeder van alle lewendes geword het.
+
+**[3:21]** En die HERE God het vir die mens en sy vrou klere van vel gemaak en hulle aangetrek.
+
+**[3:22]** En die HERE God het gesê: "Kyk, die mens het geword soos een van Ons, om goed en kwaad te ken. En nou — dat hy nie sy hand uitsteek en ook van die boom van die lewe neem en eet en vir ewig lewe nie!"
+
+**[3:23]** Daarom het die HERE God hom uit die tuin van Eden weggestuur om die grond te bewerk waaruit hy geneem is.
+
+**[3:24]** So het Hy die mens verdryf; en Hy het oos van die tuin van Eden die gérubs laat woon, en die vlam van die swaard wat heen en weer beweeg, om die pad na die boom van die lewe te bewaak.
+
 ## John
 
 ### Chapter 1

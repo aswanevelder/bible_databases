@@ -102,6 +102,13 @@ it establishes the `HERE` / `HERE God` rendering in practice.
 ## 4. Style register (COMMITTED — restated from CLAUDE.md)
 
 - Formal equivalence, AFR53-register feel but independently worded.
+- **Fidelity over smoothness (committed 2026-05-30).** When faithfulness to the source and
+  natural Afrikaans pull against each other, favour the source — even at the cost of some
+  awkwardness. In particular, **preserve a single source word's identity**: where the Hebrew/Greek
+  deliberately repeats one word, render it with one Afrikaans word rather than varying for style.
+  Note the awkwardness and the alternative in the translator's notes; add a reader footnote where
+  it helps. *Precedent:* Genesis 3:15 keeps "vermorsel" for both clauses (the one verb *shuf*),
+  rather than softening the heel to "byt" as many translations do.
 - Modern Afrikaans orthography; archaic forms (*gy*, *u*) only in elevated/liturgical
   contexts with team agreement.
 - Curly quotes for direct speech: "…" not "…". Em-dashes for parenthetical clauses.
