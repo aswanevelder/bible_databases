@@ -1,0 +1,671 @@
+{
+    "translation": "AOV",
+    "footnotes": [
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": null,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Divine name.** Genesis 1 uses *Elohim* throughout (not YHWH), which I rendered \"God.\" If you ever extend to Genesis 2+ where YHWH appears, you need a policy: HERE (AFR53 style), die HERE, Jahwe, Jehova, etc. This is a major translation decision."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 1,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Of: \"Toe God begin skep het die hemel en die aarde …\" — die Hebreeuse sintaksis laat albei lesings toe."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 1,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 1 — *bereshit bara Elohim*.** I went with \"In die begin het God... geskep\" (matches AFR53 tradition). A defensible alternative is \"Toe God begin het om die hemel en die aarde te skep\" — there's a real Hebrew grammatical argument for the latter."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 2,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"diepwater\" vertaal die Hebreeuse *tehom* (die oer-dieptes)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 2,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 2 — *tohu wa-bohu*.** \"Woes en leeg\" is the AFR53/AFR83 convention. More literal would be \"ongevormd en leeg\" or \"chaos en leegte.\""
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 2,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 2 — *ruach Elohim*.** I rendered \"Gees van God.\" This could also be \"wind van God\" or \"magtige wind\" (some modern translations). The Hebrew is genuinely ambiguous."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 2,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 2 — *tehom*.** \"Diepwater\" — could be \"die dieptes\" or \"die oerwater.\" AFR53 uses \"die wêreldvloed.\""
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 6,
+            "verse_end": 8,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 6–8 — *raqia*.** \"Uitspansel\" follows tradition. The Hebrew literally means \"beaten-out thing / dome.\" Modern translations sometimes use \"gewelf\" (vault)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 11,
+            "verse_end": 12,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 11–12 — botanical terms.** Hebrew distinguishes *deshe* (grass/vegetation), *eseb* (seed-bearing plants), and *etz pri* (fruit trees). I collapsed some of this; a careful translation would preserve the categories."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 21,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 21 — *tanninim*.** \"Seediere\" is mild. The word means \"sea monsters / great sea creatures\" — AFR53 uses \"groot seediere,\" modern translations sometimes \"see-ongediertes.\""
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 26,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"Ons\" — die meervoud van die Hebreeus word behou sonder om die betekenis hier vas te lê."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 26,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 26 — *na'aseh adam*.** \"Laat Ons mense maak\" — the plural \"Ons\" is preserved (theological loading: Trinity? royal plural? divine council?). I left it ambiguous as the Hebrew does."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 26,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 26 — *tselem* / *demut*.** \"Beeld\" / \"gelykenis.\" Standard renderings; no controversy."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 27,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 27, 30 — *nephesh chayyah*.** I varied: \"lewende wesens\" in v.27 contexts, \"lewende asem\" in v.30. The Hebrew is the same phrase. A real translation would be consistent. **This is exactly the kind of drift I warned you about.**"
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 30,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 27, 30 — *nephesh chayyah*.** I varied: \"lewende wesens\" in v.27 contexts, \"lewende asem\" in v.30. The Hebrew is the same phrase. A real translation would be consistent. **This is exactly the kind of drift I warned you about.**"
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": null,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Divine name — first use of YHWH.** Genesis 1 used only *Elohim* (\"God\"). From 2:4 onward the text uses the compound *YHWH Elohim* almost throughout. Per committed policy (`TRANSLATION_POLICY.md` § 3) this is rendered **\"HERE God\"** (all-caps HERE for the Tetragrammaton + \"God\" for Elohim). This is the first translated chapter to exercise the divine-name policy in practice. Plain *Elohim* in vv.1–3 stays \"God\"."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 1,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 1 — *tseva'am*.** \"hulle hele leërskare\" (their whole host/array) — the heavenly bodies and all that fills the heavens and earth. Literal and traditional. A plainer alternative is \"alles wat hulle bevat\"; flagged for the reviewer's preference."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 2,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Die Masoretiese Teks lees \"sewende dag\"; die Samaritaanse Pentateug, Septuagint en Peshitta lees \"sesde dag\"."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 2,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 2 — \"op die sewende dag … voltooi\": textual variant.** MT (WLC) reads that God finished \"on the seventh day.\" The Samaritan Pentateuch, LXX and Peshitta read \"on the **sixth** day\" (harmonising away the apparent implication that God worked on the seventh). Per policy we **follow the MT** in the body and note the variant here. No change needed."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 2,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 2 — *melakhah* / *asah*.** *asah* → \"gedoen/gemaak\" (committed: *asah* = maak, distinct from *bara* = skep). Rendered \"werk wat Hy gedoen het\" for natural Afrikaans."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 3,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 3 — *bara … la'asot*.** Literally \"which God created to make/do.\" Rendered \"geskep het deur dit te maak.\" Note that **both** committed verbs appear together here (*bara* + *asah*); the distinction is preserved (skep / maak)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 4,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 4 — *toledot*.** \"wordingsgeskiedenis\" (account of origins). *toledot* is the structuring formula of Genesis (\"these are the generations/account of…\"); elsewhere it heads genealogies. A shorter \"Dit is die geskiedenis van…\" is also fine — flagged for register preference."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 6,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Die Hebreeuse woord *'ed* is onseker — \"damp\", of moontlik \"ondergrondse stroom\"."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 6,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 6 — *'ed*.** Rendered \"'n damp\" (mist). The word is rare and disputed: \"mist/vapour\" (so older translations, via the versions) or \"stream/subterranean spring\" (so many modern scholars, via an Akkadian cognate *edû*). Genuinely uncertain — flagged for the theologian. If \"stream\" is preferred: \"'n waterstroom het uit die aarde opgestyg.\""
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 7,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Woordspel in die Hebreeus: die *mens* (*adam*) word uit die *grond* (*adamah*) gevorm."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 7,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 7 — *adam* / *adamah* wordplay.** The Hebrew puns: *ha-adam* (the human) is formed from the *adamah* (ground/soil). Afrikaans cannot reproduce the pun directly (\"mens\" / \"grond\"). Left naturalised; the connection is worth a printed footnote. Per glossary, *adam* stays the common noun **\"die mens\"** here (the *adam* → proper-name \"Adam\" decision is deferred to Genesis 4)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 7,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 7 — *yatsar*.** \"geformeer\" (the potter's verb). Committed glossary lists *yatsar* → \"vorm/formeer\" (🟡 provisional); I used **\"geformeer\"** consistently here and at v.8, v.19. Recommend committing \"formeer\". Distinct from *bara* (skep, 1:1; 2:3) and *asah* (maak)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 7,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 7 — *nephesh chayyah*.** \"'n lewende wese\" — per the now-committed *nephesh* context rule (creatures → \"lewende wese\"). Same phrase rendered identically at **v.19** (of the animals), deliberately consistent with Genesis 1 and avoiding the v.27/v.30 drift flagged in genesis-01."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 7,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 7 — *nishmat chayyim*.** \"die asem van die lewe\" (*neshamah*, breath). Distinct from *nephesh* (the living being that results) and from *ruach* (Gees/wind). Kept distinct in Afrikaans."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 8,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 8 — *miqqedem*.** \"in die ooste\" (spatial). Can also mean \"of old / aforetime\" (temporal). Most translations take the spatial sense given the geographic detail that follows. Noted."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 11,
+            "verse_end": 14,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 11–14 — proper names and minerals.** Per the proper-names policy, established Afrikaans geographic forms are used: **Tigris** and **Eufraat** (v.14) rather than transliterating *Chiddeqel* / *Perat*; **Kus** for *Kush* (v.13). Lesser names transliterated: **Pison**, **Gihon**, **Havila**. *bedolach* (v.12) → \"balsemhars\" (bdellium, an aromatic gum resin) and *shoham* → \"onikssteen\" — both mineral/resin identifications are uncertain; alternatives: bdellium left untranslated, *shoham* as \"karneool/lapis\". Flagged for the reviewer."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 18,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 18, 20 — *ezer kenegdo*.** \"'n helper wat by hom pas\" (a helper corresponding to / suitable for him). Avoided the loaded \"hulp\" alone and the archaic AFR53 \"'n hulp wat by hom pas\". *ezer* carries no subordinate connotation in Hebrew (it is used of God elsewhere); the rendering deliberately does not imply inferiority. Flagged for the theologian."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 20,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 18, 20 — *ezer kenegdo*.** \"'n helper wat by hom pas\" (a helper corresponding to / suitable for him). Avoided the loaded \"hulp\" alone and the archaic AFR53 \"'n hulp wat by hom pas\". *ezer* carries no subordinate connotation in Hebrew (it is used of God elsewhere); the rendering deliberately does not imply inferiority. Flagged for the theologian."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 20,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 20 — *ul'adam*.** \"maar vir die mens\" — the form is *l'adam* (without the article), which some read as the first occurrence of \"Adam\" as a proper name. Per the deferred *adam* decision (Genesis 4) I kept the common noun \"die mens\" for consistency within the chapter. Flag."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 21,
+            "verse_end": 22,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 21–22 — *tsela*.** \"rib(be)\". *tsela* usually means \"side\" (as in the side of the tabernacle); \"rib\" is the traditional rendering here and reads naturally. Noted; \"rib\" retained. *banah* (v.22, \"to build\") → \"gebou\", a slightly unusual verb deliberately preserved."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 23,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Woordspel in die Hebreeus: *vrou* (*ishshah*) is uit die *man* (*ish*) geneem."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 23,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 23 — *ishshah* / *ish* wordplay.** The pun (\"she shall be called *ishshah* because she was taken from *ish*\") survives partly in Afrikaans **vrou / man** but the sound-link is lost. AFR53 uses the archaic \"manninne / man\" to force it. I kept natural \"vrou / man\" and recommend a printed footnote explaining the Hebrew pun rather than distorting the Afrikaans. **Flagged** as a real choice for the team (this is the 🟡 item in `TRANSLATION_POLICY.md` § 6)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 2,
+            "verse": 25,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 25 — *arummim*.** \"naak\". Note the deliberate sound-play the author sets up with *arum* (\"slu/listig\", the serpent) in 3:1 — \"naak\" / \"slu\" does not carry it in Afrikaans. To be handled when Genesis 3 is translated; noted here so the wordplay is not lost across the chapter boundary."
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": null,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Textual base.** I worked primarily from the Nestle-Aland 28 / UBS5 critical text. Where significant variants exist against the Textus Receptus (which underlies AFR53), I flag them below. **You need a policy on this for a full Bible** — pick one textual tradition and stay with it, or document every variant."
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": 1,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 1 — *Logos*.** \"Woord\" — universal Afrikaans convention. No controversy."
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": 1,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 1c — *theos en ho logos*.** \"Die Woord was God.\" Anarthrous *theos* with definite *ho logos*. The Jehovah's Witness \"a god\" rendering is grammatically defensible but theologically minority; I followed the majority view. Worth knowing this exists."
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": 5,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"oorweldig\" (*katelaben*) kan ook \"begryp/aangryp\" beteken; die Grieks is dubbelsinnig."
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": 5,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 5 — *katelaben*.** Can mean \"overcome/master\" or \"grasp/comprehend.\" I went with \"oorweldig\" (overcome). AFR53 has \"aangegryp.\" Both are defensible; the Greek is genuinely ambiguous and John may have intended both."
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": 9,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 9 — participle attachment.** *Erchomenon eis ton kosmon* (\"coming into the world\") could modify either \"the light\" or \"every person.\" I attached it to the Light (modern consensus). AFR53 attaches it to \"every person\" (\"elke mens wat in die wêreld kom\"). **This is a real choice you need to commit to.**"
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": 14,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"Enigste\" vertaal *monogenēs* (uniek, een-van-'n-soort); tradisioneel \"eniggebore\"."
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": 14,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 14 — *eskēnōsen*.** Literally \"pitched a tent / tabernacled.\" I rendered \"kom woon\" which loses the Tabernacle/Exodus allusion. \"Tent opgeslaan\" would preserve it but reads strangely. AFR53 has \"het onder ons gewoon.\""
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": 14,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 14, 18 — *monogenēs*.** Traditionally \"eniggebore\" (only-begotten); modern scholarship prefers \"enigste\" / \"uniek\" (unique/one-of-a-kind). I went with \"Enigste.\" This is a real translation/theological choice with downstream implications."
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": 18,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Teksvariant: die kritiese teks lees \"die Enigste — self God\"; die Textus Receptus lees \"die eniggebore Seun\"."
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": 18,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 14, 18 — *monogenēs*.** Traditionally \"eniggebore\" (only-begotten); modern scholarship prefers \"enigste\" / \"uniek\" (unique/one-of-a-kind). I went with \"Enigste.\" This is a real translation/theological choice with downstream implications."
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": 18,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 18 — major textual variant.** NA28 reads *monogenēs theos* (\"the only-begotten God / unique one, himself God\"). TR reads *monogenēs huios* (\"only-begotten Son\"). AFR53 follows TR: \"die eniggebore Seun.\" **I followed NA28 here**, which is why my rendering differs notably from what you'd expect. If you want to match AFR53/TR tradition, change to \"die enigste Seun\" or \"die eniggebore Seun.\""
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": 27,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 27 — \"I am not worthy.\"** I dropped the explicit \"Ek\" for natural Afrikaans flow. AFR53 keeps it."
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": 34,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 34 — textual variant.** NA28 has both *ho eklektos* (\"the Chosen One\") and *ho huios* (\"the Son\") well attested; modern translations split. AFR53/TR has \"Seun.\" I went with \"Seun\" here to match likely reader expectation, but flagged it because **the same translator should not silently switch textual base between v.18 and v.34** — that's the kind of inconsistency that would embarrass you in production."
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": 41,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 41 — *prōton*.** Some manuscripts read *prōi* (early) instead of *prōton* (first). I took \"first.\" Minor."
+        },
+        {
+            "book": "John",
+            "chapter": 1,
+            "verse": 51,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 51 — *amēn amēn*.** \"Voorwaar, voorwaar\" — AFR53 convention. Modern: \"Ek verseker julle.\" I kept the traditional rendering."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": null,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Textual base.** StatResGNT (critical text), now the committed NT base (`TRANSLATION_POLICY.md` § 2). John 2 has **no significant text-critical variants** affecting the translation, and none of the open glossary terms (*monogenēs*, *amēn amēn*) occur in this chapter, so it is a clean first chapter on the new committed base. Editorial markers in the source (`¶` paragraph marks, `˚` nomina-sacra marks before sacred names) were stripped before translating."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 1,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 1 — \"op die derde dag\".** *tē hēmera tē tritē* — literal \"on the third day\", counting from the events of 1:43ff. Kept literal; the resonance with the resurrection \"third day\" (cf. v.19) is the author's, not to be flattened."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 2,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 2 — *mathētai*.** \"dissipels\" (committed). Consistent throughout (vv.2, 11, 12, 17, 22)."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 4,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"Vrou\" (*gunai*) is 'n beleefde Griekse aanspreekvorm, al klink dit vreemd vir 'n seun teenoor sy moeder."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 4,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 4 — *gunai*.** \"Vrou\" — vocative *gunai* is courteous in Greek (not harsh), but a son addressing his mother as \"Vrou\" is striking in both Greek and Afrikaans, and the strangeness is deliberate in John. Retained literally rather than softened to \"Moeder\"; worth a footnote."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 4,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 4 — *ti emoi kai soi*.** Literally \"what to Me and to you?\" — a Semitic idiom marking distance/disengagement. Rendered \"wat het Ek met u te doen?\" (the standard Afrikaans idiomatic equivalent). Note the polite **\"u\"** for Jesus→Mary throughout, fitting the register."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 4,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 4 — *hē hōra mou*.** \"My uur\" — a loaded Johannine term (the hour of glorification/cross). Kept as the bare \"uur\"; the theological weight is carried by the term itself across the Gospel."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 6,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "'n Metrete is ongeveer 39 liter; twee of drie elk ≈ 75–115 liter per kruik."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 6,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 6 — *metrētēs*.** Per the measurements policy (preserve source units + footnote), rendered \"metrete\" rather than converted to litres (committed at review). **Footnote for print:** a *metrētēs* ≈ 39 litres, so two-or-three each ≈ 75–115 litres per jar (~450–680 litres total)."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 8,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 8 — *architriklinos*.** \"seremoniemeester\" (committed at review) — the master of the feast / head steward who ran the banquet, chosen over \"tafelmeester\"/\"hoofkelner\". Rendered consistently at vv.8, 9."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 10,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 10 — *methysthōsin*.** \"dronk geword het\" (committed at review). The verb's primary sense is \"have become drunk\"; the blunter rendering was chosen over the softer \"volop gedrink het\" to stay faithful to the proverb's literal force. The speaker is describing ordinary banquet practice, not passing moral judgement."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 11,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 11, 23 — *sēmeion*.** \"teken\" (sign), not \"wonder/mirakel\". This preserves John's characteristic theology of *signs* (events that signify who Jesus is). v.11 *archēn tōn sēmeiōn* → \"eerste van die tekens\". Proposed as committed glossary term below. *doxa* → \"heerlikheid\" (committed)."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 13,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 13 — *Pascha*.** \"Pasga\" (the Jewish Passover), deliberately **not** \"Paasfees\", which in Afrikaans usage collides with Easter. Consistent at vv.13, 23. Committed at review as a Gospel-wide convention."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 14,
+            "verse_end": 16,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 14–16 vs 19–21 — *hieron* / *naos*.** John uses **two** temple words and the distinction matters here. *hieron* (the whole temple precincts, where trade happened) at vv.14, 15 and *naos* (the sanctuary proper) at vv.19, 20, 21 are **both** rendered \"tempel\" per the current glossary, because Afrikaans has no natural lexical pair. The wordplay — Jesus speaks of the *naos* as His body — is therefore **flagged for a footnote**. This is exactly the *hieron* 🟡 item in `GLOSSARY.md`; recommend keeping a single \"tempel\" rendering + footnote rather than forcing a distinction like \"tempelgebou/heiligdom\"."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 17,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Die aanhaling is Psalm 69:9; voorlopig uit die Grieks vertaal totdat ons eie Psalm 69 beskikbaar is."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 17,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 17 — OT quotation (Ps 69:9).** \"Die ywer vir u huis sal My verteer.\" **Committed policy** (`TRANSLATION_POLICY.md` § 2 #8 + § 2a): NT quotations of the OT are rendered **to match our own OT translation**. Psalm 69 is not yet translated, so this is rendered **provisionally from the Greek** and entered on the back-harmonisation list in `REVIEW_LOG.md` — to be conformed to our Afrikaans Ps 69:9 once the Psalms are done. Note for that pass: John follows the LXX of Ps 69:9 (future \"sal verteer / *kataphagetai*\") against the MT's \"has consumed\"; preserve our OT wording in the body and footnote the divergence if the difference is material."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 19,
+            "verse_end": 21,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"tempel\": hier *naos* (die heiligdom self), teenoor *hieron* (die hele tempelterrein) in vers 14 — Jesus bedoel sy liggaam."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 22,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 22 — *graphē* / *logos*.** \"Skrif\" and \"woord\". Here *logos* is the ordinary \"statement Jesus made\", **not** the Christological *Logos* of John 1:1 — so lowercase \"woord\", deliberately distinct from the capital-W \"Woord\" reserved for Christ. Noted to prevent false consistency."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 23,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 11, 23 — *sēmeion*.** \"teken\" (sign), not \"wonder/mirakel\". This preserves John's characteristic theology of *signs* (events that signify who Jesus is). v.11 *archēn tōn sēmeiōn* → \"eerste van die tekens\". Proposed as committed glossary term below. *doxa* → \"heerlikheid\" (committed)."
+        },
+        {
+            "book": "John",
+            "chapter": 2,
+            "verse": 23,
+            "verse_end": 24,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 23–24 — *episteusan* / *episteuen* wordplay.** John puns: many \"believed/trusted\" (*episteusan*, v.23) in Him, but Jesus did not \"entrust\" (*episteuen*, v.24) Himself to them — the same verb *pisteuō*. Rendered \"geglo\" (v.23) / \"toevertrou\" (v.24); the pun is partly lost in Afrikaans. Noted; a footnote could flag it."
+        }
+    ]
+}

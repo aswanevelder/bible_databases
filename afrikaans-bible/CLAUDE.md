@@ -182,6 +182,19 @@ Any new terms or refined renderings go into `GLOSSARY.md` immediately. If a deci
 
 Move from `drafts/` to `completed/` only after sign-off from at least one reviewer and glossary update.
 
+### Step 7: Build the database formats
+
+After promotion, regenerate the AOV data formats so the new chapter reaches the database/API:
+
+```bash
+python3 afrikaans-bible/tools/build_aov_source.py   # completed/*.md -> sources/af/AOV/AOV.json (+ footnotes)
+python3 afrikaans-bible/tools/generate_aov.py       # -> formats/*/AOV.*  (incl. additive AOV_footnotes table)
+```
+
+Then commit the refreshed `sources/af/AOV/` and `formats/*/AOV.*`. The editorial markdown stays the
+source of truth; everything under `sources/af/AOV/` and `formats/` is generated — never hand-edit it.
+See `afrikaans-bible/tools/README.md`.
+
 ---
 
 ## Quality control: catching drift

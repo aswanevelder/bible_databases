@@ -118,6 +118,16 @@
 
 ---
 
+## Footnotes
+
+*Leservoetnote (vir publikasie), per vers.*
+
+- 1:5 | "oorweldig" (*katelaben*) kan ook "begryp/aangryp" beteken; die Grieks is dubbelsinnig.
+- 1:14 | "Enigste" vertaal *monogenēs* (uniek, een-van-'n-soort); tradisioneel "eniggebore".
+- 1:18 | Teksvariant: die kritiese teks lees "die Enigste — self God"; die Textus Receptus lees "die eniggebore Seun".
+
+---
+
 ## Translator's notes
 
 **Textual base.** I worked primarily from the Nestle-Aland 28 / UBS5 critical text. Where significant variants exist against the Textus Receptus (which underlies AFR53), I flag them below. **You need a policy on this for a full Bible** — pick one textual tradition and stay with it, or document every variant.

@@ -64,6 +64,17 @@
 
 ---
 
+## Footnotes
+
+*Leservoetnote (vir publikasie), per vers.*
+
+- 2:2 | Die Masoretiese Teks lees "sewende dag"; die Samaritaanse Pentateug, Septuagint en Peshitta lees "sesde dag".
+- 2:6 | Die Hebreeuse woord *'ed* is onseker — "damp", of moontlik "ondergrondse stroom".
+- 2:7 | Woordspel in die Hebreeus: die *mens* (*adam*) word uit die *grond* (*adamah*) gevorm.
+- 2:23 | Woordspel in die Hebreeus: *vrou* (*ishshah*) is uit die *man* (*ish*) geneem.
+
+---
+
 ## Translator's notes
 
 **Divine name — first use of YHWH.** Genesis 1 used only *Elohim* ("God"). From 2:4 onward the

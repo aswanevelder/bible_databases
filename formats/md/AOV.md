@@ -1,0 +1,278 @@
+# Afrikaanse Oorspronklike Vertaling (AOV)
+
+## Genesis
+
+### Chapter 1
+
+**[1:1]** In die begin het God die hemel en die aarde geskep.
+
+**[1:2]** En die aarde was woes en leeg, en duisternis was op die oppervlak van die diepwater, en die Gees van God het oor die oppervlak van die waters gesweef.
+
+**[1:3]** En God het gesê: "Laat daar lig wees." En daar was lig.
+
+**[1:4]** En God het die lig gesien dat dit goed was, en God het skeiding gemaak tussen die lig en die duisternis.
+
+**[1:5]** En God het die lig "dag" genoem, en die duisternis het Hy "nag" genoem. En dit was aand, en dit was môre — die eerste dag.
+
+**[1:6]** En God het gesê: "Laat daar 'n uitspansel wees in die midde van die waters, en laat dit skeiding maak tussen waters en waters."
+
+**[1:7]** En God het die uitspansel gemaak en die waters wat onder die uitspansel was, geskei van die waters wat bo die uitspansel was. En dit was so.
+
+**[1:8]** En God het die uitspansel "hemel" genoem. En dit was aand, en dit was môre — die tweede dag.
+
+**[1:9]** En God het gesê: "Laat die waters onder die hemel op een plek bymekaarkom, en laat die droë grond verskyn." En dit was so.
+
+**[1:10]** En God het die droë grond "aarde" genoem, en die versameling van die waters het Hy "seë" genoem. En God het gesien dat dit goed was.
+
+**[1:11]** En God het gesê: "Laat die aarde groen plantegroei voortbring — sade-draende gewasse, en vrugtebome wat vrugte dra volgens hulle soort, met hulle saad daarin, op die aarde." En dit was so.
+
+**[1:12]** En die aarde het groen plantegroei voortgebring, sade-draende gewasse volgens hulle soort, en bome wat vrugte dra met hulle saad daarin volgens hulle soort. En God het gesien dat dit goed was.
+
+**[1:13]** En dit was aand, en dit was môre — die derde dag.
+
+**[1:14]** En God het gesê: "Laat daar ligte wees in die uitspansel van die hemel om skeiding te maak tussen die dag en die nag; en laat hulle dien as tekens en vir vaste tye, en vir dae en jare.
+
+**[1:15]** En laat hulle dien as ligte in die uitspansel van die hemel om lig te gee op die aarde." En dit was so.
+
+**[1:16]** En God het die twee groot ligte gemaak — die groter lig om oor die dag te heers, en die kleiner lig om oor die nag te heers — en ook die sterre.
+
+**[1:17]** En God het hulle in die uitspansel van die hemel geplaas om lig te gee op die aarde,
+
+**[1:18]** en om te heers oor die dag en oor die nag, en om skeiding te maak tussen die lig en die duisternis. En God het gesien dat dit goed was.
+
+**[1:19]** En dit was aand, en dit was môre — die vierde dag.
+
+**[1:20]** En God het gesê: "Laat die waters wemel met 'n gewemel van lewende wesens, en laat voëls oor die aarde vlieg, voor die uitspansel van die hemel."
+
+**[1:21]** En God het die groot seediere geskep, en al die lewende wesens wat beweeg, waarvan die waters gewemel het, volgens hulle soort, en elke gevleuelde voël volgens sy soort. En God het gesien dat dit goed was.
+
+**[1:22]** En God het hulle geseën en gesê: "Wees vrugbaar en vermeerder, en vul die waters in die seë; en laat die voëls vermeerder op die aarde."
+
+**[1:23]** En dit was aand, en dit was môre — die vyfde dag.
+
+**[1:24]** En God het gesê: "Laat die aarde lewende wesens voortbring volgens hulle soort — vee en kruipende dinge en wilde diere van die aarde volgens hulle soort." En dit was so.
+
+**[1:25]** En God het die wilde diere van die aarde gemaak volgens hulle soort, en die vee volgens hulle soort, en alles wat op die grond kruip volgens sy soort. En God het gesien dat dit goed was.
+
+**[1:26]** En God het gesê: "Laat Ons mense maak na ons beeld, na ons gelykenis; en laat hulle heers oor die visse van die see en oor die voëls van die hemel en oor die vee en oor die hele aarde en oor al die kruipende dinge wat op die aarde kruip."
+
+**[1:27]** En God het die mens na sy beeld geskep; na die beeld van God het Hy hom geskep; manlik en vroulik het Hy hulle geskep.
+
+**[1:28]** En God het hulle geseën, en God het vir hulle gesê: "Wees vrugbaar en vermeerder, en vul die aarde, en onderwerp dit; en heers oor die visse van die see en oor die voëls van die hemel en oor elke lewende ding wat op die aarde beweeg."
+
+**[1:29]** En God het gesê: "Kyk, Ek gee aan julle elke sade-draende gewas wat op die oppervlak van die hele aarde is, en elke boom waaraan boomvrugte met saad in is — vir julle sal dit voedsel wees.
+
+**[1:30]** En aan elke wilde dier van die aarde en aan elke voël van die hemel en aan alles wat op die aarde kruip, waarin 'n lewende asem is, gee Ek elke groen plant as voedsel." En dit was so.
+
+**[1:31]** En God het alles gesien wat Hy gemaak het, en kyk, dit was baie goed. En dit was aand, en dit was môre — die sesde dag.
+
+### Chapter 2
+
+**[2:1]** So is die hemel en die aarde voltooi, en hulle hele leërskare.
+
+**[2:2]** En God het op die sewende dag sy werk wat Hy gedoen het, voltooi; en op die sewende dag het Hy gerus van al sy werk wat Hy gedoen het.
+
+**[2:3]** En God het die sewende dag geseën en dit geheilig, omdat Hy daarop gerus het van al sy werk wat God geskep het deur dit te maak.
+
+**[2:4]** Dit is die wordingsgeskiedenis van die hemel en die aarde toe hulle geskep is — op die dag toe die HERE God die aarde en die hemel gemaak het.
+
+**[2:5]** Daar was nog geen struik van die veld op die aarde nie, en geen plant van die veld het nog uitgespruit nie; want die HERE God het nog nie laat reën op die aarde nie, en daar was geen mens om die grond te bewerk nie.
+
+**[2:6]** Maar 'n damp het uit die aarde opgestyg en die hele oppervlak van die grond besproei.
+
+**[2:7]** Toe het die HERE God die mens geformeer uit stof van die grond, en in sy neusgate die asem van die lewe geblaas; en die mens het 'n lewende wese geword.
+
+**[2:8]** En die HERE God het 'n tuin in Eden, in die ooste, geplant, en daar die mens geplaas wat Hy geformeer het.
+
+**[2:9]** En die HERE God het uit die grond allerhande bome laat uitspruit, begeerlik om te sien en goed om van te eet; ook die boom van die lewe in die middel van die tuin, en die boom van die kennis van goed en kwaad.
+
+**[2:10]** En daar het 'n rivier uit Eden gevloei om die tuin te besproei, en daarvandaan is dit verdeel en het vier hoofstrome geword.
+
+**[2:11]** Die naam van die eerste is Pison; dit is die een wat om die hele land Havila stroom, waar die goud is —
+
+**[2:12]** en die goud van daardie land is goed; daar is ook die balsemhars en die onikssteen.
+
+**[2:13]** En die naam van die tweede rivier is Gihon; dit is die een wat om die hele land Kus stroom.
+
+**[2:14]** En die naam van die derde rivier is die Tigris; dit is die een wat oos van Assirië loop. En die vierde rivier is die Eufraat.
+
+**[2:15]** En die HERE God het die mens geneem en hom in die tuin van Eden gestel om dit te bewerk en te bewaar.
+
+**[2:16]** En die HERE God het die mens beveel en gesê: "Van al die bome van die tuin mag jy vrylik eet;
+
+**[2:17]** maar van die boom van die kennis van goed en kwaad, daarvan mag jy nie eet nie, want die dag as jy daarvan eet, sal jy sekerlik sterwe."
+
+**[2:18]** En die HERE God het gesê: "Dit is nie goed dat die mens alleen is nie; Ek sal vir hom 'n helper maak wat by hom pas."
+
+**[2:19]** En die HERE God het uit die grond al die wilde diere van die veld en al die voëls van die hemel geformeer, en hulle na die mens gebring om te sien hoe hy hulle sou noem; en net soos die mens elke lewende wese genoem het, so was sy naam.
+
+**[2:20]** En die mens het name gegee aan al die vee en aan die voëls van die hemel en aan al die wilde diere van die veld; maar vir die mens het hy geen helper gevind wat by hom pas nie.
+
+**[2:21]** Toe het die HERE God 'n diep slaap op die mens laat val, en hy het geslaap; en Hy het een van sy ribbes geneem en die plek daarvan met vlees toegemaak.
+
+**[2:22]** En die HERE God het die rib wat Hy van die mens geneem het, tot 'n vrou gebou, en haar na die mens gebring.
+
+**[2:23]** Toe sê die mens: "Hierdie keer is dit been van my gebeente en vlees van my vlees; sy sal 'vrou' genoem word, want sy is uit die man geneem."
+
+**[2:24]** Daarom sal 'n man sy vader en sy moeder verlaat en sy vrou aankleef, en hulle sal een vlees wees.
+
+**[2:25]** En hulle was altwee naak, die mens en sy vrou, en hulle was nie skaam voor mekaar nie.
+
+## John
+
+### Chapter 1
+
+**[1:1]** In die begin was die Woord, en die Woord was by God, en die Woord was God.
+
+**[1:2]** Hy was in die begin by God.
+
+**[1:3]** Alle dinge het deur Hom ontstaan, en sonder Hom het nie een ding ontstaan wat ontstaan het nie.
+
+**[1:4]** In Hom was lewe, en die lewe was die lig van die mense.
+
+**[1:5]** En die lig skyn in die duisternis, en die duisternis het dit nie oorweldig nie.
+
+**[1:6]** Daar het 'n mens gekom, gestuur van God; sy naam was Johannes.
+
+**[1:7]** Hy het tot getuienis gekom, om te getuig oor die Lig, sodat almal deur hom sou glo.
+
+**[1:8]** Hy was nie self die Lig nie, maar het gekom om te getuig oor die Lig.
+
+**[1:9]** Die ware Lig, wat elke mens verlig, was besig om in die wêreld te kom.
+
+**[1:10]** Hy was in die wêreld, en die wêreld het deur Hom ontstaan, en die wêreld het Hom nie geken nie.
+
+**[1:11]** Hy het na sy eie gekom, en sy eie mense het Hom nie ontvang nie.
+
+**[1:12]** Maar aan almal wat Hom wel ontvang het, het Hy die reg gegee om kinders van God te word — aan hulle wat in sy Naam glo —
+
+**[1:13]** wat nie uit bloed nie, en ook nie uit die wil van die vlees nie, en ook nie uit die wil van 'n man nie, maar uit God gebore is.
+
+**[1:14]** En die Woord het vlees geword en onder ons kom woon — en ons het sy heerlikheid aanskou, 'n heerlikheid soos van die Enigste van die Vader — vol van genade en waarheid.
+
+**[1:15]** Johannes getuig oor Hom en het uitgeroep: "Hierdie is Hy van wie ek gesê het: 'Hy wat ná my kom, het vóór my geword, want Hy was eerder as ek.'"
+
+**[1:16]** Want uit sy volheid het ons almal ontvang, en wel genade op genade.
+
+**[1:17]** Want die wet is deur Moses gegee; die genade en die waarheid het deur Jesus Christus gekom.
+
+**[1:18]** Niemand het ooit God gesien nie; die Enigste — self God — wat aan die boesem van die Vader is, Hý het Hom bekendgemaak.
+
+**[1:19]** En dit is die getuienis van Johannes toe die Jode priesters en Leviete uit Jerusalem na hom gestuur het om hom te vra: "Wie is jy?"
+
+**[1:20]** En hy het bely en nie ontken nie, en bely: "Ek is nie die Christus nie."
+
+**[1:21]** Toe vra hulle hom: "Wat dan? Is jy Elia?" En hy sê: "Ek is nie." "Is jy die Profeet?" En hy het geantwoord: "Nee."
+
+**[1:22]** Toe sê hulle vir hom: "Wie is jy dan? Sodat ons 'n antwoord kan gee aan dié wat ons gestuur het. Wat sê jy van jouself?"
+
+**[1:23]** Hy het gesê: "Ek is 'n stem van een wat in die woestyn uitroep: 'Maak die pad van die Here reguit,' soos die profeet Jesaja gesê het."
+
+**[1:24]** En dié wat gestuur is, was uit die Fariseërs.
+
+**[1:25]** En hulle het hom gevra en vir hom gesê: "Waarom doop jy dan, as jy nie die Christus is nie, en ook nie Elia of die Profeet nie?"
+
+**[1:26]** Johannes het hulle geantwoord en gesê: "Ek doop met water; tussen julle staan Een wat julle nie ken nie —
+
+**[1:27]** Hy wat ná my kom, van wie ek nie waardig is om die skoenriem los te maak nie."
+
+**[1:28]** Hierdie dinge het in Betanië plaasgevind, oorkant die Jordaan, waar Johannes besig was om te doop.
+
+**[1:29]** Die volgende dag sien hy Jesus na hom toe kom en sê: "Kyk, die Lam van God wat die sonde van die wêreld wegneem!
+
+**[1:30]** Hy is dit oor wie ek gesê het: 'Ná my kom 'n man wat vóór my geword het, want Hy was eerder as ek.'
+
+**[1:31]** En self het ek Hom nie geken nie; maar sodat Hy aan Israel openbaar sou word, daarom het ek gekom om met water te doop."
+
+**[1:32]** En Johannes het getuig en gesê: "Ek het die Gees uit die hemel sien neerdaal soos 'n duif, en Hy het op Hom gebly.
+
+**[1:33]** En self het ek Hom nie geken nie, maar Hy wat my gestuur het om met water te doop, Hý het vir my gesê: 'Op wie jy die Gees sien neerdaal en bly, Hy is dit wat met die Heilige Gees doop.'
+
+**[1:34]** En ek het gesien en getuig dat Hy die Seun van God is."
+
+**[1:35]** Die volgende dag het Johannes weer daar gestaan, en twee van sy dissipels saam met hom,
+
+**[1:36]** en toe hy Jesus sien wandel, sê hy: "Kyk, die Lam van God!"
+
+**[1:37]** En die twee dissipels het hom dit hoor sê en het Jesus gevolg.
+
+**[1:38]** En Jesus het omgedraai en hulle sien volg, en sê vir hulle: "Wat soek julle?" En hulle sê vir Hom: "Rabbi" — wat in vertaling Leermeester beteken — "waar bly U?"
+
+**[1:39]** Hy sê vir hulle: "Kom en sien." Hulle het toe gegaan en gesien waar Hy bly, en het daardie dag by Hom gebly. Dit was omtrent die tiende uur.
+
+**[1:40]** Een van die twee wat Johannes gehoor het en Hom gevolg het, was Andreas, die broer van Simon Petrus.
+
+**[1:41]** Hy het eers sy eie broer Simon gevind en vir hom gesê: "Ons het die Messias gevind" — wat in vertaling Christus beteken.
+
+**[1:42]** Hy het hom na Jesus gebring. Jesus het hom aangekyk en gesê: "Jy is Simon, die seun van Johannes; jy sal Kefas genoem word" — wat in vertaling Petrus beteken.
+
+**[1:43]** Die volgende dag wou Hy na Galilea uitgaan, en Hy het Filippus gevind. En Jesus sê vir hom: "Volg My!"
+
+**[1:44]** Filippus was van Betsaida, uit die stad van Andreas en Petrus.
+
+**[1:45]** Filippus het Natanael gevind en vir hom gesê: "Ons het Hom gevind oor wie Moses in die wet en die profete geskryf het — Jesus, die seun van Josef, van Nasaret."
+
+**[1:46]** En Natanael het vir hom gesê: "Kan daar iets goeds uit Nasaret kom?" Filippus sê vir hom: "Kom kyk."
+
+**[1:47]** Jesus het Natanael na Hom toe sien kom en oor hom gesê: "Kyk, hier is werklik 'n Israeliet in wie daar geen bedrog is nie!"
+
+**[1:48]** Natanael sê vir Hom: "Waarvandaan ken U my?" Jesus het geantwoord en vir hom gesê: "Voordat Filippus jou geroep het, toe jy onder die vyeboom was, het Ek jou gesien."
+
+**[1:49]** Natanael het Hom geantwoord: "Rabbi, U is die Seun van God; U is die Koning van Israel!"
+
+**[1:50]** Jesus het geantwoord en vir hom gesê: "Glo jy omdat Ek vir jou gesê het: 'Ek het jou onder die vyeboom gesien'? Jy sal groter dinge as hierdie sien."
+
+**[1:51]** En Hy sê vir hom: "Voorwaar, voorwaar, Ek sê vir julle, julle sal die hemel geopen sien en die engele van God opklim en neerdaal op die Seun van die mens."
+
+### Chapter 2
+
+**[2:1]** En op die derde dag was daar 'n bruilof in Kana van Galilea, en die moeder van Jesus was daar.
+
+**[2:2]** En Jesus en sy dissipels is ook na die bruilof genooi.
+
+**[2:3]** En toe die wyn opraak, sê die moeder van Jesus vir Hom: "Hulle het nie wyn nie."
+
+**[2:4]** En Jesus sê vir haar: "Vrou, wat het Ek met u te doen? My uur het nog nie gekom nie."
+
+**[2:5]** Sy moeder sê vir die bediendes: "Wat Hy ook al vir julle sê, doen dit."
+
+**[2:6]** En daar het ses klipwaterkruike gestaan, soos die reinigingsgebruik van die Jode vereis, elk met 'n inhoud van twee of drie metrete.
+
+**[2:7]** Jesus sê vir hulle: "Maak die kruike vol water." En hulle het hulle tot bo toe volgemaak.
+
+**[2:8]** En Hy sê vir hulle: "Skep nou uit en bring dit vir die seremoniemeester." En hulle het dit gebring.
+
+**[2:9]** En toe die seremoniemeester die water proe wat wyn geword het — en hy het nie geweet waarvandaan dit was nie, maar die bediendes wat die water geskep het, het geweet — roep die seremoniemeester die bruidegom
+
+**[2:10]** en sê vir hom: "Elke mens sit eers die goeie wyn voor, en wanneer die mense dronk geword het, dan die mindere; maar jy het die goeie wyn tot nou toe bewaar."
+
+**[2:11]** Hierdie eerste van die tekens het Jesus in Kana van Galilea gedoen, en Hy het sy heerlikheid geopenbaar; en sy dissipels het in Hom geglo.
+
+**[2:12]** Daarna het Hy na Kapernaum afgegaan, Hy en sy moeder en sy broers en sy dissipels, en hulle het daar 'n paar dae gebly.
+
+**[2:13]** En die Pasga van die Jode was naby, en Jesus het na Jerusalem opgegaan.
+
+**[2:14]** En in die tempel het Hy die mense gevind wat beeste en skape en duiwe verkoop, en die geldwisselaars wat daar sit.
+
+**[2:15]** En Hy het 'n sweep van toue gemaak en almal uit die tempel uitgedryf, met die skape en die beeste; en die geld van die wisselaars het Hy uitgegooi en die tafels omgekeer.
+
+**[2:16]** En vir die mense wat die duiwe verkoop, het Hy gesê: "Vat hierdie dinge hier weg; moenie die huis van my Vader 'n handelshuis maak nie."
+
+**[2:17]** Sy dissipels het onthou dat daar geskrywe staan: "Die ywer vir u huis sal My verteer."
+
+**[2:18]** Toe antwoord die Jode en sê vir Hom: "Watter teken toon U aan ons, dat U hierdie dinge doen?"
+
+**[2:19]** Jesus antwoord en sê vir hulle: "Breek hierdie tempel af, en in drie dae sal Ek dit oprig."
+
+**[2:20]** Toe sê die Jode: "Ses-en-veertig jaar lank is aan hierdie tempel gebou, en U sal dit in drie dae oprig?"
+
+**[2:21]** Maar Hy het oor die tempel van sy liggaam gepraat.
+
+**[2:22]** Toe Hy dan uit die dode opgewek is, het sy dissipels onthou dat Hy dit gesê het; en hulle het die Skrif geglo en die woord wat Jesus gespreek het.
+
+**[2:23]** En terwyl Hy in Jerusalem was op die Pasga, tydens die fees, het baie in sy Naam geglo toe hulle die tekens sien wat Hy gedoen het.
+
+**[2:24]** Maar Jesus self het Hom nie aan hulle toevertrou nie, omdat Hy almal geken het,
+
+**[2:25]** en omdat Hy nie nodig gehad het dat iemand oor die mens getuig nie, want Hy self het geweet wat in die mens is.
+

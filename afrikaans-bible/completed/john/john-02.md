@@ -62,6 +62,17 @@
 
 ---
 
+## Footnotes
+
+*Leservoetnote (vir publikasie), per vers.*
+
+- 2:4 | "Vrou" (*gunai*) is 'n beleefde Griekse aanspreekvorm, al klink dit vreemd vir 'n seun teenoor sy moeder.
+- 2:6 | 'n Metrete is ongeveer 39 liter; twee of drie elk ≈ 75–115 liter per kruik.
+- 2:17 | Die aanhaling is Psalm 69:9; voorlopig uit die Grieks vertaal totdat ons eie Psalm 69 beskikbaar is.
+- 2:19-21 | "tempel": hier *naos* (die heiligdom self), teenoor *hieron* (die hele tempelterrein) in vers 14 — Jesus bedoel sy liggaam.
+
+---
+
 ## Translator's notes
 
 **Textual base.** StatResGNT (critical text), now the committed NT base

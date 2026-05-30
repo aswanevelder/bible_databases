@@ -68,6 +68,16 @@
 
 ---
 
+## Footnotes
+
+*Leservoetnote (vir publikasie), per vers.*
+
+- 1:1 | Of: "Toe God begin skep het die hemel en die aarde …" — die Hebreeuse sintaksis laat albei lesings toe.
+- 1:2 | "diepwater" vertaal die Hebreeuse *tehom* (die oer-dieptes).
+- 1:26 | "Ons" — die meervoud van die Hebreeus word behou sonder om die betekenis hier vas te lê.
+
+---
+
 ## Translator's notes (read this before judging quality)
 
 These are decisions I made and places where I might be wrong. A real translation committee would document hundreds of these.
