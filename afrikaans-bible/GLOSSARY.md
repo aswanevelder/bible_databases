@@ -80,6 +80,12 @@
 | אֵיבָה | eivah | **vyandskap** | ✅ | Committed 2026-05-30 (Gen 3:15). |
 | תְּשׁוּקָה | teshuqah | **begeerte** | ✅ | Committed 2026-05-30 (Gen 3:16); recurs 4:7 — keep consistent. |
 | אָרַר / אָרוּר | arar / arur | **vervloek** | ✅ | Committed 2026-05-30 (Gen 3:14, 17); distinct from *qelalah* (vloek, noun). |
+| בְּנֵי הָאֱלֹהִים | bnei ha-Elohim | **seuns van God** | ✅ | **Standing convention (committed 2026-05-31).** Rendered literally, leaving the interpretation open (heavenly beings / Sethite line / rulers) — footnoted at occurrence. Applies Bible-wide: Gen 6:2, 4; **Job 1:6, 2:1, 38:7**. Only the literal rendering is consistent across all occurrences (in Job they are clearly heavenly beings). |
+| צַדִּיק | tsaddiq | **regverdig** | ✅ | Committed 2026-05-31 (Gen 6:9); righteous (adj.); cf. *tsedaqah* → geregtigheid |
+| תָּמִים | tamim | **opreg** | ✅ | Committed 2026-05-31 (Gen 6:9); blameless/complete |
+| חָמָס | chamas | **geweld** | ✅ | Committed 2026-05-31 (Gen 6:11, 13); violence |
+| שָׁחַת | shachat | **verderf** / **verdorwe** | ✅ | Committed 2026-05-31 (Gen 6:11–13, 17); corrupt / destroy |
+| יֵצֶר | yetzer | **versinsel** / **neiging** | ✅ | Committed 2026-05-31 (Gen 6:5); inclination/formation of the heart |
 
 ---
 
@@ -158,6 +164,11 @@
 | כָּבַשׁ | kavash | **onderwerp** | ✅ | Committed 2026-05-31 (Gen 1:28); subdue. Distinct from *radah* (heers) |
 | רָדָה | radah | **heers** | ✅ | Committed 2026-05-31 (Gen 1:26, 28); rule / have dominion. Distinct from *kavash* (onderwerp) |
 | דֶּשֶׁא / עֵשֶׂב / עֵץ פְּרִי | deshe / esev / etz peri | **groen plantegroei** / **saadgewende plante** / **vrugtebome** | ✅ | Committed 2026-05-31 (Gen 1:11–12); preserve the three botanical categories |
+| גִּבּוֹרִים | gibborim | **helde** | ✅ | Committed 2026-05-31 (Gen 6:4); mighty warriors |
+| תֵּבָה | tevah | **ark** | ✅ | Committed 2026-05-31 (Gen 6:14); Noah's ark (also Moses' basket, Ex 2) |
+| גֹּפֶר | gofer | **goferhout** | ✅ | Committed 2026-05-31 (Gen 6:14); unidentified wood |
+| כֹּפֶר | kofer | **pik** | ✅ | Committed 2026-05-31 (Gen 6:14); pitch |
+| מַבּוּל | mabbul | **watervloed** | ✅ | Committed 2026-05-31 (Gen 6:17); the Flood (technical term) |
 
 ---
 

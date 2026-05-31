@@ -91,6 +91,7 @@ grandfather of Noah. Distinct from Metúsael (Gen 4:18, Cainite line). Footnote 
 | שֵׁם | Shem | **Sem** | ✅ | Gen 5:32 |
 | חָם | Cham | **Gam** | ✅ | Gen 5:32 |
 | יֶפֶת | Yefet | **Jafet** | ✅ | Gen 5:32 |
+| נְפִילִים | Nefilim | **Nefilim** | ✅ | Gen 6:4 (group name); transliterated. From a root meaning "fall"; the giants/mighty men of old |
 
 ## Genesis — places
 
