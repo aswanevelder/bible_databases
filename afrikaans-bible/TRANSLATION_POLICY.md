@@ -115,6 +115,24 @@ it establishes the `HERE` / `HERE God` rendering in practice.
 
 ---
 
+## 4a. Document every decision — nothing hidden (COMMITTED 2026-05-31)
+
+Every non-trivial translation decision must be **visible**, never silent. Each chapter carries a
+two-tier record:
+
+- **`## Footnotes`** — reader-facing notes (for publication): wordplay, units, textual variants,
+  key term choices, ambiguities a reader should know. Keyed by verse (`C:V | …`).
+- **`## Translator's notes`** — the full apparatus: every term choice, every departure from the
+  literal, every place the source is ambiguous, every echo/keyword decision, every variant.
+
+If a choice was made — a rendering picked over a real alternative, a pun lost, a word rendered
+context-dependently, a name distinguished or matched — it is written down in one or both. Both tiers
+flow into the database (the reader footnotes and translator notes become the `AOV_footnotes` table),
+so the reasoning ships with the text. A chapter that hides a decision is incomplete and must not be
+promoted (cf. `CLAUDE.md` anti-pattern #3).
+
+---
+
 ## 5. Measurements and numbers (RECOMMENDED — pending team confirmation)
 
 **Preserve source units and footnote** (e.g. *amah* → "el", *shekel* → "sikkel"), rather

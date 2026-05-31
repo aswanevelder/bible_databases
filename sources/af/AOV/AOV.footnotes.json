@@ -8,7 +8,7 @@
             "verse_end": null,
             "type": "translator",
             "marker": null,
-            "text": "**Divine name.** Genesis 1 uses *Elohim* throughout (not YHWH), which I rendered \"God.\" If you ever extend to Genesis 2+ where YHWH appears, you need a policy: HERE (AFR53 style), die HERE, Jahwe, Jehova, etc. This is a major translation decision."
+            "text": "**Divine name.** Genesis 1 uses *Elohim* throughout → **God**. (YHWH first appears in Genesis 2.)"
         },
         {
             "book": "Genesis",
@@ -17,7 +17,7 @@
             "verse_end": null,
             "type": "reader",
             "marker": "a",
-            "text": "Of: \"Toe God begin skep het die hemel en die aarde …\" — die Hebreeuse sintaksis laat albei lesings toe."
+            "text": "\"In die begin het God geskep\" — of \"Toe God begin skep het…\": die Hebreeuse sintaksis (*bereshit bara*) laat albei lesings toe. *bara* (\"skep\") word net van God gebruik, anders as *asah* (\"maak\", v.7, 16, 25, 31)."
         },
         {
             "book": "Genesis",
@@ -26,7 +26,7 @@
             "verse_end": null,
             "type": "translator",
             "marker": null,
-            "text": "**Verse 1 — *bereshit bara Elohim*.** I went with \"In die begin het God... geskep\" (matches AFR53 tradition). A defensible alternative is \"Toe God begin het om die hemel en die aarde te skep\" — there's a real Hebrew grammatical argument for the latter."
+            "text": "**Verse 1 — *bereshit bara Elohim*.** \"In die begin het God … geskep.\" A defensible alternative reads v.1 as a temporal clause (\"Toe God begin skep het, was die aarde woes en leeg…\"); the traditional independent-clause rendering is retained and the alternative footnoted. *bara* → \"skep\" (committed, used only of God); kept distinct from *asah* → \"maak\" (vv.7, 16, 25, 31) and *yatsar* (Gen 2)."
         },
         {
             "book": "Genesis",
@@ -35,7 +35,7 @@
             "verse_end": null,
             "type": "reader",
             "marker": "a",
-            "text": "\"diepwater\" vertaal die Hebreeuse *tehom* (die oer-dieptes)."
+            "text": "\"woes en leeg\" (*tohu wabohu*); \"diepwater\" (*tehom*, die oer-watermassa). \"die Gees van God\" (*ruach Elohim*) — *ruach* kan ook \"wind\" of \"asem\" wees; hier van God, dus \"Gees\"."
         },
         {
             "book": "Genesis",
@@ -44,34 +44,43 @@
             "verse_end": null,
             "type": "translator",
             "marker": null,
-            "text": "**Verse 2 — *tohu wa-bohu*.** \"Woes en leeg\" is the AFR53/AFR83 convention. More literal would be \"ongevormd en leeg\" or \"chaos en leegte.\""
+            "text": "**Verse 2 — *tohu wabohu* / *tehom* / *ruach*.** \"woes en leeg\" / \"diepwater\" / \"Gees van God\" — all committed renderings. *ruach* here is rendered \"Gees\" (of God) per the glossary context rule (not \"wind/asem\", which apply to *ruach* of creation)."
         },
         {
             "book": "Genesis",
             "chapter": 1,
-            "verse": 2,
+            "verse": 5,
             "verse_end": null,
-            "type": "translator",
-            "marker": null,
-            "text": "**Verse 2 — *ruach Elohim*.** I rendered \"Gees van God.\" This could also be \"wind van God\" or \"magtige wind\" (some modern translations). The Hebrew is genuinely ambiguous."
+            "type": "reader",
+            "marker": "a",
+            "text": "Die Hebreeus tel \"dag een\" (*yom echad*, 'n hooftelwoord), daarna \"'n tweede … 'n vyfde dag\" (sonder lidwoord), en \"die sesde dag\" (met lidwoord, v.31) — 'n bewuste patroon wat na die sewende dag (2:2–3) toe bou."
         },
         {
             "book": "Genesis",
             "chapter": 1,
-            "verse": 2,
+            "verse": 5,
             "verse_end": null,
             "type": "translator",
             "marker": null,
-            "text": "**Verse 2 — *tehom*.** \"Diepwater\" — could be \"die dieptes\" or \"die oerwater.\" AFR53 uses \"die wêreldvloed.\""
+            "text": "**Verse 5 — *yom echad* and the day-numbering.** Rendered **\"dag een\"** (cardinal \"one\", as the Hebrew has it), with the following days \"'n tweede … 'n vyfde dag\" (anarthrous ordinals) and \"**die** sesde dag\" (v.31, with the article). The Hebrew deliberately shifts from cardinal to ordinals and adds the article only at the sixth (and seventh, 2:2). This is **more literal than the imported text's \"die eerste dag\"** and follows the fidelity-over-smoothness policy. **Confirmed at review:** keep \"dag een\" (and the anarthrous ordinals for days 2–5, \"die\" only at the sixth)."
         },
         {
             "book": "Genesis",
             "chapter": 1,
             "verse": 6,
-            "verse_end": 8,
-            "type": "translator",
-            "marker": null,
-            "text": "**Verses 6–8 — *raqia*.** \"Uitspansel\" follows tradition. The Hebrew literally means \"beaten-out thing / dome.\" Modern translations sometimes use \"gewelf\" (vault)."
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"uitspansel\" (*raqia*) — letterlik 'n uitgeslane gewelf/koepel; die tradisionele weergawe word behou."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 11,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Die Hebreeus onderskei drie soorte plantegroei: *deshe* (groen plantegroei), *esev* (saadgewende plante) en *etz peri* (vrugtebome); die onderskeid word behou."
         },
         {
             "book": "Genesis",
@@ -80,7 +89,34 @@
             "verse_end": 12,
             "type": "translator",
             "marker": null,
-            "text": "**Verses 11–12 — botanical terms.** Hebrew distinguishes *deshe* (grass/vegetation), *eseb* (seed-bearing plants), and *etz pri* (fruit trees). I collapsed some of this; a careful translation would preserve the categories."
+            "text": "**Verses 11–12 — botanical categories.** The imported text collapsed these; here the three Hebrew categories are preserved — *deshe* (\"groen plantegroei\"), *esev mazria zera* (\"saadgewende plante\"), *etz peri* (\"vrugtebome\"). Footnoted."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 16,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"die twee groot ligte\" — die son en maan word nie by die naam genoem nie, moontlik doelbewus (teen hemelliggaam-aanbidding)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 20,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 20, 21, 24, 30 — *nephesh chayyah* (drift fixed).** The imported text drifted (\"lewende wesens\" in v.20 vs \"lewende asem\" in v.30). Now per the committed *nephesh* context rule: the creatures are \"lewende wese(ns)\" (vv.20, 21, 24), and the same phrase in v.30 (the life *within* the animals) is \"waarin daar lewe is\" (the \"lewe\" sense). The choice is documented, not silent — this is the within-chapter consistency the project flagged as the #1 risk."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 21,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"groot seediere\" (*tanninim*) — die woord beteken \"see-monsters / groot seediere\"."
         },
         {
             "book": "Genesis",
@@ -89,7 +125,25 @@
             "verse_end": null,
             "type": "translator",
             "marker": null,
-            "text": "**Verse 21 — *tanninim*.** \"Seediere\" is mild. The word means \"sea monsters / great sea creatures\" — AFR53 uses \"groot seediere,\" modern translations sometimes \"see-ongediertes.\""
+            "text": "**Verses 20, 21, 24, 30 — *nephesh chayyah* (drift fixed).** The imported text drifted (\"lewende wesens\" in v.20 vs \"lewende asem\" in v.30). Now per the committed *nephesh* context rule: the creatures are \"lewende wese(ns)\" (vv.20, 21, 24), and the same phrase in v.30 (the life *within* the animals) is \"waarin daar lewe is\" (the \"lewe\" sense). The choice is documented, not silent — this is the within-chapter consistency the project flagged as the #1 risk."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 21,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 21 — *tanninim*.** \"groot seediere\" (sea monsters / great sea creatures); *bara* (\"geskep\") used again, marking these as a special divine creation."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 24,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 20, 21, 24, 30 — *nephesh chayyah* (drift fixed).** The imported text drifted (\"lewende wesens\" in v.20 vs \"lewende asem\" in v.30). Now per the committed *nephesh* context rule: the creatures are \"lewende wese(ns)\" (vv.20, 21, 24), and the same phrase in v.30 (the life *within* the animals) is \"waarin daar lewe is\" (the \"lewe\" sense). The choice is documented, not silent — this is the within-chapter consistency the project flagged as the #1 risk."
         },
         {
             "book": "Genesis",
@@ -98,34 +152,34 @@
             "verse_end": null,
             "type": "reader",
             "marker": "a",
-            "text": "\"Ons\" — die meervoud van die Hebreeus word behou sonder om die betekenis hier vas te lê."
+            "text": "\"Laat Ons … maak\" — die Hebreeuse meervoud (\"Ons\", *na'aseh … betsalmenu*) word behou sonder om die betekenis (Drie-eenheid? hemelse raad? majesteitsmeervoud?) vas te lê."
         },
         {
             "book": "Genesis",
             "chapter": 1,
             "verse": 26,
-            "verse_end": null,
-            "type": "translator",
-            "marker": null,
-            "text": "**Verse 26 — *na'aseh adam*.** \"Laat Ons mense maak\" — the plural \"Ons\" is preserved (theological loading: Trinity? royal plural? divine council?). I left it ambiguous as the Hebrew does."
+            "verse_end": 27,
+            "type": "reader",
+            "marker": "b",
+            "text": "\"die mens\" (*adam*) staan hier vir die mensdom, manlik en vroulik (v.27) — nie die eienaam Adam nie (vgl. 5:1–2; die eienaam begin in 4:25)."
         },
         {
             "book": "Genesis",
             "chapter": 1,
             "verse": 26,
-            "verse_end": null,
+            "verse_end": 27,
             "type": "translator",
             "marker": null,
-            "text": "**Verse 26 — *tselem* / *demut*.** \"Beeld\" / \"gelykenis.\" Standard renderings; no controversy."
+            "text": "**Verses 26–27 — *adam* (generic), *tselem* / *demut*, the plural \"Ons\".** *adam* is mankind here → \"die mens\" (collective; \"laat **hulle** heers\" mirrors the Hebrew's singular-noun/plural-verb). \"beeld\"/\"gelykenis\" (*tselem*/*demut*, committed; the basis for the 5:3 echo). The first-person plural (\"Ons\", *na'aseh*) is preserved ambiguously, as the Hebrew leaves it; footnoted."
         },
         {
             "book": "Genesis",
             "chapter": 1,
-            "verse": 27,
+            "verse": 28,
             "verse_end": null,
             "type": "translator",
             "marker": null,
-            "text": "**Verses 27, 30 — *nephesh chayyah*.** I varied: \"lewende wesens\" in v.27 contexts, \"lewende asem\" in v.30. The Hebrew is the same phrase. A real translation would be consistent. **This is exactly the kind of drift I warned you about.**"
+            "text": "**Verse 28 — *kavash* / *radah*.** \"onderwerp\" (subdue) and \"heers\" (rule) — the two distinct verbs of the human mandate, kept distinct."
         },
         {
             "book": "Genesis",
@@ -134,7 +188,7 @@
             "verse_end": null,
             "type": "translator",
             "marker": null,
-            "text": "**Verses 27, 30 — *nephesh chayyah*.** I varied: \"lewende wesens\" in v.27 contexts, \"lewende asem\" in v.30. The Hebrew is the same phrase. A real translation would be consistent. **This is exactly the kind of drift I warned you about.**"
+            "text": "**Verses 20, 21, 24, 30 — *nephesh chayyah* (drift fixed).** The imported text drifted (\"lewende wesens\" in v.20 vs \"lewende asem\" in v.30). Now per the committed *nephesh* context rule: the creatures are \"lewende wese(ns)\" (vv.20, 21, 24), and the same phrase in v.30 (the life *within* the animals) is \"waarin daar lewe is\" (the \"lewe\" sense). The choice is documented, not silent — this is the within-chapter consistency the project flagged as the #1 risk."
         },
         {
             "book": "Genesis",

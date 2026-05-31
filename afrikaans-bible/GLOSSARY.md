@@ -151,6 +151,12 @@
 | כְּרוּב | keruv (pl. keruvim) | **gérub** (pl. **gérubs**) | ✅ | Committed 2026-05-30 (Gen 3:24); transliterated established form. |
 | עִצָּבוֹן | itstsavon | **swaarkry** | ✅ | Committed 2026-05-30 (Gen 3:16 woman & 3:17 man); single rendering preserves the word-link between the two judgments. |
 | עֶצֶב | etzev | **pyn** | ✅ | Committed 2026-05-30 (Gen 3:16b); the birth pangs; sister noun of *itstsavon*. |
+| מְאֹרֹת | me'orot | **ligte** | ✅ | Committed 2026-05-31 (Gen 1:14–16); the luminaries |
+| מוֹעֲדִים | mo'adim | **vaste tye** | ✅ | Committed 2026-05-31 (Gen 1:14); appointed times/seasons |
+| תַּנִּינִם | tanninim | **groot seediere** | ✅ | Committed 2026-05-31 (Gen 1:21); sea monsters / great sea creatures |
+| כָּבַשׁ | kavash | **onderwerp** | ✅ | Committed 2026-05-31 (Gen 1:28); subdue. Distinct from *radah* (heers) |
+| רָדָה | radah | **heers** | ✅ | Committed 2026-05-31 (Gen 1:26, 28); rule / have dominion. Distinct from *kavash* (onderwerp) |
+| דֶּשֶׁא / עֵשֶׂב / עֵץ פְּרִי | deshe / esev / etz peri | **groen plantegroei** / **saadgewende plante** / **vrugtebome** | ✅ | Committed 2026-05-31 (Gen 1:11–12); preserve the three botanical categories |
 
 ---
 
@@ -194,8 +200,15 @@
 
 ## Proper names policy
 
+> **Committed proper-name forms now live in `PROPER_NAMES.md`** (the registry/source of truth for
+> names). The principles below are summarised there in full.
+
 - **People and places**: use established Afrikaans forms (Moses, Abraham, Jerusalem, Egipte, Babilon).
 - **Lesser-known names**: transliterate from Hebrew/Greek using standard Afrikaans phonology.
+- **Check the source for every name** — render from the Hebrew/Greek, not from the Afrikaans
+  tradition. **Identical source name → identical Afrikaans; different-but-similar → distinct.** Where
+  the source uses identical/similar names for literary parallelism (e.g. the Genesis 4 & 5
+  genealogies), preserve it — footnotes disambiguate, spelling does not.
 - **When uncertain**: check AFR53 for the *form* only (this is a fact about Afrikaans usage, not copyrighted text). Do not lift surrounding context.
 
 ---

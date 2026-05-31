@@ -265,6 +265,7 @@ Quarterly (or every 200 chapters), have a theologian review the glossary against
 ## Companion files
 
 - `GLOSSARY.md` — committed terminology
+- `PROPER_NAMES.md` — committed proper-name renderings (people & places); the names registry
 - `TRANSLATION_POLICY.md` — open decisions and committed policy details
 - `REVIEW_LOG.md` — who reviewed what, when, and findings
 - `completed/genesis/genesis-01.md` — reference example (OT narrative)
