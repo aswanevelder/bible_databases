@@ -222,6 +222,72 @@
 
 **[4:26]** En vir Set, ook vir hom, is 'n seun gebore, en hy het hom Enos genoem. Toe is daar begin om die Naam van die HERE aan te roep.
 
+### Chapter 5
+
+**[5:1]** Dit is die boek van die geslagsregister van Adam. Op die dag toe God die mens geskep het, het Hy hom na die gelykenis van God gemaak;
+
+**[5:2]** manlik en vroulik het Hy hulle geskep, en Hy het hulle geseën en hulle naam "mens" genoem op die dag toe hulle geskep is.
+
+**[5:3]** En Adam het 130 jaar geleef, en hy het die vader geword van 'n seun na sy gelykenis, na sy beeld, en hom Set genoem.
+
+**[5:4]** En Adam se dae nadat hy die vader van Set geword het, was 800 jaar; en hy het seuns en dogters gehad.
+
+**[5:5]** So was al die dae van Adam wat hy geleef het, 930 jaar; en hy het gesterf.
+
+**[5:6]** En Set het 105 jaar geleef, en hy het die vader geword van Enos.
+
+**[5:7]** En Set het nadat hy die vader van Enos geword het, 807 jaar geleef, en hy het seuns en dogters gehad.
+
+**[5:8]** So was al die dae van Set 912 jaar; en hy het gesterf.
+
+**[5:9]** En Enos het 90 jaar geleef, en hy het die vader geword van Kenan.
+
+**[5:10]** En Enos het nadat hy die vader van Kenan geword het, 815 jaar geleef, en hy het seuns en dogters gehad.
+
+**[5:11]** So was al die dae van Enos 905 jaar; en hy het gesterf.
+
+**[5:12]** En Kenan het 70 jaar geleef, en hy het die vader geword van Mahalálel.
+
+**[5:13]** En Kenan het nadat hy die vader van Mahalálel geword het, 840 jaar geleef, en hy het seuns en dogters gehad.
+
+**[5:14]** So was al die dae van Kenan 910 jaar; en hy het gesterf.
+
+**[5:15]** En Mahalálel het 65 jaar geleef, en hy het die vader geword van Jered.
+
+**[5:16]** En Mahalálel het nadat hy die vader van Jered geword het, 830 jaar geleef, en hy het seuns en dogters gehad.
+
+**[5:17]** So was al die dae van Mahalálel 895 jaar; en hy het gesterf.
+
+**[5:18]** En Jered het 162 jaar geleef, en hy het die vader geword van Henog.
+
+**[5:19]** En Jered het nadat hy die vader van Henog geword het, 800 jaar geleef, en hy het seuns en dogters gehad.
+
+**[5:20]** So was al die dae van Jered 962 jaar; en hy het gesterf.
+
+**[5:21]** En Henog het 65 jaar geleef, en hy het die vader geword van Metúsalag.
+
+**[5:22]** En Henog het met God gewandel nadat hy die vader van Metúsalag geword het, 300 jaar; en hy het seuns en dogters gehad.
+
+**[5:23]** So was al die dae van Henog 365 jaar.
+
+**[5:24]** En Henog het met God gewandel; en hy was nie meer nie, want God het hom weggeneem.
+
+**[5:25]** En Metúsalag het 187 jaar geleef, en hy het die vader geword van Lameg.
+
+**[5:26]** En Metúsalag het nadat hy die vader van Lameg geword het, 782 jaar geleef, en hy het seuns en dogters gehad.
+
+**[5:27]** So was al die dae van Metúsalag 969 jaar; en hy het gesterf.
+
+**[5:28]** En Lameg het 182 jaar geleef, en hy het die vader geword van 'n seun.
+
+**[5:29]** En hy het hom Noag genoem en gesê: "Hierdie een sal ons troos in ons werk en in die swaarkry van ons hande, vanweë die grond wat die HERE vervloek het."
+
+**[5:30]** En Lameg het nadat hy die vader van Noag geword het, 595 jaar geleef, en hy het seuns en dogters gehad.
+
+**[5:31]** So was al die dae van Lameg 777 jaar; en hy het gesterf.
+
+**[5:32]** En Noag was 500 jaar oud, en Noag het die vader geword van Sem, Gam en Jafet.
+
 ## John
 
 ### Chapter 1

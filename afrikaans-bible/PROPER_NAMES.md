@@ -84,8 +84,8 @@ grandfather of Noah. Distinct from Metúsael (Gen 4:18, Cainite line). Footnote 
 | שֵׁת | Shet | **Set** | ✅ | Gen 4:25; puns on *shat* (aangestel) |
 | אֱנוֹשׁ | Enosh | **Enos** | ✅ | Gen 4:26; also a word for "mens" |
 | קֵינָן | Qenan | **Kenan** | ✅ | Gen 5:9. Distinct from *Qayin* (Kain) |
-| מַהֲלַלְאֵל | Mahalal'el | **Mahalálel** | 🟡 | Gen 5:12. Confirm form. Distinct from *Mechuya'el* |
-| יֶרֶד | Yered | **Jered** | 🟡 | Gen 5:15. Confirm form. Distinct from *ʿIrad* |
+| מַהֲלַלְאֵל | Mahalal'el | **Mahalálel** | ✅ | Gen 5:12. Distinct from *Mechuya'el* (Mehújael) |
+| יֶרֶד | Yered | **Jered** | ✅ | Gen 5:15. Distinct from *ʿIrad* (Irad) |
 | מְתוּשֶׁלַח | Methushelach | **Metúsalag** | ✅ | Gen 5:21; see genealogy section |
 | נֹחַ | Noach | **Noag** | ✅ | Gen 5:29; puns on *nacham* (troos) |
 | שֵׁם | Shem | **Sem** | ✅ | Gen 5:32 |

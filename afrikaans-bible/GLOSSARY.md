@@ -138,7 +138,8 @@
 | עֵזֶר כְּנֶגְדּוֹ | ezer kenegdo | **helper wat by hom pas** | ✅ | Gen 2:18, 20; *ezer* carries no inferiority. Committed 2026-05-30 |
 | גַּן (עֵדֶן) | gan (Eden) | **tuin (van Eden)** | ✅ | "tuin", not "paradys" (avoids importing LXX *paradeisos*). Committed 2026-05-30 |
 | צֵלָע | tsela | **rib** | ✅ | "rib" in Gen 2:21–22; "sy/sykant" in architectural contexts. Committed 2026-05-30 |
-| תּוֹלְדוֹת | toledot | **wordingsgeskiedenis** / **geslagte** | ✅ | Structuring formula of Genesis; "wordingsgeskiedenis" for origins (Gen 2:4), "geslagte" for genealogies. Committed 2026-05-30 |
+| תּוֹלְדוֹת | toledot | **wordingsgeskiedenis** / **geslagsregister** / **geslagte** | ✅ | Structuring formula of Genesis; "wordingsgeskiedenis" for origins (Gen 2:4), "geslagsregister/geslagte" for genealogies (Gen 5:1). Committed 2026-05-30 |
+| יָלַד / הוֹלִיד | yalad / holid | **die vader word van** (van 'n pa) / **baar** (van 'n ma) | ✅ | Committed 2026-05-31 (Gen 5). Father → "die vader (ge)word van" (matches Gen 4:18); mother → "baar" (Gen 4). |
 | אֵד | 'ed | **damp** | ✅ | Gen 2:6; lexically disputed (mist vs subterranean stream) — "damp" committed 2026-05-30, revisit if pattern shifts |
 | צֶלֶם | tselem | **beeld** | ✅ | |
 | דְּמוּת | demut | **gelykenis** | ✅ | |
