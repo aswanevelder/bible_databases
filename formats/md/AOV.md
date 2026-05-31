@@ -106,7 +106,7 @@
 
 **[2:19]** En die HERE God het uit die grond al die wilde diere van die veld en al die voëls van die hemel geformeer, en hulle na die mens gebring om te sien hoe hy hulle sou noem; en net soos die mens elke lewende wese genoem het, so was sy naam.
 
-**[2:20]** En die mens het name gegee aan al die vee en aan die voëls van die hemel en aan al die wilde diere van die veld; maar vir die mens het hy geen helper gevind wat by hom pas nie.
+**[2:20]** En die mens het name gegee aan al die vee en aan die voëls van die hemel en aan al die wilde diere van die veld; maar vir Adam het hy geen helper gevind wat by hom pas nie.
 
 **[2:21]** Toe het die HERE God 'n diep slaap op die mens laat val, en hy het geslaap; en Hy het een van sy ribbes geneem en die plek daarvan met vlees toegemaak.
 
@@ -152,7 +152,7 @@
 
 **[3:16]** Aan die vrou het Hy gesê: "Ek sal jou swaarkry en jou swangerskap grootliks vermeerder; met pyn sal jy kinders baar. En na jou man sal jou begeerte wees, en hy sal oor jou heers."
 
-**[3:17]** En aan die mens het Hy gesê: "Omdat jy geluister het na die stem van jou vrou en geëet het van die boom waarvan Ek jou beveel het: Jy mag daarvan nie eet nie — is die grond vervloek om jou ontwil; met swaarkry sal jy daarvan eet al die dae van jou lewe.
+**[3:17]** En aan Adam het Hy gesê: "Omdat jy geluister het na die stem van jou vrou en geëet het van die boom waarvan Ek jou beveel het: Jy mag daarvan nie eet nie — is die grond vervloek om jou ontwil; met swaarkry sal jy daarvan eet al die dae van jou lewe.
 
 **[3:18]** En dorings en distels sal dit vir jou laat uitspruit, en jy sal die plante van die veld eet.
 
@@ -160,13 +160,67 @@
 
 **[3:20]** En die mens het sy vrou Eva genoem, omdat sy die moeder van alle lewendes geword het.
 
-**[3:21]** En die HERE God het vir die mens en sy vrou klere van vel gemaak en hulle aangetrek.
+**[3:21]** En die HERE God het vir Adam en sy vrou klere van vel gemaak en hulle aangetrek.
 
 **[3:22]** En die HERE God het gesê: "Kyk, die mens het geword soos een van Ons, om goed en kwaad te ken. En nou — dat hy nie sy hand uitsteek en ook van die boom van die lewe neem en eet en vir ewig lewe nie!"
 
 **[3:23]** Daarom het die HERE God hom uit die tuin van Eden weggestuur om die grond te bewerk waaruit hy geneem is.
 
 **[3:24]** So het Hy die mens verdryf; en Hy het oos van die tuin van Eden die gérubs laat woon, en die vlam van die swaard wat heen en weer beweeg, om die pad na die boom van die lewe te bewaak.
+
+### Chapter 4
+
+**[4:1]** En die mens het sy vrou Eva geken, en sy het swanger geword en Kain gebaar; en sy het gesê: "Ek het 'n man verkry met die hulp van die HERE."
+
+**[4:2]** En sy het weer gebaar — sy broer Abel. En Abel het 'n skaapherder geword, maar Kain was 'n bewerker van die grond.
+
+**[4:3]** En ná verloop van tyd het Kain van die vrugte van die grond 'n offergawe aan die HERE gebring,
+
+**[4:4]** en Abel, ook hy, het van die eersgeborenes van sy kleinvee gebring, van hulle vet. En die HERE het ag geslaan op Abel en sy offergawe,
+
+**[4:5]** maar op Kain en sy offergawe het Hy nie ag geslaan nie. Toe word Kain baie kwaad, en sy gesig het verander.
+
+**[4:6]** En die HERE het vir Kain gesê: "Waarom is jy kwaad, en waarom het jou gesig verander?
+
+**[4:7]** Is dit nie so dat as jy goed doen, daar verheffing is nie? Maar as jy nie goed doen nie, lê die sonde en loer voor die deur; en na jou is sy begeerte, maar jy moet oor hom heers."
+
+**[4:8]** En Kain het met sy broer Abel gepraat. En toe hulle in die veld was, het Kain teen sy broer Abel opgestaan en hom doodgeslaan.
+
+**[4:9]** Toe sê die HERE vir Kain: "Waar is jou broer Abel?" En hy sê: "Ek weet nie. Is ek my broer se wagter?"
+
+**[4:10]** En Hy sê: "Wat het jy gedoen? Die stem van jou broer se bloed roep na My uit die grond.
+
+**[4:11]** En nou is jy vervloek, weg van die grond wat sy mond oopgemaak het om jou broer se bloed uit jou hand te ontvang.
+
+**[4:12]** As jy die grond bewerk, sal dit nie meer sy krag aan jou gee nie. 'n Swerwer en vlugteling sal jy op die aarde wees."
+
+**[4:13]** Toe sê Kain vir die HERE: "My straf is groter as wat ek kan dra.
+
+**[4:14]** Kyk, U verdryf my vandag van die oppervlak van die grond af, en vir U aangesig sal ek verborge wees; en ek sal 'n swerwer en vlugteling op die aarde wees, en elkeen wat my kry, sal my doodmaak."
+
+**[4:15]** Maar die HERE het vir hom gesê: "Daarom, elkeen wat Kain doodmaak — sewevoudig sal dit gewreek word." En die HERE het vir Kain 'n teken gestel, sodat niemand wat hom kry, hom sou doodslaan nie.
+
+**[4:16]** Toe het Kain van die aangesig van die HERE af weggegaan en gaan woon in die land Nod, oos van Eden.
+
+**[4:17]** En Kain het sy vrou geken, en sy het swanger geword en Henog gebaar. En hy het 'n stad gebou en die stad genoem na die naam van sy seun Henog.
+
+**[4:18]** En vir Henog is Irad gebore; en Irad was die vader van Mehújael; en Mehújael was die vader van Metúsael; en Metúsael was die vader van Lameg.
+
+**[4:19]** En Lameg het vir hom twee vroue geneem; die naam van die een was Ada, en die naam van die tweede Silla.
+
+**[4:20]** En Ada het Jabal gebaar; hy was die vader van die wat in tente woon en vee aanhou.
+
+**[4:21]** En die naam van sy broer was Jubal; hy was die vader van almal wat die lier en die fluit bespeel.
+
+**[4:22]** En Silla, ook sy, het Tubal-Kain gebaar, 'n smid van allerhande koper- en ystergereedskap; en die suster van Tubal-Kain was Naäma.
+
+**[4:23]** En Lameg het vir sy vroue gesê: "Ada en Silla, hoor my stem! Vroue van Lameg, luister na my woord! Want ek het 'n man doodgeslaan vir my wond, en 'n seun vir my kneusplek.
+
+**[4:24]** As Kain sewevoudig gewreek word, dan Lameg sewen-en-sewentigvoudig."
+
+**[4:25]** En Adam het sy vrou weer geken, en sy het 'n seun gebaar en hom Set genoem; want, het sy gesê, "God het vir my 'n ander nageslag gegee in die plek van Abel, omdat Kain hom doodgeslaan het."
+
+**[4:26]** En vir Set, ook vir hom, is 'n seun gebore, en hy het hom Enos genoem. Toe is daar begin om die Naam van die HERE aan te roep.
 
 ## John
 

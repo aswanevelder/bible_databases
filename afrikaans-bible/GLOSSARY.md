@@ -103,6 +103,7 @@
 | θυσιαστήριον | thusiastērion | **altaar** | ✅ | |
 | זֶבַח | zevach | **offer** | ✅ | |
 | θυσία | thusia | **offer** | ✅ | |
+| מִנְחָה | minchah | **offergawe** | ✅ | Committed 2026-05-31 (Gen 4:3–5); gift/tribute/grain offering, distinct from *zevach* (offer, blood sacrifice). |
 | כִּפֻּר | kippur | **versoening** | ✅ | |
 | ἱλασμός | hilasmos | **versoening** | ✅ | |
 | תְּשׁוּבָה | teshuvah | **bekering** | ✅ | (when used in this sense) |
@@ -131,7 +132,7 @@
 | οὐρανός | ouranos | **hemel** | ✅ | |
 | אֶרֶץ | erets | **aarde** / **land** | 🟡 | Context-driven; "aarde" for planet, "land" for specific territory |
 | γῆ | gē | **aarde** / **land** | 🟡 | Same context rule |
-| אָדָם | adam | **mens** / **Adam** | 🟡 | Lowercase as common noun, capitalized as proper name. Decision point in Genesis 4. |
+| אָדָם | adam | **die mens** (met lidwoord) / **Adam** (eienaam) | ✅ | Committed 2026-05-31 (Gen 4). **Article rule:** arthrous *ha-adam* → "die mens"; anarthrous *adam* as the individual → "Adam". Debuts Gen 4:25; back-applied to 2:20, 3:17, 3:21. (2:5, anarthrous but generic, stays "mens".) |
 | אִישׁ | ish | **man** | ✅ | |
 | אִשָּׁה | ishshah | **vrou** | ✅ | *ish/ishshah* wordplay (Gen 2:23) lost in Afrikaans; handle by footnote, not "manninne" — pending team confirm |
 | עֵזֶר כְּנֶגְדּוֹ | ezer kenegdo | **helper wat by hom pas** | ✅ | Gen 2:18, 20; *ezer* carries no inferiority. Committed 2026-05-30 |

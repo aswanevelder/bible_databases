@@ -44,7 +44,7 @@
 
 **16** Aan die vrou het Hy gesê: "Ek sal jou swaarkry en jou swangerskap grootliks vermeerder; met pyn sal jy kinders baar. En na jou man sal jou begeerte wees, en hy sal oor jou heers."
 
-**17** En aan die mens het Hy gesê: "Omdat jy geluister het na die stem van jou vrou en geëet het van die boom waarvan Ek jou beveel het: Jy mag daarvan nie eet nie — is die grond vervloek om jou ontwil; met swaarkry sal jy daarvan eet al die dae van jou lewe.
+**17** En aan Adam het Hy gesê: "Omdat jy geluister het na die stem van jou vrou en geëet het van die boom waarvan Ek jou beveel het: Jy mag daarvan nie eet nie — is die grond vervloek om jou ontwil; met swaarkry sal jy daarvan eet al die dae van jou lewe.
 
 **18** En dorings en distels sal dit vir jou laat uitspruit, en jy sal die plante van die veld eet.
 
@@ -54,7 +54,7 @@
 
 **20** En die mens het sy vrou Eva genoem, omdat sy die moeder van alle lewendes geword het.
 
-**21** En die HERE God het vir die mens en sy vrou klere van vel gemaak en hulle aangetrek.
+**21** En die HERE God het vir Adam en sy vrou klere van vel gemaak en hulle aangetrek.
 
 **22** En die HERE God het gesê: "Kyk, die mens het geword soos een van Ons, om goed en kwaad te ken. En nou — dat hy nie sy hand uitsteek en ook van die boom van die lewe neem en eet en vir ewig lewe nie!"
 
@@ -130,10 +130,10 @@ labour — a sister noun of the same root ע־צ־ב) → **"pyn"**. "begeerte" 
 so that cross-reference survives. The exact sense of v.16b is debated (desire "for" vs "against" the
 husband); the neutral "na jou man sal jou begeerte wees" is retained.
 
-**Verses 17, 20–23 — *adam* / "die mens".** Kept as the common noun "die mens" throughout, even at
-*ul'adam* (v.17, anarthrous) where some read the first proper "Adam". Per the deferred decision
-(glossary: *adam* proper-name ruling at Genesis 4), consistency within the chapter is preserved;
-flagged for the Genesis 4 decision, which will likely back-name v.17/20–21 retroactively.
+**Verses 17, 20–23 — *adam* / "die mens" / "Adam".** Per the committed *adam* article rule
+(2026-05-31): arthrous *ha-adam* → "die mens" (v.20 "die mens het sy vrou Eva genoem"; v.22, 24),
+anarthrous *adam* of the individual → "Adam". So **v.17** (*ul'adam*) and **v.21** (*l'adam*) read
+"Adam" (back-applied at promotion of Genesis 4); the arthrous occurrences stay "die mens".
 
 **Verse 20 — *Chawwa* / Eva.** "Eva" (established Afrikaans form). The naming puns on *chai*
 ("living") — "moeder van alle lewendes"; footnoted.

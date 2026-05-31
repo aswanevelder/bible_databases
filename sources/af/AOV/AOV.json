@@ -317,7 +317,7 @@
                             "verse": 20,
                             "chapter": 2,
                             "name": "Genesis 2:20",
-                            "text": "En die mens het name gegee aan al die vee en aan die voëls van die hemel en aan al die wilde diere van die veld; maar vir die mens het hy geen helper gevind wat by hom pas nie."
+                            "text": "En die mens het name gegee aan al die vee en aan die voëls van die hemel en aan al die wilde diere van die veld; maar vir Adam het hy geen helper gevind wat by hom pas nie."
                         },
                         {
                             "verse": 21,
@@ -455,7 +455,7 @@
                             "verse": 17,
                             "chapter": 3,
                             "name": "Genesis 3:17",
-                            "text": "En aan die mens het Hy gesê: \"Omdat jy geluister het na die stem van jou vrou en geëet het van die boom waarvan Ek jou beveel het: Jy mag daarvan nie eet nie — is die grond vervloek om jou ontwil; met swaarkry sal jy daarvan eet al die dae van jou lewe."
+                            "text": "En aan Adam het Hy gesê: \"Omdat jy geluister het na die stem van jou vrou en geëet het van die boom waarvan Ek jou beveel het: Jy mag daarvan nie eet nie — is die grond vervloek om jou ontwil; met swaarkry sal jy daarvan eet al die dae van jou lewe."
                         },
                         {
                             "verse": 18,
@@ -479,7 +479,7 @@
                             "verse": 21,
                             "chapter": 3,
                             "name": "Genesis 3:21",
-                            "text": "En die HERE God het vir die mens en sy vrou klere van vel gemaak en hulle aangetrek."
+                            "text": "En die HERE God het vir Adam en sy vrou klere van vel gemaak en hulle aangetrek."
                         },
                         {
                             "verse": 22,
@@ -498,6 +498,168 @@
                             "chapter": 3,
                             "name": "Genesis 3:24",
                             "text": "So het Hy die mens verdryf; en Hy het oos van die tuin van Eden die gérubs laat woon, en die vlam van die swaard wat heen en weer beweeg, om die pad na die boom van die lewe te bewaak."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Genesis 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Genesis 4:1",
+                            "text": "En die mens het sy vrou Eva geken, en sy het swanger geword en Kain gebaar; en sy het gesê: \"Ek het 'n man verkry met die hulp van die HERE.\""
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Genesis 4:2",
+                            "text": "En sy het weer gebaar — sy broer Abel. En Abel het 'n skaapherder geword, maar Kain was 'n bewerker van die grond."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Genesis 4:3",
+                            "text": "En ná verloop van tyd het Kain van die vrugte van die grond 'n offergawe aan die HERE gebring,"
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Genesis 4:4",
+                            "text": "en Abel, ook hy, het van die eersgeborenes van sy kleinvee gebring, van hulle vet. En die HERE het ag geslaan op Abel en sy offergawe,"
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Genesis 4:5",
+                            "text": "maar op Kain en sy offergawe het Hy nie ag geslaan nie. Toe word Kain baie kwaad, en sy gesig het verander."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Genesis 4:6",
+                            "text": "En die HERE het vir Kain gesê: \"Waarom is jy kwaad, en waarom het jou gesig verander?"
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "Genesis 4:7",
+                            "text": "Is dit nie so dat as jy goed doen, daar verheffing is nie? Maar as jy nie goed doen nie, lê die sonde en loer voor die deur; en na jou is sy begeerte, maar jy moet oor hom heers.\""
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 4,
+                            "name": "Genesis 4:8",
+                            "text": "En Kain het met sy broer Abel gepraat. En toe hulle in die veld was, het Kain teen sy broer Abel opgestaan en hom doodgeslaan."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 4,
+                            "name": "Genesis 4:9",
+                            "text": "Toe sê die HERE vir Kain: \"Waar is jou broer Abel?\" En hy sê: \"Ek weet nie. Is ek my broer se wagter?\""
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 4,
+                            "name": "Genesis 4:10",
+                            "text": "En Hy sê: \"Wat het jy gedoen? Die stem van jou broer se bloed roep na My uit die grond."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 4,
+                            "name": "Genesis 4:11",
+                            "text": "En nou is jy vervloek, weg van die grond wat sy mond oopgemaak het om jou broer se bloed uit jou hand te ontvang."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 4,
+                            "name": "Genesis 4:12",
+                            "text": "As jy die grond bewerk, sal dit nie meer sy krag aan jou gee nie. 'n Swerwer en vlugteling sal jy op die aarde wees.\""
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 4,
+                            "name": "Genesis 4:13",
+                            "text": "Toe sê Kain vir die HERE: \"My straf is groter as wat ek kan dra."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 4,
+                            "name": "Genesis 4:14",
+                            "text": "Kyk, U verdryf my vandag van die oppervlak van die grond af, en vir U aangesig sal ek verborge wees; en ek sal 'n swerwer en vlugteling op die aarde wees, en elkeen wat my kry, sal my doodmaak.\""
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 4,
+                            "name": "Genesis 4:15",
+                            "text": "Maar die HERE het vir hom gesê: \"Daarom, elkeen wat Kain doodmaak — sewevoudig sal dit gewreek word.\" En die HERE het vir Kain 'n teken gestel, sodat niemand wat hom kry, hom sou doodslaan nie."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 4,
+                            "name": "Genesis 4:16",
+                            "text": "Toe het Kain van die aangesig van die HERE af weggegaan en gaan woon in die land Nod, oos van Eden."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 4,
+                            "name": "Genesis 4:17",
+                            "text": "En Kain het sy vrou geken, en sy het swanger geword en Henog gebaar. En hy het 'n stad gebou en die stad genoem na die naam van sy seun Henog."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 4,
+                            "name": "Genesis 4:18",
+                            "text": "En vir Henog is Irad gebore; en Irad was die vader van Mehújael; en Mehújael was die vader van Metúsael; en Metúsael was die vader van Lameg."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 4,
+                            "name": "Genesis 4:19",
+                            "text": "En Lameg het vir hom twee vroue geneem; die naam van die een was Ada, en die naam van die tweede Silla."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 4,
+                            "name": "Genesis 4:20",
+                            "text": "En Ada het Jabal gebaar; hy was die vader van die wat in tente woon en vee aanhou."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 4,
+                            "name": "Genesis 4:21",
+                            "text": "En die naam van sy broer was Jubal; hy was die vader van almal wat die lier en die fluit bespeel."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 4,
+                            "name": "Genesis 4:22",
+                            "text": "En Silla, ook sy, het Tubal-Kain gebaar, 'n smid van allerhande koper- en ystergereedskap; en die suster van Tubal-Kain was Naäma."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 4,
+                            "name": "Genesis 4:23",
+                            "text": "En Lameg het vir sy vroue gesê: \"Ada en Silla, hoor my stem! Vroue van Lameg, luister na my woord! Want ek het 'n man doodgeslaan vir my wond, en 'n seun vir my kneusplek."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 4,
+                            "name": "Genesis 4:24",
+                            "text": "As Kain sewevoudig gewreek word, dan Lameg sewen-en-sewentigvoudig.\""
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 4,
+                            "name": "Genesis 4:25",
+                            "text": "En Adam het sy vrou weer geken, en sy het 'n seun gebaar en hom Set genoem; want, het sy gesê, \"God het vir my 'n ander nageslag gegee in die plek van Abel, omdat Kain hom doodgeslaan het.\""
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 4,
+                            "name": "Genesis 4:26",
+                            "text": "En vir Set, ook vir hom, is 'n seun gebore, en hy het hom Enos genoem. Toe is daar begin om die Naam van die HERE aan te roep."
                         }
                     ]
                 }

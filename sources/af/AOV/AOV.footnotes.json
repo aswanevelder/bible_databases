@@ -305,7 +305,7 @@
             "verse_end": null,
             "type": "translator",
             "marker": null,
-            "text": "**Verse 20 — *ul'adam*.** \"maar vir die mens\" — the form is *l'adam* (without the article), which some read as the first occurrence of \"Adam\" as a proper name. Per the deferred *adam* decision (Genesis 4) I kept the common noun \"die mens\" for consistency within the chapter. Flag."
+            "text": "**Verse 20 — *ul'adam*.** \"maar vir Adam\" — anarthrous *l'adam* (without the article), the first occurrence rendered as the proper name \"Adam\". Per the committed *adam* article rule (`TRANSLATION_POLICY.md` / glossary, 2026-05-31): arthrous *ha-adam* → \"die mens\" (so the first clause of this verse stays \"die mens\"), anarthrous *adam* of the individual → \"Adam\". Back-applied here at promotion of Genesis 4."
         },
         {
             "book": "Genesis",
@@ -494,7 +494,7 @@
             "verse_end": null,
             "type": "translator",
             "marker": null,
-            "text": "**Verses 17, 20–23 — *adam* / \"die mens\".** Kept as the common noun \"die mens\" throughout, even at *ul'adam* (v.17, anarthrous) where some read the first proper \"Adam\". Per the deferred decision (glossary: *adam* proper-name ruling at Genesis 4), consistency within the chapter is preserved; flagged for the Genesis 4 decision, which will likely back-name v.17/20–21 retroactively."
+            "text": "**Verses 17, 20–23 — *adam* / \"die mens\" / \"Adam\".** Per the committed *adam* article rule (2026-05-31): arthrous *ha-adam* → \"die mens\" (v.20 \"die mens het sy vrou Eva genoem\"; v.22, 24), anarthrous *adam* of the individual → \"Adam\". So **v.17** (*ul'adam*) and **v.21** (*l'adam*) read \"Adam\" (back-applied at promotion of Genesis 4); the arthrous occurrences stay \"die mens\"."
         },
         {
             "book": "Genesis",
@@ -512,7 +512,7 @@
             "verse_end": 23,
             "type": "translator",
             "marker": null,
-            "text": "**Verses 17, 20–23 — *adam* / \"die mens\".** Kept as the common noun \"die mens\" throughout, even at *ul'adam* (v.17, anarthrous) where some read the first proper \"Adam\". Per the deferred decision (glossary: *adam* proper-name ruling at Genesis 4), consistency within the chapter is preserved; flagged for the Genesis 4 decision, which will likely back-name v.17/20–21 retroactively."
+            "text": "**Verses 17, 20–23 — *adam* / \"die mens\" / \"Adam\".** Per the committed *adam* article rule (2026-05-31): arthrous *ha-adam* → \"die mens\" (v.20 \"die mens het sy vrou Eva genoem\"; v.22, 24), anarthrous *adam* of the individual → \"Adam\". So **v.17** (*ul'adam*) and **v.21** (*l'adam*) read \"Adam\" (back-applied at promotion of Genesis 4); the arthrous occurrences stay \"die mens\"."
         },
         {
             "book": "Genesis",
@@ -540,6 +540,222 @@
             "type": "translator",
             "marker": null,
             "text": "**Verse 24 — *keruvim* / *lahat hacherev*.** \"gérubs\" (cherubim, transliterated established form); \"die vlam van die swaard wat heen en weer beweeg\" for *lahat hacherev hammithappekhet* (the whirling/flashing sword). *gérubs* proposed for the glossary."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": null,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Divine name.** Genesis 4 uses *YHWH* → **HERE** (vv.1, 3, 4, 6, 9, 13, 15, 16, 26); plain *Elohim* → **God** in Eve's speech (v.25). Consistent with the established policy."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 1,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"verkry\" speel op die naam Kain (*Qayin* ~ *qanah*, \"verkry\"). Die Hebreeus *et-YHWH* is moeilik — \"met die hulp van die HERE\" (of letterlik \"met die HERE\")."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 1,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "b",
+            "text": "\"geken\" (*yada*, \"ken\") is hier die eufemisme vir die huwelikse omgang — dieselfde \"ken\"-werkwoord wat in Hebreeus (en in Engels, \"knew\") so gebruik word."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 1,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "c",
+            "text": "\"die mens\" (4:1, met lidwoord) teenoor \"Adam\" (4:25, eienaam): die Hebreeus self skakel hier van die soortnaam *ha-adam* na die eienaam *adam* oor."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 1,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 1, 25 — *adam* / \"Adam\" (decision point).** Per the committed rule (article-driven): *ha-adam* **with the article** → \"die mens\" (v.1, \"die mens het sy vrou Eva geken\"); **anarthrous** *adam* used as the individual's name → \"Adam\" (v.25, \"En Adam het sy vrou weer geken\"). The Hebrew itself makes the switch — arthrous at v.1, anarthrous at v.25 — and we follow it. **Retroactive consequence:** the anarthrous *lə-adam* at **2:20, 3:17, 3:21** (already-promoted chapters) becomes \"Adam\" and must be updated on promotion of this chapter. (2:5, anarthrous but generic/pre-creation \"no human\", stays \"mens\".)"
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 1,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 1 — *qaniti … et-YHWH*.** \"Ek het 'n man verkry met die hulp van die HERE.\" The clause is famously hard: *qaniti ish et-YHWH* literally \"I have acquired a man [with?] YHWH\". *et* may be the preposition \"with (the help of)\" (so most) or the accusative marker (yielding the unlikely \"I have gotten a man, the LORD\"). I follow the majority \"with the help of\". The verb *qanah* (\"acquire\") puns on the name *Qayin* (Kain) — footnoted."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 1,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 1 — *yada*.** \"geken\" (changed from \"beken\" at review). *yada* (\"to know\") is used here as the euphemism for marital intimacy; \"ken/geken\" is the **direct cognate** of the ordinary \"know\" verb, so it mirrors the Hebrew's own mechanism (plain verb + context doing the euphemistic work) — more faithful than the prefixed \"beken\" (which means \"confess\" in modern Afrikaans and is the AFR53/Statenvertaling word). Applied also at vv.17, 25; the euphemism is footnoted."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 3,
+            "verse_end": 5,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 3–5 — *minchah*.** \"offergawe\" (gift/tribute offering). Distinct from *zevach* (blood sacrifice, glossary → \"offer\"); *minchah* is the general offering/gift, here both Cain's grain and Abel's animal. Proposed for the glossary."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 4,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 4 — *vayisha* (*sha'ah*).** \"ag geslaan op\" (regarded / paid heed to), changed at review from \"met welgevalle aangesien\". *sha'ah* = \"gaze at / regard\"; the favourable nuance is carried by the contrast with v.5 (\"nie ag geslaan nie\"), so the interpretive \"welgevalle\" is dropped — both clearer and more faithful. (\"aangesien\" as a participle of *aansien* collides with the conjunction *aangesien* = \"since\", and reads awkwardly.)"
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 7,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"begeerte\" en \"heers\" eggo presies 3:16 — die sonde se houvol op Kain word in dieselfde woorde as die vrou se vonnis beskryf."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 7,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 7 — difficult verse.** *halo im teitiv se'et* — \"if you do well, [is there not] *se'et*?\" *se'et* (\"lifting up\") implies acceptance / a lifted countenance (contrast \"his face fell\", v.5); rendered \"verheffing\". *lapetach chatat rovetz* — \"sin is *crouching* (like a beast) at the door\" — \"lê die sonde en loer voor die deur\". Crucially, *ve'elekha teshuqato ve'atah timshol bo* reuses the exact 3:16 pair — *teshuqah* (\"begeerte\") + *mashal* (\"heers\") — so the rendering is kept identical to 3:16 to preserve the deliberate echo."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 8,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Die Masoretiese Teks gee nie Kain se woorde nie; die Septuagint en Samaritaanse Pentateug voeg by: \"Kom ons gaan na die veld toe.\""
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 8,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 8 — textual variant.** MT records that Cain \"said to\" Abel but gives no words; \"het met sy broer Abel gepraat\". The LXX, Samaritan Pentateuch, Peshitta and Vulgate supply \"Let us go out to the field.\" Following the MT in the body; variant footnoted."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 13,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 13 — *avon*.** \"My straf is groter as wat ek kan dra.\" *avon* (glossary → \"ongeregtigheid\") here shades toward \"punishment for iniquity\"; \"straf\" fits the context (Cain laments the sentence, not his guilt). Alternative: \"my skuld is te groot om te dra.\" Flagged."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 14,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"grond\" (*adamah*) is die bewerkbare grond/akkergrond — Kain word van die grond wat hy bewerk het verban (vgl. die vloek, v.11–12), nie van die aarde (*erets*) self nie, waarop hy bly swerf. Dieselfde werkwoord \"verdryf\" (*garash*) is in 3:24 vir die mens se verbanning uit Eden gebruik."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 14,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 14 — *adamah* / *erets*.** \"van die oppervlak van die grond af\" renders *me'al penei ha-adamah* literally. *adamah* (\"grond\", cultivable soil) is kept distinct from *erets* (\"aarde\", the wider earth, same verse) — Cain is driven from the **soil he farmed** (now cursed against him, v.11–12), not removed from the earth, on which he then wanders. *adamah* is a Leitwort here, rendered \"grond\" throughout the chapter (vv.2, 3, 10, 11, 12, 14) to keep the thread; \"landbougrond\" would be clearer but less literal and would break the keyword. The verb *garash* (\"verdryf\") echoes 3:24 (the man driven from Eden). A reader footnote carries the clarification."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 15,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Die \"teken\" (die sogenaamde merk van Kain) se aard word nie genoem nie — dit beskerm hom, eerder as om hom te straf."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 15,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 15, 24 — *shivatayim*.** \"sewevoudig\" (sevenfold), echoed in Lamech's boast (v.24, \"sewen-en-sewentigvoudig\") — the escalation of vengeance is kept verbally linked."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 16,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"Nod\" klink soos die Hebreeus vir \"swerwing\" (*nad*, vgl. \"swerwer\" in v.12, 14)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 17,
+            "verse_end": 22,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 17–22 — proper names.** Established/transliterated Afrikaans forms: Henog, Irad, Mehújael, Metúsael, Lameg, Ada, Silla, Jabal, Jubal, Tubal-Kain, Naäma. *kinnor* → \"lier\", *ugav* → \"fluit\" (v.21); *lotesh … nechoshet uvarzel* → \"smid van … koper- en ystergereedskap\" (v.22)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 24,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 15, 24 — *shivatayim*.** \"sewevoudig\" (sevenfold), echoed in Lamech's boast (v.24, \"sewen-en-sewentigvoudig\") — the escalation of vengeance is kept verbally linked."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 25,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"Set\" (*Shet*) klink soos die Hebreeuse woord vir \"aangestel/gegee\" (*shat*)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 25,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 1, 25 — *adam* / \"Adam\" (decision point).** Per the committed rule (article-driven): *ha-adam* **with the article** → \"die mens\" (v.1, \"die mens het sy vrou Eva geken\"); **anarthrous** *adam* used as the individual's name → \"Adam\" (v.25, \"En Adam het sy vrou weer geken\"). The Hebrew itself makes the switch — arthrous at v.1, anarthrous at v.25 — and we follow it. **Retroactive consequence:** the anarthrous *lə-adam* at **2:20, 3:17, 3:21** (already-promoted chapters) becomes \"Adam\" and must be updated on promotion of this chapter. (2:5, anarthrous but generic/pre-creation \"no human\", stays \"mens\".)"
+        },
+        {
+            "book": "Genesis",
+            "chapter": 4,
+            "verse": 26,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 26 — *huchal*.** \"Toe is daar begin om die Naam van die HERE aan te roep.\" The passive *huchal* (\"it was begun\") is rendered impersonally; alternative \"Toe het die mense begin…\". *az* = \"then / at that time\"."
         },
         {
             "book": "John",

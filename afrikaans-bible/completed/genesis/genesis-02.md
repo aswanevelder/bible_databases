@@ -50,7 +50,7 @@
 
 **19** En die HERE God het uit die grond al die wilde diere van die veld en al die voëls van die hemel geformeer, en hulle na die mens gebring om te sien hoe hy hulle sou noem; en net soos die mens elke lewende wese genoem het, so was sy naam.
 
-**20** En die mens het name gegee aan al die vee en aan die voëls van die hemel en aan al die wilde diere van die veld; maar vir die mens het hy geen helper gevind wat by hom pas nie.
+**20** En die mens het name gegee aan al die vee en aan die voëls van die hemel en aan al die wilde diere van die veld; maar vir Adam het hy geen helper gevind wat by hom pas nie.
 
 **21** Toe het die HERE God 'n diep slaap op die mens laat val, en hy het geslaap; en Hy het een van sy ribbes geneem en die plek daarvan met vlees toegemaak.
 
@@ -139,9 +139,11 @@ suitable for him). Avoided the loaded "hulp" alone and the archaic AFR53 "'n hul
 *ezer* carries no subordinate connotation in Hebrew (it is used of God elsewhere); the rendering
 deliberately does not imply inferiority. Flagged for the theologian.
 
-**Verse 20 — *ul'adam*.** "maar vir die mens" — the form is *l'adam* (without the article), which
-some read as the first occurrence of "Adam" as a proper name. Per the deferred *adam* decision
-(Genesis 4) I kept the common noun "die mens" for consistency within the chapter. Flag.
+**Verse 20 — *ul'adam*.** "maar vir Adam" — anarthrous *l'adam* (without the article), the first
+occurrence rendered as the proper name "Adam". Per the committed *adam* article rule
+(`TRANSLATION_POLICY.md` / glossary, 2026-05-31): arthrous *ha-adam* → "die mens" (so the first
+clause of this verse stays "die mens"), anarthrous *adam* of the individual → "Adam". Back-applied
+here at promotion of Genesis 4.
 
 **Verses 21–22 — *tsela*.** "rib(be)". *tsela* usually means "side" (as in the side of the
 tabernacle); "rib" is the traditional rendering here and reads naturally. Noted; "rib" retained.
