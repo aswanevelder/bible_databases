@@ -2,17 +2,17 @@
 
 *Vertaal uit die Hebreeuse Masoretiese Teks (Westminster Leningrad Codex)*
 
-*Status: konsep — wag op menslike hersiening*
+*Status: voltooi — promoveer 2026-06-01 (glossariumtoevoegings vasgelê)*
 
 ---
 
 ## Noag gaan in die ark
 
-**1** Toe sê die HERE vir Noag: "Gaan in die ark, jy en jou hele huisgesin, want jou het Ek regverdig voor My gesien in hierdie geslag.
+**1** Toe sê die HERE vir Noag: "Gaan in die ark, jy en jou hele huisgesin, want Ek het jou as regverdig voor My gesien in hierdie geslag.
 
-**2** Van al die rein diere moet jy vir jou sewe pare neem, die mannetjie en sy wyfie; en van die diere wat nie rein is nie, twee, die mannetjie en sy wyfie;
+**2** Van al die rein diere moet jy vir jou sewe-sewe neem, die mannetjie en sy wyfie; en van die diere wat nie rein is nie, twee, die mannetjie en sy wyfie;
 
-**3** ook van die voëls van die hemel sewe pare, mannetjie en wyfie, om die geslag in die lewe te hou op die oppervlak van die hele aarde.
+**3** ook van die voëls van die hemel sewe-sewe, mannetjie en wyfie, om die geslag aan die lewe te hou op die oppervlak van die hele aarde.
 
 **4** Want oor nog sewe dae laat Ek dit op die aarde reën, 40 dae en 40 nagte; en Ek sal al die lewende wesens wat Ek gemaak het, van die oppervlak van die grond af uitwis."
 
@@ -67,7 +67,7 @@
 *Leservoetnote (vir publikasie), per vers.*
 
 - 7:2 | "rein"/"onrein" (*tahor*/*tame*) — die eerste keer dat hierdie onderskeid in die Bybel voorkom, lank voor die wet van Moses.
-- 7:2 | "sewe pare" — die Hebreeus sê letterlik "sewe-sewe"; meeste lees dit as sewe paar van elke rein soort (party as sewe individue).
+- 7:2 | "sewe-sewe" vertaal die Hebreeuse verdubbeling letterlik (vgl. "twee-twee", v.9); die meeste lees dit as sewe *paar* van elke rein soort, party as sewe individue.
 - 7:11 | "die groot dieptes" (*tehom rabbah*, die oer-waters van onder, vgl. 1:2) en "die sluise van die hemel" (die waters van bo, vgl. 1:7) breek saam deur — die skepping se waterskeiding word as 't ware omgekeer.
 - 7:16 | "die HERE het agter hom toegesluit" — 'n teer beeld: God self sluit die ark toe.
 - 7:20 | 'n El (*amah*) is ongeveer 45 cm; die water het dus sowat 6,75 m bo die berge gestaan.
@@ -81,18 +81,20 @@
 where both occur in one verse: "soos **God** hom beveel het; en die **HERE** het agter hom
 toegesluit" — the source's deliberate juxtaposition is preserved.
 
-**Verse 1 — *tsaddiq*.** "regverdig" (committed, as in 6:9). "jou het Ek regverdig voor My gesien"
-keeps the fronted object of the Hebrew.
+**Verse 1 — *tsaddiq*.** "regverdig" (committed, as in 6:9). Rendered in natural subject-first order
+("Ek het jou as regverdig voor My gesien"); *tsaddiq* is the predicative complement of *ra'iti*
+("saw you [to be] righteous"), so "as" carries the grammar without adding content.
 
 **Verses 2–3, 8 — *tahor* / *tame*.** "rein" / "onrein" (clean / unclean) — the **first occurrence**
 of this distinction, well before the Mosaic law; proposed for the glossary. The unclean are phrased
 "die diere wat nie rein is nie" (*asher lo tehorah*), matching the Hebrew's negation rather than the
 flat *tame*.
 
-**Verses 2–3 — *shivah shivah* / *ish ve'ishto*.** "sewe pare" (lit. "seven-seven"); footnoted.
-*ish ve'ishto* ("a man and his wife"), used of animals, → "die mannetjie en sy wyfie"; *zakhar
-uneqevah* of animals → "mannetjie en wyfie" (vs "manlik en vroulik" for humans, 1:27) — a context
-distinction, noted.
+**Verses 2–3 — *shivah shivah* / *ish ve'ishto*.** "sewe-sewe" — the Hebrew distributive doubling,
+rendered literally to match "twee-twee" (*shnayim shnayim*, vv.9, 15); the "seven pairs" reading is
+carried in the footnote rather than baked into the verse. *ish ve'ishto* ("a man and his wife"),
+used of animals, → "die mannetjie en sy wyfie"; *zakhar uneqevah* of animals → "mannetjie en wyfie"
+(vs "manlik en vroulik" for humans, 1:27) — a context distinction, noted.
 
 **Verses 4, 23 — *machah* / *yequm*.** "uitwis" for *machah* (blot out; consistent with 6:7);
 *yequm* ("standing/living things") → "lewende wesens". v.23 repeats the verb (*vayyimach …
@@ -112,21 +114,21 @@ consistently across vv.18, 19, 20, 24, so the relentless rising of the water rea
 with a footnote, since splitting them ("die asem van die lewensgees") reads stiffly.
 
 **Numbers.** Numerals for the larger/specific quantities and dates (40, 600, 15 el, 150, 17de),
-consistent with the Genesis 5 decision; the small pairing-counts ("sewe pare", "twee", "twee-twee",
-"sewe dae") are spelled where numerals would read oddly. Flagged for confirmation.
+consistent with the Genesis 5 decision; the small pairing-counts ("sewe-sewe", "twee", "twee-twee",
+"sewe dae") are spelled where numerals would read oddly.
 
 ---
 
-## Glossary additions (proposed)
+## Glossary additions (committed 2026-06-01)
 
-| Hebrew | Translit. | Proposed Afrikaans | Status | Notes |
+| Hebrew | Translit. | Afrikaans | Status | Notes |
 |---|---|---|---|---|
-| טָהוֹר | tahor | **rein** | 🟡 | Gen 7:2; clean (ritually); first occurrence. Distinct from *qadosh* (heilig) |
-| טָמֵא | tame | **onrein** | 🟡 | Gen 7:2, 8 (here phrased "nie rein nie"); unclean |
-| גָּבַר | gavar | **die oorhand kry** | 🟡 | Gen 7:18–24; prevail / overpower (of the waters) |
-| יְקוּם | yequm | **lewende wesens** | 🟡 | Gen 7:4, 23; living/standing things |
-| גֶּשֶׁם | geshem | **reën** | 🟡 | Gen 7:12; rain |
-| אֲרֻבּוֹת (הַשָּׁמַיִם) | arubbot (hashamayim) | **sluise (van die hemel)** | 🟡 | Gen 7:11; floodgates/windows of heaven |
+| טָהוֹר | tahor | **rein** | ✅ | Gen 7:2; clean (ritually); first occurrence. Distinct from *qadosh* (heilig) |
+| טָמֵא | tame | **onrein** | ✅ | Gen 7:2, 8 (here phrased "nie rein nie"); unclean |
+| גָּבַר | gavar | **die oorhand kry** | ✅ | Gen 7:18–24; prevail / overpower (of the waters) |
+| יְקוּם | yequm | **lewende wesens** | ✅ | Gen 7:4, 23; living/standing things |
+| גֶּשֶׁם | geshem | **reën** | ✅ | Gen 7:12; rain |
+| אֲרֻבּוֹת (הַשָּׁמַיִם) | arubbot (hashamayim) | **sluise (van die hemel)** | ✅ | Gen 7:11; floodgates/windows of heaven |
 
 No new proper names (Noag, Sem, Gam, Jafet already registered in `PROPER_NAMES.md`).
 

@@ -117,6 +117,8 @@
 | בְּרָכָה | berakah | **seën** | ✅ | |
 | εὐλογία | eulogia | **seën** | ✅ | |
 | קְלָלָה | qelalah | **vloek** | ✅ | |
+| טָהוֹר | tahor | **rein** | ✅ | Committed 2026-06-01 (Gen 7:2); ritually clean; first occurrence, well before the Mosaic law. Distinct from *qadosh* (heilig) |
+| טָמֵא | tame | **onrein** | ✅ | Committed 2026-06-01 (Gen 7:2, 8 — there phrased "nie rein nie", matching the Hebrew negation); ritually unclean |
 | רַחֲמִים | rachamim | **barmhartigheid** | ✅ | |
 | ἔλεος | eleos | **barmhartigheid** | ✅ | |
 | מִשְׁפָּט | mishpat | **oordeel** / **reg** | 🟡 | Often both; context-driven |
@@ -169,6 +171,10 @@
 | גֹּפֶר | gofer | **goferhout** | ✅ | Committed 2026-05-31 (Gen 6:14); unidentified wood |
 | כֹּפֶר | kofer | **pik** | ✅ | Committed 2026-05-31 (Gen 6:14); pitch |
 | מַבּוּל | mabbul | **watervloed** | ✅ | Committed 2026-05-31 (Gen 6:17); the Flood (technical term) |
+| גָּבַר | gavar | **die oorhand kry** | ✅ | Committed 2026-06-01 (Gen 7:18–24); prevail/overpower (of the waters); rendered as a refrain |
+| יְקוּם | yequm | **lewende wesens** | ✅ | Committed 2026-06-01 (Gen 7:4, 23); living/standing things |
+| גֶּשֶׁם | geshem | **reën** | ✅ | Committed 2026-06-01 (Gen 7:12); rain |
+| אֲרֻבּוֹת (הַשָּׁמַיִם) | arubbot (hashamayim) | **sluise (van die hemel)** | ✅ | Committed 2026-06-01 (Gen 7:11); floodgates/windows of heaven |
 
 ---
 

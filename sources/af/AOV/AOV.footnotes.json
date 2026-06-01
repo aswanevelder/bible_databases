@@ -1172,6 +1172,159 @@
             "text": "**Verse 18 — *berit*.** \"verbond\" (committed) — the **first covenant** in the Bible. Footnoted."
         },
         {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": null,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Divine name.** *YHWH* → **HERE** (vv.1, 5, 16b) and *Elohim* → **God** (vv.9, 16a). Note v.16, where both occur in one verse: \"soos **God** hom beveel het; en die **HERE** het agter hom toegesluit\" — the source's deliberate juxtaposition is preserved."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": null,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Numbers.** Numerals for the larger/specific quantities and dates (40, 600, 15 el, 150, 17de), consistent with the Genesis 5 decision; the small pairing-counts (\"sewe-sewe\", \"twee\", \"twee-twee\", \"sewe dae\") are spelled where numerals would read oddly."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": 1,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 1 — *tsaddiq*.** \"regverdig\" (committed, as in 6:9). Rendered in natural subject-first order (\"Ek het jou as regverdig voor My gesien\"); *tsaddiq* is the predicative complement of *ra'iti* (\"saw you [to be] righteous\"), so \"as\" carries the grammar without adding content."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": 2,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"rein\"/\"onrein\" (*tahor*/*tame*) — die eerste keer dat hierdie onderskeid in die Bybel voorkom, lank voor die wet van Moses."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": 2,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "b",
+            "text": "\"sewe-sewe\" vertaal die Hebreeuse verdubbeling letterlik (vgl. \"twee-twee\", v.9); die meeste lees dit as sewe *paar* van elke rein soort, party as sewe individue."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": 2,
+            "verse_end": 3,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 2–3, 8 — *tahor* / *tame*.** \"rein\" / \"onrein\" (clean / unclean) — the **first occurrence** of this distinction, well before the Mosaic law; proposed for the glossary. The unclean are phrased \"die diere wat nie rein is nie\" (*asher lo tehorah*), matching the Hebrew's negation rather than the flat *tame*."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": 2,
+            "verse_end": 3,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 2–3 — *shivah shivah* / *ish ve'ishto*.** \"sewe-sewe\" — the Hebrew distributive doubling, rendered literally to match \"twee-twee\" (*shnayim shnayim*, vv.9, 15); the \"seven pairs\" reading is carried in the footnote rather than baked into the verse. *ish ve'ishto* (\"a man and his wife\"), used of animals, → \"die mannetjie en sy wyfie\"; *zakhar uneqevah* of animals → \"mannetjie en wyfie\" (vs \"manlik en vroulik\" for humans, 1:27) — a context distinction, noted."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": 4,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 4, 23 — *machah* / *yequm*.** \"uitwis\" for *machah* (blot out; consistent with 6:7); *yequm* (\"standing/living things\") → \"lewende wesens\". v.23 repeats the verb (*vayyimach … vayyimmachu*) — kept as \"uitgewis … uitgewis\"."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": 8,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 2–3, 8 — *tahor* / *tame*.** \"rein\" / \"onrein\" (clean / unclean) — the **first occurrence** of this distinction, well before the Mosaic law; proposed for the glossary. The unclean are phrased \"die diere wat nie rein is nie\" (*asher lo tehorah*), matching the Hebrew's negation rather than the flat *tame*."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": 11,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"die groot dieptes\" (*tehom rabbah*, die oer-waters van onder, vgl. 1:2) en \"die sluise van die hemel\" (die waters van bo, vgl. 1:7) breek saam deur — die skepping se waterskeiding word as 't ware omgekeer."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": 11,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 11 — *tehom rabbah* / *arubbot hashamayim* / dates.** \"die groot dieptes\" (*tehom*, committed \"dieptes/diepwater\"); \"die sluise van die hemel\" (floodgates/windows). The date is given with numerals where specific (\"600ste jaar\", \"17de dag\"); \"tweede maand\" spelled. The cosmic reversal (waters above + below, undoing 1:6–7) is footnoted."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": 16,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"die HERE het agter hom toegesluit\" — 'n teer beeld: God self sluit die ark toe."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": 17,
+            "verse_end": 24,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 17–24 — *gavar*.** \"die oorhand kry/hê\" for *gavar* (prevail/overpower) — rendered consistently across vv.18, 19, 20, 24, so the relentless rising of the water reads as one motion. *me'od me'od* (v.19) → \"buitengewoon sterk\"."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": 20,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "'n El (*amah*) is ongeveer 45 cm; die water het dus sowat 6,75 m bo die berge gestaan."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": 22,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"asem van die lewe\" — die Hebreeus stapel hier *neshamah* (\"asem\") en *ruach* (\"gees/asem\") van die lewe op (*nishmat-ruach chayyim*)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": 22,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 22 — *nishmat-ruach chayyim*.** \"die asem van die lewe\" — the Hebrew piles up *neshamah* (\"asem\", cf. 2:7) and *ruach chayyim* (\"asem/gees van die lewe\", cf. 6:17); rendered as one phrase with a footnote, since splitting them (\"die asem van die lewensgees\") reads stiffly."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 7,
+            "verse": 23,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 4, 23 — *machah* / *yequm*.** \"uitwis\" for *machah* (blot out; consistent with 6:7); *yequm* (\"standing/living things\") → \"lewende wesens\". v.23 repeats the verb (*vayyimach … vayyimmachu*) — kept as \"uitgewis … uitgewis\"."
+        },
+        {
             "book": "John",
             "chapter": 1,
             "verse": null,

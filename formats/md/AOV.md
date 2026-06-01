@@ -334,6 +334,56 @@
 
 **[6:22]** En Noag het dit gedoen; net soos God hom beveel het, so het hy gedoen.
 
+### Chapter 7
+
+**[7:1]** Toe sê die HERE vir Noag: "Gaan in die ark, jy en jou hele huisgesin, want Ek het jou as regverdig voor My gesien in hierdie geslag.
+
+**[7:2]** Van al die rein diere moet jy vir jou sewe-sewe neem, die mannetjie en sy wyfie; en van die diere wat nie rein is nie, twee, die mannetjie en sy wyfie;
+
+**[7:3]** ook van die voëls van die hemel sewe-sewe, mannetjie en wyfie, om die geslag aan die lewe te hou op die oppervlak van die hele aarde.
+
+**[7:4]** Want oor nog sewe dae laat Ek dit op die aarde reën, 40 dae en 40 nagte; en Ek sal al die lewende wesens wat Ek gemaak het, van die oppervlak van die grond af uitwis."
+
+**[7:5]** En Noag het gedoen net soos die HERE hom beveel het.
+
+**[7:6]** En Noag was 600 jaar oud toe die watervloed oor die aarde gekom het.
+
+**[7:7]** En Noag het in die ark ingegaan, en sy seuns en sy vrou en sy seuns se vroue saam met hom, vanweë die waters van die vloed.
+
+**[7:8]** Van die rein diere en van die diere wat nie rein is nie, en van die voëls en van alles wat op die grond kruip,
+
+**[7:9]** het hulle twee-twee na Noag in die ark ingegaan, mannetjie en wyfie, soos God Noag beveel het.
+
+**[7:10]** En ná die sewe dae het die waters van die vloed oor die aarde gekom.
+
+**[7:11]** In die seshonderdste jaar van Noag se lewe, in die tweede maand, op die 17de dag van die maand — op daardie dag het al die fonteine van die groot dieptes oopgebreek, en die sluise van die hemel het oopgegaan.
+
+**[7:12]** En die reën was op die aarde 40 dae en 40 nagte.
+
+**[7:13]** Op daardie selfde dag het Noag in die ark ingegaan, en Sem en Gam en Jafet, Noag se seuns, en Noag se vrou en die drie vroue van sy seuns saam met hulle;
+
+**[7:14]** hulle, en al die wilde diere volgens hulle soort, en al die vee volgens hulle soort, en al die kruipende diere wat op die aarde kruip volgens hulle soort, en al die voëls volgens hulle soort — elke voël, alles wat vlerke het.
+
+**[7:15]** En hulle het twee-twee na Noag in die ark ingegaan, van alle vlees waarin die asem van die lewe is.
+
+**[7:16]** En die wat ingegaan het, was mannetjie en wyfie van alle vlees, soos God hom beveel het; en die HERE het agter hom toegesluit.
+
+**[7:17]** En die vloed was 40 dae lank op die aarde; en die waters het vermeerder en die ark opgelig, sodat dit bo die aarde uitgestyg het.
+
+**[7:18]** En die waters het die oorhand gekry en geweldig vermeerder op die aarde, en die ark het op die oppervlak van die waters gedryf.
+
+**[7:19]** En die waters het buitengewoon sterk die oorhand gekry op die aarde, en al die hoë berge onder die hele hemel is oordek.
+
+**[7:20]** Vyftien el hoog het die waters die oorhand gekry, en die berge is oordek.
+
+**[7:21]** En alle vlees wat op die aarde beweeg het, het gesterf — die voëls en die vee en die wilde diere en al die gedierte wat op die aarde wemel, en al die mense.
+
+**[7:22]** Alles wat die asem van die lewe in sy neusgate gehad het, van alles wat op die droë grond was, het gesterf.
+
+**[7:23]** So het Hy al die lewende wesens uitgewis wat op die oppervlak van die grond was — mens sowel as vee, kruipende diere en voëls van die hemel; hulle is van die aarde uitgewis, en net Noag het oorgebly, en die wat saam met hom in die ark was.
+
+**[7:24]** En die waters het 150 dae lank die oorhand gehad oor die aarde.
+
 ## John
 
 ### Chapter 1
