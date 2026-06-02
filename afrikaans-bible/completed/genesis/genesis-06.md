@@ -18,7 +18,7 @@
 
 ## Die HERE sien die boosheid van die mens
 
-**5** En die HERE het gesien dat die boosheid van die mens groot was op die aarde, en dat elke versinsel van die gedagtes van sy hart die hele dag net sleg was.
+**5** En die HERE het gesien dat die boosheid van die mens groot was op die aarde, en dat elke geneigdheid van die gedagtes van sy hart die hele dag net sleg was.
 
 **6** Toe het dit die HERE berou dat Hy die mens op die aarde gemaak het, en Hy was bedroef in sy hart.
 
@@ -68,6 +68,7 @@
 - 6:2 | "seuns van God" (*bnei ha-Elohim*) word uiteenlopend verklaar: (1) hemelse wesens / die goddelike raad — die oudste lesing (vgl. Job 1:6; 2:1; 38:7, waar dieselfde uitdrukking duidelik hemelwesens is); (2) die vrome Set-lyn; of (3) magtige heersers. Die vertaling bly letterlik en laat die keuse oop.
 - 6:3 | "bly" (*yadon*) is onseker — dit kan ook "twis" of "oordeel" beteken. Die "120 jaar" is óf 'n perk op die mens se leeftyd, óf die tyd tot die vloed.
 - 6:4 | "Nefilim" (van 'n wortel wat "val" beteken) — die reuse/geweldenaars van die ou tyd; "manne van naam" = beroemdes.
+- 6:5 | Die Hebreeuse woord *yetzer* ("geneigdheid") kom van die werkwoord *yatsar* ("vorm, boetseer") — dieselfde werkwoord wat in Genesis 2:7 gebruik word vir hoe God die mens uit die stof gevorm het. Daar is 'n doelbewuste eggo: dieselfde God wat die mens fisies gevorm het, kyk nou na die geneigdheid (die innerlike vorming) van die mens se hart. Hierdie woord het later die fondament geword van die Joodse leerstelling van die *yetzer hara* (bose geneigdheid) en *yetzer hatov* (goeie geneigdheid).
 - 6:6 | "berou" (*nacham*) speel op die naam Noag (*Noach*, 5:29); "bedroef" (*atsev*) deel die wortel van die "swaarkry" (*itstsavon*) van 3:16–17 — die mens se sonde bedroef God.
 - 6:9 | "met God gewandel" — dieselfde uitdrukking as by Henog (5:22, 24).
 - 6:14 | "ark" (*tevah*); "goferhout" (*gofer*, 'n onsekere houtsoort); "pik" (*kofer*).
@@ -140,7 +141,7 @@ the context rule — kept distinct from "Gees" (of God) and "wind", and from *ne
 | תָּמִים | tamim | **opreg** | 🟡 | 6:9; blameless/complete |
 | חָמָס | chamas | **geweld** | 🟡 | 6:11, 13; violence |
 | שָׁחַת | shachat | **verderf** / **verdorwe** | 🟡 | 6:11–13, 17; corrupt / destroy |
-| יֵצֶר | yetzer | **versinsel** / **neiging** | 🟡 | 6:5; inclination/formation of the heart |
+| יֵצֶר | yetzer | **geneigdheid** | ✅ | 6:5; inclination/bent of the heart (changed from "versinsel" 2026-06-02) |
 | תֵּבָה | tevah | **ark** | 🟡 | 6:14; Noah's ark (also Moses' basket, Ex 2) |
 | גֹּפֶר | gofer | **goferhout** | 🟡 | 6:14; unidentified wood |
 | כֹּפֶר | kofer | **pik** | 🟡 | 6:14; pitch |

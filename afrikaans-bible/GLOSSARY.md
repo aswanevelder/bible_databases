@@ -85,7 +85,7 @@
 | תָּמִים | tamim | **opreg** | ✅ | Committed 2026-05-31 (Gen 6:9); blameless/complete |
 | חָמָס | chamas | **geweld** | ✅ | Committed 2026-05-31 (Gen 6:11, 13); violence |
 | שָׁחַת | shachat | **verderf** / **verdorwe** | ✅ | Committed 2026-05-31 (Gen 6:11–13, 17); corrupt / destroy |
-| יֵצֶר | yetzer | **versinsel** / **neiging** | ✅ | Committed 2026-05-31 (Gen 6:5); inclination/formation of the heart |
+| יֵצֶר | yetzer | **geneigdheid** | ✅ | Inclination/bent of the heart (Gen 6:5; 8:21). **Changed 2026-06-02** from "versinsel" (which leaned to the "device/imagination" sense) to "geneigdheid" (the inclination/bent sense); re-passed Gen 6:5. |
 
 ---
 
@@ -134,12 +134,12 @@
 | עָשָׂה | asah | **maak** | ✅ | General "make"; distinguish from *bara* |
 | יָצַר | yatsar | **formeer** | ✅ | The potter's verb; committed 2026-05-30 (Gen 2:7, 8, 19). Distinct from *bara* (skep) and *asah* (maak). |
 | תֹהוּ וָבֹהוּ | tohu wa-bohu | **woes en leeg** | ✅ | AFR53 convention; alternatives rejected |
-| תְּהוֹם | tehom | **dieptes** / **diepwater** | 🟡 | Genesis 1:2 "diepwater"; elsewhere "dieptes". Document pattern. |
+| תְּהוֹם | tehom | **dieptes** / **diepwater** | ✅ | Committed 2026-06-02. "diepwater" for the primeval water-mass (Gen 1:2); "dieptes" elsewhere (Gen 7:11 *tehom rabbah* "die groot dieptes"). Pattern consistent across shipped Gen 1 & 7. |
 | רָקִיעַ | raqia | **uitspansel** | ✅ | Traditional; "gewelf" rejected for AFR53 compatibility |
 | שָׁמַיִם | shamayim | **hemel** (or **hemele**) | ✅ | Plural form acceptable in elevated contexts |
 | οὐρανός | ouranos | **hemel** | ✅ | |
-| אֶרֶץ | erets | **aarde** / **land** | 🟡 | Context-driven; "aarde" for planet, "land" for specific territory |
-| γῆ | gē | **aarde** / **land** | 🟡 | Same context rule |
+| אֶרֶץ | erets | **aarde** / **land** | ✅ | Committed 2026-06-02. Context rule: "aarde" for the earth/planet (Gen 1), "land" for a specific territory (Gen 2:11 Havila, 2:13 Kus, 4:16 Nod). Both arms proven across shipped Gen 1–4. Document choice per occurrence. |
+| γῆ | gē | **aarde** / **land** | ✅ | Committed 2026-06-02; same context rule as *erets* ("aarde" in shipped John). |
 | אָדָם | adam | **die mens** (met lidwoord) / **Adam** (eienaam) | ✅ | Committed 2026-05-31 (Gen 4). **Article rule:** arthrous *ha-adam* → "die mens"; anarthrous *adam* as the individual → "Adam". Debuts Gen 4:25; back-applied to 2:20, 3:17, 3:21. (2:5, anarthrous but generic, stays "mens".) |
 | אִישׁ | ish | **man** | ✅ | |
 | אִשָּׁה | ishshah | **vrou** | ✅ | *ish/ishshah* wordplay (Gen 2:23) lost in Afrikaans; handle by footnote, not "manninne" — pending team confirm |
@@ -186,7 +186,7 @@
 | ἀμὴν ἀμήν | amēn amēn | **Voorwaar, voorwaar** | ✅ | Committed 2026-05-30; traditional rendering kept. |
 | ἐσκήνωσεν | eskēnōsen | **kom woon** | 🟡 | Loses tabernacle allusion; consider "tent opgeslaan" — pending review |
 | καταλαμβάνω | katalambanō | **oorweldig** / **begryp** | 🟡 | John 1:5 — went with "oorweldig"; document if changed |
-| ἀρχή | archē | **begin** / **owerheid** | 🟡 | Context-driven |
+| ἀρχή | archē | **begin** / **owerheid** | ✅ | Committed 2026-06-02. "begin" (temporal) confirmed in shipped text — John 1:1, 1:2, and *archēn tōn sēmeiōn* "begin van die tekens" (John 2:11); matches Gen 1:1 "In die begin". The "owerheid" (ruler/authority) arm awaits its first occurrence — document there. |
 | αἰών | aiōn | **eeu** / **ewigheid** | 🟡 | Context-driven; "wêreld" in some idiomatic phrases |
 | παράκλητος | paraklētos | **Trooster** | 🟡 | Or **Voorspraak** or **Helper**. Decision before John 14. |
 | εὐαγγέλιον | euangelion | **evangelie** | ✅ | |

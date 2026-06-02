@@ -298,7 +298,7 @@
 
 **[6:4]** Die Nefilim was in daardie dae op die aarde — en ook daarna — toe die seuns van God by die dogters van die mens ingegaan en hulle vir hulle kinders gebaar het. Dit was die helde van ouds, die manne van naam.
 
-**[6:5]** En die HERE het gesien dat die boosheid van die mens groot was op die aarde, en dat elke versinsel van die gedagtes van sy hart die hele dag net sleg was.
+**[6:5]** En die HERE het gesien dat die boosheid van die mens groot was op die aarde, en dat elke geneigdheid van die gedagtes van sy hart die hele dag net sleg was.
 
 **[6:6]** Toe het dit die HERE berou dat Hy die mens op die aarde gemaak het, en Hy was bedroef in sy hart.
 

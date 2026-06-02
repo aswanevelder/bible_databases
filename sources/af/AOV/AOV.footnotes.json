@@ -1048,6 +1048,15 @@
         {
             "book": "Genesis",
             "chapter": 6,
+            "verse": 5,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Die Hebreeuse woord *yetzer* (\"geneigdheid\") kom van die werkwoord *yatsar* (\"vorm, boetseer\") — dieselfde werkwoord wat in Genesis 2:7 gebruik word vir hoe God die mens uit die stof gevorm het. Daar is 'n doelbewuste eggo: dieselfde God wat die mens fisies gevorm het, kyk nou na die geneigdheid (die innerlike vorming) van die mens se hart. Hierdie woord het later die fondament geword van die Joodse leerstelling van die *yetzer hara* (bose geneigdheid) en *yetzer hatov* (goeie geneigdheid)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 6,
             "verse": 6,
             "verse_end": null,
             "type": "reader",
