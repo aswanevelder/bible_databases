@@ -106,6 +106,7 @@ grandfather of Noah. Distinct from Metúsael (Gen 4:18, Cainite line). Footnote 
 | פְּרָת | Perat | **Eufraat** | ✅ | Gen 2:14 |
 | אַשּׁוּר | Ashur | **Assirië** | ✅ | Gen 2:14 |
 | נוֹד | Nod | **Nod** | ✅ | Gen 4:16; puns on *nad* (swerwing) |
+| אֲרָרָט | Ararat | **Ararat** | ✅ | Gen 8:4; the mountain region where the ark rests (established transliteration) |
 
 ---
 

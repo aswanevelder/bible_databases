@@ -110,6 +110,8 @@
 | זֶבַח | zevach | **offer** | ✅ | |
 | θυσία | thusia | **offer** | ✅ | |
 | מִנְחָה | minchah | **offergawe** | ✅ | Committed 2026-05-31 (Gen 4:3–5); gift/tribute/grain offering, distinct from *zevach* (offer, blood sacrifice). |
+| עֹלָה | olah | **brandoffer** | ✅ | Committed 2026-06-02 (Gen 8:20); the whole burnt offering. Distinct from *zevach* (offer) and *minchah* (offergawe). |
+| רֵיחַ הַנִּיחֹחַ | reach nichoach | **lieflike geur** | ✅ | Committed 2026-06-02 (Gen 8:21); the pleasing aroma of sacrifice. |
 | כִּפֻּר | kippur | **versoening** | ✅ | |
 | ἱλασμός | hilasmos | **versoening** | ✅ | |
 | תְּשׁוּבָה | teshuvah | **bekering** | ✅ | (when used in this sense) |
@@ -117,6 +119,7 @@
 | בְּרָכָה | berakah | **seën** | ✅ | |
 | εὐλογία | eulogia | **seën** | ✅ | |
 | קְלָלָה | qelalah | **vloek** | ✅ | |
+| קָלַל | qalal | **vervloek** (vloek-sin) / **weggetrek** (afneem-sin) | ✅ | Committed 2026-06-02. Two senses: at Gen 8:21 "curse" → **vervloek** (team decision 2026-06-02 to keep the strong echo of the 3:17 ground-curse, **deliberately sharing "vervloek" with *arar*** — the distinct-verb point carried by the footnote, not the body); at Gen 8:8, 11 "abate" (of the floodwaters) → **weggetrek** (kept distinct from *shakhakh* "bedaar" v.1 and *chaser* "afgeneem" vv.3, 5). |
 | טָהוֹר | tahor | **rein** | ✅ | Committed 2026-06-01 (Gen 7:2); ritually clean; first occurrence, well before the Mosaic law. Distinct from *qadosh* (heilig) |
 | טָמֵא | tame | **onrein** | ✅ | Committed 2026-06-01 (Gen 7:2, 8 — there phrased "nie rein nie", matching the Hebrew negation); ritually unclean |
 | רַחֲמִים | rachamim | **barmhartigheid** | ✅ | |
@@ -175,6 +178,10 @@
 | יְקוּם | yequm | **lewende wesens** | ✅ | Committed 2026-06-01 (Gen 7:4, 23); living/standing things |
 | גֶּשֶׁם | geshem | **reën** | ✅ | Committed 2026-06-01 (Gen 7:12); rain |
 | אֲרֻבּוֹת (הַשָּׁמַיִם) | arubbot (hashamayim) | **sluise (van die hemel)** | ✅ | Committed 2026-06-01 (Gen 7:11); floodgates/windows of heaven |
+| חַלּוֹן | challon | **venster** | ✅ | Committed 2026-06-02 (Gen 8:6); window. Distinct from *tsohar* (Gen 6:16, "opening"). |
+| עֹרֵב | orev | **raaf** | ✅ | Committed 2026-06-02 (Gen 8:7); raven |
+| יוֹנָה | yonah | **duif** | ✅ | Committed 2026-06-02 (Gen 8:8–12); dove |
+| מִכְסֶה | mikhseh | **bedekking** | ✅ | Committed 2026-06-02 (Gen 8:13); covering of the ark |
 
 ---
 

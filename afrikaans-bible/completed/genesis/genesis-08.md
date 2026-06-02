@@ -2,7 +2,7 @@
 
 *Vertaal uit die Hebreeuse Masoretiese Teks (Westminster Leningrad Codex)*
 
-*Status: konsep — wag op menslike hersiening*
+*Status: voltooi — promoveer 2026-06-02 (glossariumtoevoegings vasgelê)*
 
 ---
 
@@ -54,7 +54,7 @@
 
 **20** En Noag het vir die HERE 'n altaar gebou, en hy het van al die rein diere en van al die rein voëls geneem en brandoffers op die altaar gebring.
 
-**21** En die HERE het die lieflike geur geruik, en die HERE het by Homself gesê: "Ek sal die grond nie weer ter wille van die mens vervloek nie, want die versinsel van die mens se hart is sleg van sy jeug af; en Ek sal nie weer al die lewende wesens tref soos Ek gedoen het nie.
+**21** En die HERE het die lieflike geur geruik, en die HERE het by Homself gesê: "Ek sal die grond nie weer ter wille van die mens vervloek nie, want die geneigdheid van die mens se hart is sleg van sy jeug af; en Ek sal nie weer al die lewende wesens tref soos Ek gedoen het nie.
 
 **22** So lank as die aarde bestaan, sal saaityd en oestyd, koue en hitte, somer en winter, dag en nag nie ophou nie."
 
@@ -67,7 +67,7 @@
 - 8:1 | "God het aan Noag gedink" (*zakhar*) — die keerpunt van die verhaal. Die "wind" (*ruach*) wat God oor die aarde laat waai, eggo 1:2, waar die Gees/wind van God oor die waters beweeg.
 - 8:4 | "gerus" (*nuach*) speel op die naam Noag (*Noach*); so ook "rusplek" (v.9, *manoach*). Die ark "rus" op Ararat.
 - 8:11 | Die vars olyfblaar word 'n blywende teken van vrede en nuwe lewe.
-- 8:21 | "lieflike geur" (*reach nichoach*) — die offer wat God behaag. "vervloek" hier is *qalal*, 'n ander werkwoord as die *arar* van 3:17, al gaan albei oor die vloek op die grond. "die versinsel (*yetzer*) van die mens se hart is sleg" eggo presies 6:5.
+- 8:21 | "lieflike geur" (*reach nichoach*) — die offer wat God behaag. "vervloek" hier is *qalal*, 'n ander werkwoord as die *arar* van 3:17, al gaan albei oor die vloek op die grond. "die geneigdheid (*yetzer*) van die mens se hart is sleg" eggo presies 6:5.
 - 8:22 | God se belofte: die ritmes van die skepping (saaityd/oestyd, koue/hitte, somer/winter, dag/nag) sal nie weer ophou nie.
 
 ---
@@ -106,8 +106,9 @@ the whole burnt offering — proposed; distinct from *zevach* "offer" and *minch
 
 **Verse 21 — *reach nichoach* / *qalal* / *yetzer*.** "lieflike geur" (*reach nichoach*, the pleasing
 aroma). *qalal* → "vervloek" — chosen for the thematic echo of the ground-curse (3:17), with the
-footnote noting it is a **different verb** from *arar* (3:17, 4:11, 5:29). *yetzer* → "versinsel"
-(committed, 6:5) — and v.21b ("die versinsel … is sleg") deliberately repeats 6:5, now as the reason
+footnote noting it is a **different verb** from *arar* (3:17, 4:11, 5:29). *yetzer* → "geneigdheid"
+(committed; changed from "versinsel" 2026-06-02, Gen 6:5 re-passed) — and v.21b ("die geneigdheid … is
+sleg") deliberately repeats 6:5, now as the reason
 God shows mercy rather than judgement.
 
 **Verse 22 — creation rhythms.** *zera* here = "saaityd" (sowing/seedtime, not "nageslag"); *qatzir*
@@ -115,22 +116,22 @@ God shows mercy rather than judgement.
 
 ---
 
-## Glossary & name additions (proposed)
+## Glossary & name additions (committed 2026-06-02)
 
 **Vocabulary** (→ `GLOSSARY.md`):
 
-| Hebrew | Translit. | Proposed Afrikaans | Status | Notes |
+| Hebrew | Translit. | Afrikaans | Status | Notes |
 |---|---|---|---|---|
-| עֹלָה | olah | **brandoffer** | 🟡 | Gen 8:20; whole burnt offering. Distinct from *zevach* (offer), *minchah* (offergawe) |
-| רֵיחַ הַנִּיחֹחַ | reach nichoach | **lieflike geur** | 🟡 | Gen 8:21; the pleasing aroma of sacrifice |
-| קָלַל | qalal | **vervloek** (vloek) / **bedaar** (afneem) | 🟡 | 8:21 "curse" (distinct verb from *arar*); 8:8, 11 "abate" — same root, two senses |
-| חַלּוֹן | challon | **venster** | 🟡 | Gen 8:6; window (distinct from *tsohar*, 6:16 "opening") |
-| עֹרֵב | orev | **raaf** | 🟡 | Gen 8:7; raven |
-| יוֹנָה | yonah | **duif** | 🟡 | Gen 8:8–12; dove |
-| מִכְסֶה | mikhseh | **bedekking** | 🟡 | Gen 8:13; covering of the ark |
+| עֹלָה | olah | **brandoffer** | ✅ | Gen 8:20; whole burnt offering. Distinct from *zevach* (offer), *minchah* (offergawe) |
+| רֵיחַ הַנִּיחֹחַ | reach nichoach | **lieflike geur** | ✅ | Gen 8:21; the pleasing aroma of sacrifice |
+| קָלַל | qalal | **vervloek** (vloek-sin) / **weggetrek** (afneem-sin) | ✅ | 8:21 "curse" → **vervloek** (team decision: keep the strong 3:17 echo, deliberately sharing "vervloek" with *arar*, distinction in the footnote); 8:8, 11 "abate" → **weggetrek** (distinct from *shakhakh* "bedaar" v.1, *chaser* "afgeneem" vv.3, 5) |
+| חַלּוֹן | challon | **venster** | ✅ | Gen 8:6; window (distinct from *tsohar*, 6:16 "opening") |
+| עֹרֵב | orev | **raaf** | ✅ | Gen 8:7; raven |
+| יוֹנָה | yonah | **duif** | ✅ | Gen 8:8–12; dove |
+| מִכְסֶה | mikhseh | **bedekking** | ✅ | Gen 8:13; covering of the ark |
 
 **Proper names** (→ `PROPER_NAMES.md`): **Ararat** (*Ararat*, 8:4 — the mountain region where the ark
-rests). Noag, Sem, Gam, Jafet already registered.
+rests) registered ✅. Noag, Sem, Gam, Jafet already registered.
 
 ---
 
@@ -140,7 +141,7 @@ rests). Noag, Sem, Gam, Jafet already registered.
 this pass; findings are recorded for the human reviewer.*
 
 1. **Terminology drift** — None. *tevah*→ark, *mizbeach*→altaar, *basar*→vlees, *tahor*→rein (as
-   Gen 7), *yetzer*→versinsel (as 6:5), *ruach*→wind (context rule) all consistent. Divine-name
+   Gen 7), *yetzer*→geneigdheid (as 6:5), *ruach*→wind (context rule) all consistent. Divine-name
    pattern held (God in the recession, HERE at the altar).
 2. **Glossary violations** — None. *tehom*→diepte, *adamah*→grond, *Elohim*→God, *YHWH*→HERE
    committed. New terms (olah, reach nichoach, qalal, challon, orev, yonah, mikhseh) proposed.
@@ -152,6 +153,10 @@ this pass; findings are recorded for the human reviewer.*
    the *ruach*/1:2 echo, the *nuach*/*manoach*/Noach wordplays, the olive leaf, *reach nichoach*, the
    *qalal*-vs-*arar* distinction, and the 6:5 echo at v.21.
 
-**Recommendation:** ready for human review. Open calls: *olah* → "brandoffer" (recommended);
-*qalal* → "vervloek" at 8:21 (vs a distinct word like "verwens" to separate it from *arar*); confirm
-**Ararat** form. *tahor*→"rein" carries over from Genesis 7 (confirm there first).
+**Recommendation:** promoted 2026-06-02. Open calls resolved at review: *olah* → **"brandoffer"**
+(committed); *qalal* at 8:21 → **"vervloek"** (team decision — keep the strong echo of the 3:17
+ground-curse, deliberately sharing "vervloek" with *arar*; the distinct-verb point is carried by the
+8:21 footnote, not the body); *qalal*-abate (vv.8, 11) glossary rendering corrected to **"weggetrek"**
+to match the body (was mislabelled "bedaar/afneem"); **Ararat** confirmed and registered in
+`PROPER_NAMES.md`. *tahor*→"rein" carried over from Genesis 7; *yetzer*→"geneigdheid" (8:21) and
+*ruach*→"wind" (8:1) both committed.
