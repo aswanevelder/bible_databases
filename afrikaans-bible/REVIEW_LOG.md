@@ -52,6 +52,7 @@
 | 2026-05-31 | *adam* article rule | Committed (`GLOSSARY.md`): arthrous *ha-adam* → "die mens"; anarthrous *adam* (individual) → "Adam". Debuts Gen 4:25; back-applied to 2:20, 3:17, 3:21. Resolves the deferred Genesis-4 decision point. | Genesis 2–4 (and all later *adam* occurrences). |
 | 2026-05-31 | Genesis 4 glossary additions | Committed to `GLOSSARY.md`: ***adam*** article rule (above), **minchah**→offergawe. Personal names (Kain, Abel, Set, Enos) follow the proper-names policy (established/transliterated forms). | Applied during Genesis 4 promotion. |
 | 2026-05-30 | Genesis 3 glossary additions | Committed 11 terms to `GLOSSARY.md`: **nachash**→slang, **arum**→listig, **eivah**→vyandskap, **zera**→nageslag/saad, **chagorah**→lendedoek, **Chawwa**→Eva, **keruv**→gérub, **teshuqah**→begeerte, **arur**→vervloek, **itstsavon**→swaarkry, **etzev**→pyn | Applied during Genesis 3 promotion. |
+| 2026-06-02 | *ruach* / *pneuma* context rule | Committed (`GLOSSARY.md`, 🟡→✅): context-dependent rendering — **Gees** when of God (Gen 1:2, *ruach Elohim*), **wind** when a created/meteorological agent (Gen 8:1), **asem** when breath; *pneuma* the same (capital for the Holy Spirit). Where one occurrence echoes another across the rule (8:1 ↔ 1:2), footnote the link rather than collapse the renderings. No re-pass needed: Gen 1:2 ("Gees") already compliant; Gen 8:1 draft ("wind", footnoted) already follows it. | All OT + NT *ruach*/*pneuma* occurrences. |
 
 ---
 

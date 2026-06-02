@@ -58,8 +58,8 @@
 | διαθήκη | diathēkē | **verbond** | ✅ | NT context; "testament" only in technical legal passages |
 | מַלְכוּת | malkut | **koninkryk** | ✅ | |
 | βασιλεία | basileia | **koninkryk** | ✅ | |
-| רוּחַ | ruach | **Gees** / **wind** / **asem** | 🟡 | Context-dependent; "Gees" when of God, "wind" or "asem" when of creation. Note in every occurrence. |
-| πνεῦμα | pneuma | **Gees** / **gees** | 🟡 | Same context rule; capitalize for Holy Spirit |
+| רוּחַ | ruach | **Gees** / **wind** / **asem** | ✅ | Committed 2026-06-02. Context rules: **Gees** when of God (Gen 1:2, *ruach Elohim*); **wind** when a created/meteorological agent (Gen 8:1, the wind drying the flood); **asem** when breath. Where one occurrence echoes another across the rule (8:1 ↔ 1:2), footnote the link rather than collapse the renderings. Note the choice per occurrence. |
+| πνεῦμα | pneuma | **Gees** / **gees** | ✅ | Committed 2026-06-02; same context rule as *ruach*. Capitalize for the Holy Spirit; lower-case for human/other spirit and wind. |
 | יְשׁוּעָה | yeshu'ah | **verlossing** | ✅ | Committed 2026-05-30 as single default rendering. |
 | σωτηρία | sōtēria | **verlossing** | ✅ | Committed 2026-05-30; matches OT choice. |
 | כָּבוֹד | kavod | **heerlikheid** | ✅ | |
