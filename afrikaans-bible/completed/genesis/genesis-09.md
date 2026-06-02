@@ -2,7 +2,7 @@
 
 *Vertaal uit die Hebreeuse Masoretiese Teks (Westminster Leningrad Codex)*
 
-*Status: konsep — wag op menslike hersiening*
+*Status: voltooi — promoveer 2026-06-02 (glossariumtoevoegings vasgelê)*
 
 ---
 
@@ -121,22 +121,22 @@ the Genesis 5 genealogy ("So was al die dae van X … jaar; en hy het gesterf").
 
 ---
 
-## Glossary & name additions (proposed)
+## Glossary & name additions (committed 2026-06-02)
 
 **Vocabulary** (→ `GLOSSARY.md`):
 
-| Hebrew | Translit. | Proposed Afrikaans | Status | Notes |
+| Hebrew | Translit. | Afrikaans | Status | Notes |
 |---|---|---|---|---|
-| קֶשֶׁת | qeshet | **boog** | 🟡 | Gen 9:13–16; the rainbow (also "war-bow"). Literal; footnoted |
-| בָּרוּךְ | baruch | **geseënd** | 🟡 | Gen 9:26; "blessed". Cf. *berakah* → seën |
-| יַיִן | yayin | **wyn** | 🟡 | Gen 9:21; wine |
-| כֶּרֶם | karem | **wingerd** | 🟡 | Gen 9:20; vineyard |
-| עֶרְוָה | ervah | **naaktheid** | 🟡 | Gen 9:22, 23; nakedness |
-| עֶבֶד | eved | **slaaf** / **kneg** | 🟡 | Gen 9:25–27; servant/slave (*eved avadim* = lowest servant) |
-| שָׁכַר | shakhar | **dronk word** | 🟡 | Gen 9:21; become drunk |
+| קֶשֶׁת | qeshet | **boog** | ✅ | Gen 9:13–16; the rainbow (also "war-bow"). Literal; footnoted. Team decision: "boog" not "reënboog" (keeps the war-bow imagery) |
+| בָּרוּךְ | baruch | **geseënd** | ✅ | Gen 9:26; "blessed". Cf. *berakah* → seën |
+| יַיִן | yayin | **wyn** | ✅ | Gen 9:21; wine |
+| כֶּרֶם | karem | **wingerd** | ✅ | Gen 9:20; vineyard |
+| עֶרְוָה | ervah | **naaktheid** | ✅ | Gen 9:22, 23; nakedness |
+| עֶבֶד | eved | **slaaf** / **kneg** | ✅ | Gen 9:25–27. **Context rule** (cf. *nephesh*): **slaaf** for forced bondage (proven here, *eved avadim* → "slaaf van slawe"); **kneg** for servant/official or the LORD's servant (awaits first occurrence). Not flat. |
+| שָׁכַר | shakhar | **dronk word** | ✅ | Gen 9:21; become drunk |
 
 **Proper names** (→ `PROPER_NAMES.md`): **Kanaän** (*Khena'an*, 9:18 — Ham's son, ancestor of the
-Canaanites). Noag, Sem, Gam, Jafet already registered.
+Canaanites) registered ✅. Noag, Sem, Gam, Jafet already registered.
 
 ---
 
@@ -159,6 +159,9 @@ this pass; findings are recorded for the human reviewer.*
    the image-of-God basis and chiasm (v.6), the *qeshet* bow/rainbow imagery, the curse falling on
    Canaan not Ham, *eved avadim*, and the Japheth name-pun.
 
-**Recommendation:** ready for human review. Open calls: *qeshet* → "boog" (literal + footnote) vs
-"reënboog" (explicit); *eved* → "slaaf" vs "kneg" at 9:25–27; confirm **Kanaän** form. (Inherits the
-*olah*, *tahor*, small-number questions still open in Genesis 7–8.)
+**Recommendation:** promoted 2026-06-02. Open calls resolved at review: *qeshet* → **"boog"**
+(literal + footnote; team decision over "reënboog", to keep the war-bow imagery); *eved* → **"slaaf"**
+at 9:25–27 (committed as a **context rule** — "slaaf" for forced bondage, "kneg" reserved for
+servant/official and the LORD's servant when those occur, like *nephesh*); **Kanaän** confirmed and
+registered in `PROPER_NAMES.md`. Carried over: *berit*→verbond, *ot*→teken, *tselem*→beeld (9:6
+echoes 1:27), *arar*→vervloek (9:25), *zakhar*→onthou (as 8:1).

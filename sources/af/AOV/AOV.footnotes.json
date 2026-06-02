@@ -1487,6 +1487,132 @@
             "text": "**Verse 22 — creation rhythms.** *zera* here = \"saaityd\" (sowing/seedtime, not \"nageslag\"); *qatzir* = \"oestyd\". The six paired opposites are kept as tight pairs."
         },
         {
+            "book": "Genesis",
+            "chapter": 9,
+            "verse": null,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Divine name.** *Elohim* → **God** throughout (vv.1, 6, 8, 12, 16, 17, 27); *YHWH* → **HERE** at v.26 (\"Geseënd is die HERE, die God van Sem\"). The single YHWH stands out deliberately — Shem's God is the covenant LORD."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 9,
+            "verse": 1,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 1, 7 — *pru urvu*.** \"Wees vrugbaar en vermeerder\" — the creation blessing of 1:28 re-issued to Noah, rendered identically (it brackets the meat/blood laws, vv.1 and 7)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 9,
+            "verse": 4,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Die verbod op bloed: die \"lewe\" (*nephesh*) is in die bloed; daarom mag vleis nie met sy bloed geëet word nie."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 9,
+            "verse": 4,
+            "verse_end": 6,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 4–6 — *nephesh* / *dam* / *tselem*.** \"lewe\" for *nephesh* (the life that is in the blood, v.4; the life required, v.5 — context rule, not \"wese/siel\"). v.6 is a tight Hebrew chiasm (\"shofekh dam ha'adam / ba'adam damo yishshafekh\") and is kept compact; \"beeld\" (*tselem*, committed) grounds it in 1:27. The image-of-God reason for capital justice is the theological peak of the passage — footnoted."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 9,
+            "verse": 6,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Die grond vir die heiligheid van menslike lewe: die mens is na die beeld van God gemaak (vgl. 1:27). Die vers vorm in Hebreeus 'n kunstige spieëlbeeld (chiasme): bloed–mens / mens–bloed."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 9,
+            "verse": 7,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 1, 7 — *pru urvu*.** \"Wees vrugbaar en vermeerder\" — the creation blessing of 1:28 re-issued to Noah, rendered identically (it brackets the meat/blood laws, vv.1 and 7)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 9,
+            "verse": 9,
+            "verse_end": 17,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 9–17 — *berit* / *ot* / *qeshet*.** \"verbond\" (*berit*, committed) and \"teken\" (*ot*, committed). *qeshet* → **\"boog\"** (literal), footnoted as the rainbow and, by the word's other sense, a war-bow that God \"hangs up\". \"berit olam\" → \"ewige verbond\" (v.16). *zakhar* → \"onthou\" (vv.15, 16), the same verb as God's \"remembering\" Noah in 8:1."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 9,
+            "verse": 13,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"boog\" (*qeshet*) is die reënboog; die woord is ook die naam vir die krygsboog — 'n beeld van God wat sy wapen wegbêre."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 9,
+            "verse": 18,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 18 — Kanaän introduced.** \"Gam was die vader van Kanaän\" — flagged early because Canaan, not Ham, bears the curse (vv.25–27). **Kanaän** registered in `PROPER_NAMES.md`."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 9,
+            "verse": 20,
+            "verse_end": 24,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 20–24 — *karem* / *yayin* / *shakhar* / *ervah*.** \"wingerd\" (vineyard), \"wyn\", \"dronk word\" (*shakhar*), \"naaktheid\" (*ervah*). *ish ha'adamah* → \"man van die grond\" (the soil-worker, echoing Noah's farming vocation and the *adamah* of 5:29). *beno haqqatan* → \"sy jongste seun\"."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 9,
+            "verse": 25,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"Vervloek is Kanaän\" — die vloek tref Gam se seun Kanaän (stamvader van die Kanaäniete), nie Gam self nie. \"slaaf van slawe\" beteken die heel laagste kneg."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 9,
+            "verse": 25,
+            "verse_end": 27,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 25–27 — *arur* / *eved avadim* / the Japheth pun.** \"Vervloek\" (*arar*, committed); the curse falls on **Kanaän**, not Ham (footnoted). *eved avadim* (\"servant of servants\") → \"'n slaaf van slawe\" = the lowest servant (footnoted). v.27 puns on Japheth: *yaft … leYefet* (\"may he enlarge Yefet\") → \"Mag God Jafet ruim maak\" — footnoted. \"Geseënd\" for *baruch*."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 9,
+            "verse": 27,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"Mag God Jafet ruim maak\" — 'n klankspel op die naam Jafet (*Yefet*, wat soos die woord vir \"uitbrei\", *yaft*, klink)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 9,
+            "verse": 28,
+            "verse_end": 29,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 28–29 — Noah's death.** \"geleef\" + numerals (350, 950), and the v.29 death-formula matches the Genesis 5 genealogy (\"So was al die dae van X … jaar; en hy het gesterf\")."
+        },
+        {
             "book": "John",
             "chapter": 1,
             "verse": null,

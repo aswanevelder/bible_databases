@@ -118,6 +118,7 @@
 | μετάνοια | metanoia | **bekering** | ✅ | |
 | בְּרָכָה | berakah | **seën** | ✅ | |
 | εὐλογία | eulogia | **seën** | ✅ | |
+| בָּרוּךְ | baruch | **geseënd** | ✅ | Committed 2026-06-02 (Gen 9:26); "blessed" (passive adj.). Cf. *berakah* → seën. |
 | קְלָלָה | qelalah | **vloek** | ✅ | |
 | קָלַל | qalal | **vervloek** (vloek-sin) / **weggetrek** (afneem-sin) | ✅ | Committed 2026-06-02. Two senses: at Gen 8:21 "curse" → **vervloek** (team decision 2026-06-02 to keep the strong echo of the 3:17 ground-curse, **deliberately sharing "vervloek" with *arar*** — the distinct-verb point carried by the footnote, not the body); at Gen 8:8, 11 "abate" (of the floodwaters) → **weggetrek** (kept distinct from *shakhakh* "bedaar" v.1 and *chaser* "afgeneem" vv.3, 5). |
 | טָהוֹר | tahor | **rein** | ✅ | Committed 2026-06-01 (Gen 7:2); ritually clean; first occurrence, well before the Mosaic law. Distinct from *qadosh* (heilig) |
@@ -182,6 +183,12 @@
 | עֹרֵב | orev | **raaf** | ✅ | Committed 2026-06-02 (Gen 8:7); raven |
 | יוֹנָה | yonah | **duif** | ✅ | Committed 2026-06-02 (Gen 8:8–12); dove |
 | מִכְסֶה | mikhseh | **bedekking** | ✅ | Committed 2026-06-02 (Gen 8:13); covering of the ark |
+| קֶשֶׁת | qeshet | **boog** | ✅ | Committed 2026-06-02 (Gen 9:13–16); the rainbow — rendered literally as "boog", which is also the word for a war-bow (God laying down His weapon); footnoted. Not "reënboog" (would lose the war-bow imagery). |
+| כֶּרֶם | karem | **wingerd** | ✅ | Committed 2026-06-02 (Gen 9:20); vineyard |
+| יַיִן | yayin | **wyn** | ✅ | Committed 2026-06-02 (Gen 9:21); wine |
+| שָׁכַר | shakhar | **dronk word** | ✅ | Committed 2026-06-02 (Gen 9:21); become drunk |
+| עֶרְוָה | ervah | **naaktheid** | ✅ | Committed 2026-06-02 (Gen 9:22–23); nakedness |
+| עֶבֶד | eved | **slaaf** / **kneg** | ✅ | Committed 2026-06-02 (Gen 9:25–27). **Context rule** (cf. *nephesh*): **slaaf** for forced bondage/servitude — proven at Gen 9:25–27, the curse on Kanaän (*eved avadim* → "slaaf van slawe", the lowest servant); **kneg** for a servant/official or the LORD's servant. The "kneg" arm awaits its first occurrence — document there. Do not render flatly. |
 
 ---
 

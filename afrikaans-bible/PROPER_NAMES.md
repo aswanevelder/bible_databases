@@ -92,6 +92,7 @@ grandfather of Noah. Distinct from Metúsael (Gen 4:18, Cainite line). Footnote 
 | חָם | Cham | **Gam** | ✅ | Gen 5:32 |
 | יֶפֶת | Yefet | **Jafet** | ✅ | Gen 5:32 |
 | נְפִילִים | Nefilim | **Nefilim** | ✅ | Gen 6:4 (group name); transliterated. From a root meaning "fall"; the giants/mighty men of old |
+| כְּנַעַן | Khena'an | **Kanaän** | ✅ | Gen 9:18; Gam se seun, stamvader van die Kanaäniete (established Afrikaans form); bears the curse (9:25–27) |
 
 ## Genesis — places
 
