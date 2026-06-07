@@ -3,7 +3,7 @@
 > **Pacing commitment**: 2 chapters per day, 6 days per week (12 chapters/week)
 > **Team structure**: Solo translator + AI-assisted review + occasional human consultation on critical passages
 > **Target completion**: Publication-ready full Bible
-> **Methodology**: See `CLAUDE.md`, `TRANSLATION_POLICY.md`, `GLOSSARY.md`, `PROPER_NAMES.md`
+> **Methodology**: See `CLAUDE.md`, `TRANSLATION_POLICY.md`, `GLOSSARY.md`, `PROPER_NAMES.md`, `CROSS_REFERENCE.md`
 >
 > **⚠️ Status of this document.** This is a **roadmap, not policy.** Where it disagrees with
 > `CLAUDE.md`, `TRANSLATION_POLICY.md`, `GLOSSARY.md`, or `PROPER_NAMES.md`, **those files win** —
@@ -188,6 +188,9 @@ The workflow becomes more critical when working alone. Discipline replaces team 
 - Register any new proper names in `PROPER_NAMES.md` (check the source spelling; apply the
   identical-vs-distinct rule)
 - Update any provisional 🟡 terms that have been refined
+- Register any verbatim parallel passages in `CROSS_REFERENCE.md` (so the later occurrence
+  inherits this chapter's rendering); if this chapter *is* the later occurrence, pull the
+  committed rendering from there
 - Log the promotion and any policy questions in `REVIEW_LOG.md`
 
 ### Step 6: Flag for consultation if needed (~5 minutes)

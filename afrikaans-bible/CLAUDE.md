@@ -35,6 +35,7 @@ afrikaans-bible/
 ├── CLAUDE.md                  ← this file
 ├── GLOSSARY.md                ← terminology decisions (grows as you work)
 ├── TRANSLATION_POLICY.md      ← textual base, divine name, etc.
+├── CROSS_REFERENCE.md         ← parallel passages requiring identical rendering
 ├── REVIEW_LOG.md              ← who reviewed what, when
 ├── completed/
 │   ├── genesis/
@@ -267,6 +268,7 @@ Quarterly (or every 200 chapters), have a theologian review the glossary against
 - `GLOSSARY.md` — committed terminology
 - `PROPER_NAMES.md` — committed proper-name renderings (people & places); the names registry
 - `TRANSLATION_POLICY.md` — open decisions and committed policy details
+- `CROSS_REFERENCE.md` — verbatim parallel passages that must share one rendering (e.g. Gen 10:25 ↔ 1 Chr 1:19)
 - `REVIEW_LOG.md` — who reviewed what, when, and findings
 - `completed/genesis/genesis-01.md` — reference example (OT narrative)
 - `completed/john/john-01.md` — reference example (NT theological prose)
