@@ -195,6 +195,16 @@
 | מִשְׁפָּחָה | mishpachah | **familie** | ✅ | Committed 2026-06-07 (Gen 10:5, 18, 20, 31, 32); clan/family. Distinct from *toledot* (geslagsregister). |
 | גְּבוּל | gevul | **grens** | ✅ | Committed 2026-06-07 (Gen 10:19); border/territory. |
 | אִיִּים | iyyim | **kuslande** | ✅ | Committed 2026-06-07 (Gen 10:5); isles/coastlands (Mediterranean coasts the Japhethites spread to). |
+| שָׂפָה | sefah | **taal** | ✅ | Committed 2026-06-07 (Gen 11:1, 6, 7, 9); language (lit. "lip"). Functionally = *lashon* but a distinct word — distinction carried by footnote (Gen 11:1), not spelling. |
+| עַם | am | **volk** | ✅ | Committed 2026-06-07 (Gen 11:6); a people as a body. Distinct from *goy* → nasie (Gen 10). |
+| מִגְדָּל | migdal | **toring** | ✅ | Committed 2026-06-07 (Gen 11:4–5); tower (the Babel ziggurat). |
+| לְבֵנָה | levenah | **baksteen** | ✅ | Committed 2026-06-07 (Gen 11:3); brick. The *nilbenah levenim* wordplay is footnoted, not reproduced. |
+| חֵמָר | chemar | **asfalt** | ✅ | Committed 2026-06-07 (Gen 11:3); bitumen. Distinct from *kofer* → pik (Gen 6:14). The *chemar/chomer* wordplay is footnoted. |
+| חֹמֶר | chomer | **messelklei** | ✅ | Committed 2026-06-07 (Gen 11:3); mortar/clay. |
+| בָּלַל | balal | **verwar** | ✅ | Committed 2026-06-07 (Gen 11:7 *navlah*, 9); confuse/confound. Puns on "Babel" (footnoted, the pun cannot survive in Afrikaans). One rendering for the one root (*navlah*/*balal*). |
+| פּוּץ | puts | **verstrooi** | ✅ | Committed 2026-06-07 (Gen 11:4, 8, 9); scatter. One rendering throughout: the scattering the people *fear* (v.4) is what the LORD *does* (vv.8–9). |
+| בִּקְעָה | biq'ah | **vlakte** | ✅ | Committed 2026-06-07 (Gen 11:2); plain/valley. |
+| עֲקָרָה | aqarah | **onvrugbaar** | ✅ | Committed 2026-06-07 (Gen 11:30); barren. Sarai is the first of the barren matriarchs — opens the Gen 12–21 promise-tension. |
 
 ---
 

@@ -1829,6 +1829,294 @@
             "text": "**Verses 1, 32 — *toledot*.** \"geslagsregister\" (committed sense for genealogies, vgl. Gen 5:1). v.32 *letoldotam* → \"volgens hulle geslagte\". Die hoofstuk is 'n *volkere*register — die enigste van sy soort in die Tora."
         },
         {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": null,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Divine name.** *YHWH* → **HERE** (vv.5, 6, 8, 9). *Elohim* kom nie in hierdie hoofstuk voor nie."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": null,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Babel-narratief — die woordspel-netwerk (vv.1–9).** Die eenheid is rondom klank en herhaling gebou; die vertaling behou wat in Afrikaans kan oorleef en voetnoot die res: - ***balal* / *navlah* → \"verwar\"** (vv.7, 9). *navlah* (v.7, \"laat ons verwar\") en *balal* (v.9, \"het verwar\") is dieselfde wortel; albei → \"verwar\" om die band te behou. Die naam **Babel** speel op *balal* — die woordspel kan nie in Afrikaans nageboots word nie en staan in 'n voetnoot (v.9). - ***puts* → \"verstrooi\"** (vv.4, 8, 9). Een werkwoord deurgaans: die verstrooiing wat die mense **vrees** (v.4, *pen-nafuts*) is presies wat die HERE **doen** (vv.8–9). Fidelity-over-smoothness: een Afrikaanse woord vir die een Hebreeuse wortel. - **Baksteen/asfalt-woordspel** (v.3): *nilbenah levenim* (stem-herhaling) en *chemar/chomer* (klankpaar) — in 'n voetnoot, nie in die lyf nie. - ***shem* → \"naam\"** (v.4): die mense wil 'n \"naam\" maak; in 12:2 maak die HERE Abram se naam groot. Voetnoot lê die ironie bloot. - **\"laat Ons neerdaal\"** (v.7): die goddelike meervoud soos 1:26, hier ook 'n parodie van die mense se \"Kom, laat ons ...\" (vv.3–4). \"Ons\" met hoofletter, soos 1:26."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": null,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Proper-name renderings (per `PROPER_NAMES.md`-beleid).** - *Reeds geregistreer (Gen 10):* Sem, Arpagsad (*Arpakhshad*), Selag (*Shelach*), Eber, Peleg; Kanaän. - *Nuut, getranslitereer:* **Reü** (*Re'u*), **Serug** (*Serug*), **Nahor** (*Nachor*; chet → \"h\", soos Hul/Havila), **Terag** (*Terach*; finale chet → \"g\", soos Selag/Jerag/Metúsalag), **Haran** (persoon, *Haran* הָרָן, met *he*), **Charan** (plek, *Charan* חָרָן, met *chet* — sien onder), **Lot**, **Milka** (*Milkah*), **Jiska** (*Yiskah*; yod → \"J\"). - *Nuut, gevestigde vorms:* **Abram** (*Avram*; nog nié Abraham nie, eers 17:5), **Sarai** (*Saray*; nog nié Sara nie, eers 17:15), **Ur** (*Ur*), **Chaldeërs** (*Kasdim*; die gevestigde, effens anachronistiese vorm)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 1,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"een taal\" — *sefah* (lett. \"lip\") staan hier vir \"taal\"; dit is 'n ander Hebreeuse woord as *lashon* (\"tong/taal\", 10:5, 20, 31), maar met dieselfde betekenis. \"dieselfde woorde\" (*devarim achadim*) kan ook \"eenvormige (min) woorde\" beteken."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 1,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 1, 6, 7, 9 — *sefah* (\"lip\") → \"taal\".** *sefah* (lett. \"lip\") word as \"taal\" weergegee — funksioneel dieselfde as *lashon* (\"tong/taal\", 10:5, 20, 31), maar 'n ander woord. Die onderskeid word per voetnoot (11:1) gedra, nie deur die lyfteks nie (vgl. die *qalal/arar* → \"vervloek\"-presedent, 8:21). Nuwe glossariuminskrywing voorgestel."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 2,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"van die ooste af\" (*mikkedem*) — kan ook \"ooswaarts\" of \"in die ooste\" beteken. \"vlakte\" (*biq'ah*). Sinear is Babilonië (vgl. 10:10)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 3,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Woordspel: *nilbenah levenim* (\"laat ons bakstene vorm\"); \"asfalt\" (*chemar*, bitumen) en \"messelklei\" (*chomer*) speel ook op mekaar (*chemar/chomer*). Met gebakte baksteen en asfalt — in plaas van klip en kalk — bou hulle op Mesopotamiese wyse."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 4,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"'n naam maak\" (*shem*) — ironies teenoor 12:2, waar die HERE Abram se naam groot sal maak. \"toring\" (*migdal*) \"waarvan die top tot in die hemel reik\" — waarskynlik 'n zikkurat. \"verstrooi\" (*puts*): juis wat hulle vrees (v.4), is wat die HERE doen (v.8–9)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 5,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"die HERE het neergedaal\" — ironies: die toring reik na die hemel, maar die HERE moet \"neerdaal\" om dit te sien. \"mensekinders\" (*bnei ha'adam*)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 5,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 5, 7 — *yarad* (\"neerdaal\").** \"neergedaal\" (v.5) / \"neerdaal\" (v.7); konsekwent. Die ironie (die hemel-hoë toring waarvoor die HERE moet *afkom*) staan in 'n voetnoot."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 6,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 1, 6, 7, 9 — *sefah* (\"lip\") → \"taal\".** *sefah* (lett. \"lip\") word as \"taal\" weergegee — funksioneel dieselfde as *lashon* (\"tong/taal\", 10:5, 20, 31), maar 'n ander woord. Die onderskeid word per voetnoot (11:1) gedra, nie deur die lyfteks nie (vgl. die *qalal/arar* → \"vervloek\"-presedent, 8:21). Nuwe glossariuminskrywing voorgestel."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 6,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 6 — *am* → \"volk\".** Onderskei van *goy* → \"nasie\" (10:5, 20, 31). Nuwe inskrywing voorgestel. *lo-yibbatser* → \"sal ... nie onmoontlik wees nie\" (lett. \"afgesny/verhinder word\"); *yazmu* → \"van plan is\"."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 7,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"laat Ons neerdaal\" — die goddelike meervoud (soos 1:26), en 'n weerklank van die mense se \"Kom, laat ons ...\" (vv.3–4). \"verwar\" (*navlah*, van die wortel *balal*) — sien v.9."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 7,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 1, 6, 7, 9 — *sefah* (\"lip\") → \"taal\".** *sefah* (lett. \"lip\") word as \"taal\" weergegee — funksioneel dieselfde as *lashon* (\"tong/taal\", 10:5, 20, 31), maar 'n ander woord. Die onderskeid word per voetnoot (11:1) gedra, nie deur die lyfteks nie (vgl. die *qalal/arar* → \"vervloek\"-presedent, 8:21). Nuwe glossariuminskrywing voorgestel."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 7,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 5, 7 — *yarad* (\"neerdaal\").** \"neergedaal\" (v.5) / \"neerdaal\" (v.7); konsekwent. Die ironie (die hemel-hoë toring waarvoor die HERE moet *afkom*) staan in 'n voetnoot."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 9,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"Babel\" — die naam klink soos *balal* (\"verwar\"); die verteller speel daarmee. (Babiloniërs het \"Babel\" as \"poort van die god\" verstaan; die Hebreeuse woordspel keer dit om.) Sien 10:10."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 9,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 1, 6, 7, 9 — *sefah* (\"lip\") → \"taal\".** *sefah* (lett. \"lip\") word as \"taal\" weergegee — funksioneel dieselfde as *lashon* (\"tong/taal\", 10:5, 20, 31), maar 'n ander woord. Die onderskeid word per voetnoot (11:1) gedra, nie deur die lyfteks nie (vgl. die *qalal/arar* → \"vervloek\"-presedent, 8:21). Nuwe glossariuminskrywing voorgestel."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 10,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"geslagsregister\" (*toledot*) — die Sem-lyn van die watervloed tot Abram. Die struktuur weerklink Genesis 5, maar sonder die \"en hy het gesterf\"-formule en sonder 'n totale leeftyd."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 10,
+            "verse_end": 26,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 10–26 — die Sem-geslagsregister.** Dieselfde formule as Genesis 5, sonder die sterf-formule: *holid* → **\"die vader geword van\"** (committed); *vayechi … shanah* → \"het … jaar geleef\"; *vayyoled banim uvanot* → \"seuns en dogters gehad\". Ouderdomme as **syfers** (committed numerale-konvensie, soos Gen 5). \"twee jaar ná die watervloed\" (v.10) gespel as klein telwoord."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 22,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 22, 26 — Nahor × 2 (identies → identies).** *Nachor* is sowel Serug se seun (v.22, Abram se oupa) as Abram se broer (v.26): dieselfde Hebreeus, dus dieselfde \"Nahor\" — twee persone, een vorm (reël 1). Geen voetnoot in die lyf nodig nie; hier gedokumenteer."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 24,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 24, 32 — Terag (bevestig by hersiening 2026-06-07).** \"Terag\" volg die projek se finale-guttuaal-→-\"g\"-konvensie (Selag/Jerag/Metúsalag); die gevestigde AFR-vorm \"Tera\" is oorweeg en verwerp ten gunste van stelsel-konsekwentheid."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 26,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Abram word eerste genoem, nie noodwendig as die oudste nie. Sy naam word later Abraham (17:5); Sarai word Sara (17:15)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 26,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 22, 26 — Nahor × 2 (identies → identies).** *Nachor* is sowel Serug se seun (v.22, Abram se oupa) as Abram se broer (v.26): dieselfde Hebreeus, dus dieselfde \"Nahor\" — twee persone, een vorm (reël 1). Geen voetnoot in die lyf nodig nie; hier gedokumenteer."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 26,
+            "verse_end": 32,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verses 26–32 — Haran (persoon, הָרָן) vs Charan (plek, חָרָן) — opgelos by hersiening 2026-06-07.** Die bron **onderskei** hulle (beginletter *he* vs *chet*). **Besluit: die persoon bly \"Haran\"; die plek word \"Charan\"** — reël 2 (verskillende bron → verskillende weergawe) word sigbaar in die lyf geëerbiedig, en die *chet* → \"H\"-konvensie word vir hierdie een pleknaam doelbewus afgewyk. Body vv.31–32 en voetnote (11:29, 31) dienooreenkomstig aangepas."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 28,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"voor die oë van Terag, sy vader\" — Haran sterf tydens sy vader se leeftyd. \"Ur van die Chaldeërs\" (*Ur Kasdim*): \"Chaldeërs\" is die later gevestigde naam vir die *Kasdim*."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 28,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 28, 31 — Ur Kasdim / die teksvariant.** \"Ur van die Chaldeërs\". By v.31 het die MT *vayyetse'u ittam* (\"hulle het saam met hulle uitgetrek\" — sintakties stroef, want Terag is die onderwerp); LXX en die Samaritaanse Pentateug lees *vayyotse* (\"hy het hulle uitgelei\"). MT in die lyf, variant gevoetnoot (TRANSLATION_POLICY §1)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 29,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "Haran hier is Abram se broer (v.26), die vader van Milka en Jiska — te onderskei van die plek Charan (vv.31–32), wat in Hebreeus met 'n ander beginletter geskryf word (die persoon *Haran*, הָרָן, met *he*; die plek *Charan*, חָרָן, met *chet*)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 30,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"onvrugbaar\" (*aqarah*) — die eerste van die onvrugbare aartsmoeders; dit span die hele Abraham-vertelling op."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 30,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 30 — *aqarah* → \"onvrugbaar\".** Eerste onvrugbare aartsmoeder; tema-opener vir Genesis 12–21. Nuwe inskrywing voorgestel."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 31,
+            "verse_end": null,
+            "type": "reader",
+            "marker": "a",
+            "text": "\"Charan\" is die plek (חָרָן, met *chet*), 'n stad in Aram-Naharaim — te onderskei van Haran die persoon (הָרָן, met *he*, v.26). \"saam met hulle uitgetrek\": die Masoretiese teks lees \"hulle het ... uitgetrek\"; die Septuagint en die Samaritaanse Pentateug lees \"hy [Terag] het hulle uitgelei\"."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 31,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 28, 31 — Ur Kasdim / die teksvariant.** \"Ur van die Chaldeërs\". By v.31 het die MT *vayyetse'u ittam* (\"hulle het saam met hulle uitgetrek\" — sintakties stroef, want Terag is die onderwerp); LXX en die Samaritaanse Pentateug lees *vayyotse* (\"hy het hulle uitgelei\"). MT in die lyf, variant gevoetnoot (TRANSLATION_POLICY §1)."
+        },
+        {
+            "book": "Genesis",
+            "chapter": 11,
+            "verse": 32,
+            "verse_end": null,
+            "type": "translator",
+            "marker": null,
+            "text": "**Verse 24, 32 — Terag (bevestig by hersiening 2026-06-07).** \"Terag\" volg die projek se finale-guttuaal-→-\"g\"-konvensie (Selag/Jerag/Metúsalag); die gevestigde AFR-vorm \"Tera\" is oorweeg en verwerp ten gunste van stelsel-konsekwentheid."
+        },
+        {
             "book": "John",
             "chapter": 1,
             "verse": null,

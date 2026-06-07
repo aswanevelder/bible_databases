@@ -229,6 +229,44 @@ Semariete (*ha-Tsemari*), Hamatiete (*ha-Chamati*), Kanaäniete (*ha-Kena'ani*).
 
 ---
 
+## Genesis 11 — Shem-to-Abram + Terah's line (committed 2026-06-07)
+
+The Shem genealogy (vv. 10–26) and the start of the Terah/Abram cycle (vv. 27–32).
+*Sem, Arpagsad, Selag, Eber, Peleg* already registered (Gen 10); *Kanaän* above.
+
+### People
+
+| Hebrew | Translit. | Afrikaans | Status | First ref / notes |
+|---|---|---|---|---|
+| רְעוּ | Re'u | **Reü** | ✅ | 11:18 |
+| שְׂרוּג | Serug | **Serug** | ✅ | 11:20 |
+| נָחוֹר | Nachor | **Nahor** | ✅ | 11:22 (Serug's son) **and** 11:26 (Abram's brother) — same name, two people; render identically |
+| תֶּרַח | Terach | **Terag** | ✅ | 11:24; final chet → "g" (as Selag/Jerag/Metúsalag). Established "Tera" considered and rejected for system-consistency (review 2026-06-07) |
+| אַבְרָם | Avram | **Abram** | ✅ | 11:26; established form. Renamed **Abraham** at 17:5 — keep "Abram" until then |
+| הָרָן | Haran | **Haran** | ✅ | 11:26; Abram's brother, Lot's father (*he*-initial). Distinct from the place *Charan* (*chet*) — see crux |
+| לוֹט | Lot | **Lot** | ✅ | 11:27; established form |
+| שָׂרַי | Saray | **Sarai** | ✅ | 11:29; established form. Renamed **Sara** at 17:15 — keep "Sarai" until then |
+| מִלְכָּה | Milkah | **Milka** | ✅ | 11:29; daughter of Haran |
+| יִסְכָּה | Yiskah | **Jiska** | ✅ | 11:29; yod → "J" |
+
+### Places & peoples
+
+| Hebrew | Translit. | Afrikaans | Status | First ref / notes |
+|---|---|---|---|---|
+| אוּר | Ur | **Ur** | ✅ | 11:28, 31; *Ur Kasdim* "Ur van die Chaldeërs" |
+| כַּשְׂדִּים | Kasdim | **Chaldeërs** | ✅ | 11:28, 31; established (mildly anachronistic) form of the *Kasdim* |
+| חָרָן | Charan | **Charan** | ✅ | 11:31, 32; the city in Aram-Naharaim. *chet*-initial — see crux |
+
+### Crux — Haran (person) vs Charan (place)
+
+The brother **הָרָן** (*he*, 11:26–28) and the city **חָרָן** (*chet*, 11:31–32) are **different Hebrew
+words**, so rule 2 (distinct source → distinct rendering) applies. **Resolved at review 2026-06-07:**
+person → **Haran**, place → **Charan**. The project's *chet* → "H" transliteration (Henog/Havila) is
+**deliberately waived** for this one placename so the distinction is visible in the body, not buried in
+a footnote. Footnoted at 11:29, 31.
+
+---
+
 ## New Testament — people & places (John so far)
 
 | Greek | Translit. | Afrikaans | Status | First ref |
