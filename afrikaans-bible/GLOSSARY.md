@@ -171,6 +171,7 @@
 | רָדָה | radah | **heers** | ✅ | Committed 2026-05-31 (Gen 1:26, 28); rule / have dominion. Distinct from *kavash* (onderwerp) |
 | דֶּשֶׁא / עֵשֶׂב / עֵץ פְּרִי | deshe / esev / etz peri | **groen plantegroei** / **saadgewende plante** / **vrugtebome** | ✅ | Committed 2026-05-31 (Gen 1:11–12); preserve the three botanical categories |
 | גִּבּוֹרִים | gibborim | **helde** | ✅ | Committed 2026-05-31 (Gen 6:4); mighty warriors |
+| גִּבּוֹר | gibbor | **geweldige** | ✅ | Committed 2026-06-07 (Gen 10:8–9, Nimrod). **Sense-split rule:** singular *gibbor* (an individual mighty man) → "geweldige"; plural *gibborim* → "helde" (Gen 6:4). |
 | תֵּבָה | tevah | **ark** | ✅ | Committed 2026-05-31 (Gen 6:14); Noah's ark (also Moses' basket, Ex 2) |
 | גֹּפֶר | gofer | **goferhout** | ✅ | Committed 2026-05-31 (Gen 6:14); unidentified wood |
 | כֹּפֶר | kofer | **pik** | ✅ | Committed 2026-05-31 (Gen 6:14); pitch |
@@ -189,6 +190,11 @@
 | שָׁכַר | shakhar | **dronk word** | ✅ | Committed 2026-06-02 (Gen 9:21); become drunk |
 | עֶרְוָה | ervah | **naaktheid** | ✅ | Committed 2026-06-02 (Gen 9:22–23); nakedness |
 | עֶבֶד | eved | **slaaf** / **kneg** | ✅ | Committed 2026-06-02 (Gen 9:25–27). **Context rule** (cf. *nephesh*): **slaaf** for forced bondage/servitude — proven at Gen 9:25–27, the curse on Kanaän (*eved avadim* → "slaaf van slawe", the lowest servant); **kneg** for a servant/official or the LORD's servant. The "kneg" arm awaits its first occurrence — document there. Do not render flatly. |
+| גּוֹי | goy (mv. goyim) | **nasie** (mv. **nasies**) | ✅ | Committed 2026-06-07 (Gen 10:5, 20, 31, 32); nation/people. Part of the fourfold nations-formula (families/tongues/lands/nations). |
+| לָשׁוֹן | lashon | **taal** | ✅ | Committed 2026-06-07 (Gen 10:5, 20, 31); tongue/language. |
+| מִשְׁפָּחָה | mishpachah | **familie** | ✅ | Committed 2026-06-07 (Gen 10:5, 18, 20, 31, 32); clan/family. Distinct from *toledot* (geslagsregister). |
+| גְּבוּל | gevul | **grens** | ✅ | Committed 2026-06-07 (Gen 10:19); border/territory. |
+| אִיִּים | iyyim | **kuslande** | ✅ | Committed 2026-06-07 (Gen 10:5); isles/coastlands (Mediterranean coasts the Japhethites spread to). |
 
 ---
 

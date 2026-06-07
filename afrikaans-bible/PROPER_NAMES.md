@@ -111,6 +111,124 @@ grandfather of Noah. Distinct from Metúsael (Gen 4:18, Cainite line). Footnote 
 
 ---
 
+## Genesis 10 — the Table of Nations (committed 2026-06-07)
+
+The Völkertafel: most names occur once, as eponymous ancestors of peoples. Source translits are
+from the reviewed Gen 10 draft. **Key cruxes** (identical-vs-distinct rule) are detailed under the
+tables. *Kus, Havila, Misraim→Egipte (country), Kanaän, Assirië (land)* are already registered above.
+
+### Japheth's line (vv. 2–4)
+
+| Afrikaans | Translit. | Status | Notes |
+|---|---|---|---|
+| **Gomer** | Gomer | ✅ | 10:2 |
+| **Magog** | Magog | ✅ | 10:2 |
+| **Madai** | Maday | ✅ | 10:2 |
+| **Jawan** | Yavan | ✅ | 10:2; Greece/Ionia |
+| **Tubal** | Tuval | ✅ | 10:2 |
+| **Meseg** | Meshekh | ✅ | 10:2 |
+| **Tiras** | Tiras | ✅ | 10:2 |
+| **Askenas** | Ashkenaz | ✅ | 10:3 |
+| **Rifat** | Rifat | ✅ | 10:3 |
+| **Togarma** | Togarmah | ✅ | 10:3 |
+| **Elisa** | Elishah | ✅ | 10:4 |
+| **Tarsis** | Tarshish | ✅ | 10:4; established form |
+| **Kittiërs** | Kittim | ✅ | 10:4; a people (plural) — Afrikaans gentilic |
+| **Dodaniete** | Dodanim | ✅ | 10:4; a people. Var. *Rodanim* (1 Chr 1:7, LXX) footnoted in the chapter |
+
+### Ham's line (vv. 6–18) — persons/eponyms
+
+| Afrikaans | Translit. | Status | Notes |
+|---|---|---|---|
+| **Misraim** | Mitsrayim | ✅ | 10:6; the eponymous ancestor (person). The **country** is "Egipte" — see crux below |
+| **Put** | Put | ✅ | 10:6 |
+| **Seba** | Seva (סְבָא) | ✅ | 10:7; ס-initial. **Distinct from Skeba** (שְׁבָא) — see crux |
+| **Sabta** | Savta | ✅ | 10:7 |
+| **Raema** | Ra'mah | ✅ | 10:7 |
+| **Sabteka** | Savtekha | ✅ | 10:7 |
+| **Skeba** | Sheva (שְׁבָא) | ✅ | 10:7 (Raema's son) **and** 10:28 (Joktan's son) — same Hebrew, render identically |
+| **Dedan** | Dedan | ✅ | 10:7 |
+| **Nimrod** | Nimrod | ✅ | 10:8; the *gibbor* ("geweldige") and hunter; founder of Babel/Assyrian cities |
+| **Sidon** | Tsidon | ✅ | 10:15; Kanaän's firstborn (eponym); established form (also the city) |
+| **Het** | Chet | ✅ | 10:15; ancestor of the Hetiete (Hittites) |
+
+### Ham's line — peoples (gentilics, vv. 13–18)
+
+Rendered as Afrikaans people-names (*-iete* / *-iërs*), not individuals:
+Ludiete (*Ludim*), Anamiete (*Anamim*), Lehabiete (*Lehavim*), Naftuhiete (*Naftuchim*),
+Patrusiete (*Patrusim*), Kasluhiete (*Kasluchim*), **Filistyne** (*Pelishtim*, established),
+Kaftoriete (*Kaftorim*); Jebusiete (*ha-Yevusi*), Amoriete (*ha-Emori*), Girgasiete (*ha-Girgashi*),
+Hewiete (*ha-Chivvi*), Arkiete (*ha-Arqi*), Siniete (*ha-Sini*), Arwadiete (*ha-Arwadi*),
+Semariete (*ha-Tsemari*), Hamatiete (*ha-Chamati*), Kanaäniete (*ha-Kena'ani*). — all ✅, 2026-06-07.
+
+### Shem's line (vv. 21–29) — persons/eponyms
+
+| Afrikaans | Translit. | Status | Notes |
+|---|---|---|---|
+| **Eber** | Ever | ✅ | 10:21, 24; namesake of "Hebreër" (*ivri*) |
+| **Elam** | Elam | ✅ | 10:22 |
+| **Assur** | Ashur | ✅ | 10:22 (Shem's son, the **person**). Same Hebrew as Assirië the land — see crux |
+| **Arpagsad** | Arpakhshad | ✅ | 10:22 |
+| **Lud** | Lud | ✅ | 10:22 |
+| **Aram** | Aram | ✅ | 10:22 |
+| **Us** | Uts | ✅ | 10:23 |
+| **Hul** | Chul | ✅ | 10:23 |
+| **Geter** | Geter | ✅ | 10:23 |
+| **Mas** | Mash | ✅ | 10:23 |
+| **Selag** | Shelach | ✅ | 10:24 |
+| **Peleg** | Peleg | ✅ | 10:25; puns on *palag* (verdeel) — "in sy dae is die aarde verdeel" |
+| **Joktan** | Yoqtan | ✅ | 10:25 |
+| **Almodad** | Almodad | ✅ | 10:26 |
+| **Selef** | Shelef | ✅ | 10:26 |
+| **Hasarmawet** | Chatsarmavet | ✅ | 10:26 |
+| **Jerag** | Yerach | ✅ | 10:26 |
+| **Hadoram** | Hadoram | ✅ | 10:27 |
+| **Usal** | Uzal | ✅ | 10:27 |
+| **Dikla** | Diqlah | ✅ | 10:27 |
+| **Obal** | Oval | ✅ | 10:28 |
+| **Abímael** | Avima'el | ✅ | 10:28 |
+| **Ofir** | Ofir | ✅ | 10:29 |
+| **Jobab** | Yovav | ✅ | 10:29 |
+
+(*Skeba* at 10:28 and *Havila* at 10:29 reuse already-registered forms — render identically.)
+
+### Genesis 10 — places
+
+| Afrikaans | Translit. | Status | Notes |
+|---|---|---|---|
+| **Babel** | Bavel | ✅ | 10:10; established form |
+| **Erek** | Erekh | ✅ | 10:10 (Uruk) |
+| **Akkad** | Akkad | ✅ | 10:10 |
+| **Kalne** | Kalneh | ✅ | 10:10 |
+| **Sinear** | Shinar | ✅ | 10:10; established form |
+| **Ninevé** | Nineweh | ✅ | 10:11; established form |
+| **Rehobot-Ir** | Rechovot-Ir | ✅ | 10:11 |
+| **Kelag** | Kelach | ✅ | 10:11, 12 |
+| **Resen** | Resen | ✅ | 10:12 |
+| **Gerar** | Gerar | ✅ | 10:19 |
+| **Gasa** | Azzah | ✅ | 10:19; established form |
+| **Sodom** | Sedom | ✅ | 10:19; established form |
+| **Gomorra** | Amorah | ✅ | 10:19; established form |
+| **Adma** | Admah | ✅ | 10:19 |
+| **Seboïm** | Tsevoyim | ✅ | 10:19 |
+| **Lesa** | Lesha | ✅ | 10:19 |
+| **Mesa** | Mesha | ✅ | 10:30 |
+| **Sefar** | Sefarah | ✅ | 10:30 |
+
+### Cruxes — identical-vs-distinct decisions
+
+- **Seba (סְבָא *Seva*) vs Skeba (שְׁבָא *Sheva*).** Different Hebrew sibilants (ס vs שׁ) → **distinct**
+  Afrikaans. Both appear in 10:7; Skeba recurs at 10:28. "Skeba" is the established form (queen of Sheba).
+- **Assur the person vs Assirië the land** (both אַשּׁוּר *Ashur*). **Same Hebrew, referent distinguished
+  by context:** the son of Shem (10:22) → personal name **Assur**; the land Nimrod goes out to (10:11,
+  as at 2:14) → **Assirië** (established country form). Footnoted at 10:11.
+- **Misraim vs Egipte** (both מִצְרַיִם *Mitsrayim*). The **eponymous ancestor** (10:6, 13) keeps the
+  personal form **Misraim**; the **country** is **Egipte** (established). Same rule pattern as Assur/Assirië.
+- **Havila** (חֲוִילָה *Chavilah*): identical across the place (2:11), Ham's line (10:7) and Shem's line
+  (10:29) — render identically per rule 1.
+
+---
+
 ## New Testament — people & places (John so far)
 
 | Greek | Translit. | Afrikaans | Status | First ref |

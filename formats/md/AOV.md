@@ -490,6 +490,72 @@
 
 **[9:29]** So was al die dae van Noag 950 jaar; en hy het gesterf.
 
+### Chapter 10
+
+**[10:1]** En dit is die geslagsregister van die seuns van Noag — Sem, Gam en Jafet; en vir hulle is seuns gebore ná die watervloed.
+
+**[10:2]** Die seuns van Jafet was Gomer en Magog en Madai en Jawan en Tubal en Meseg en Tiras.
+
+**[10:3]** En die seuns van Gomer: Askenas en Rifat en Togarma.
+
+**[10:4]** En die seuns van Jawan: Elisa en Tarsis, die Kittiërs en die Dodaniete.
+
+**[10:5]** Van hierdie het die kuslande van die nasies hulle afgeskei in hulle lande, elkeen volgens sy taal, volgens hulle families, in hulle nasies.
+
+**[10:6]** En die seuns van Gam: Kus en Misraim en Put en Kanaän.
+
+**[10:7]** En die seuns van Kus: Seba en Havila en Sabta en Raema en Sabteka; en die seuns van Raema: Skeba en Dedan.
+
+**[10:8]** En Kus het die vader van Nimrod geword; hy het begin om 'n geweldige op die aarde te wees.
+
+**[10:9]** Hy was 'n geweldige jagter voor die aangesig van die HERE; daarom word gesê: "Soos Nimrod, 'n geweldige jagter voor die aangesig van die HERE."
+
+**[10:10]** En die begin van sy koninkryk was Babel en Erek en Akkad en Kalne, in die land Sinear.
+
+**[10:11]** Uit daardie land het hy na Assirië uitgetrek, en hy het Ninevé gebou, en Rehobot-Ir en Kelag,
+
+**[10:12]** en Resen tussen Ninevé en Kelag — dit is die groot stad.
+
+**[10:13]** En Misraim het die vader geword van die Ludiete en die Anamiete en die Lehabiete en die Naftuhiete
+
+**[10:14]** en die Patrusiete en die Kasluhiete — waaruit die Filistyne voortgekom het — en die Kaftoriete.
+
+**[10:15]** En Kanaän het die vader geword van Sidon, sy eersgeborene, en van Het,
+
+**[10:16]** en die Jebusiete en die Amoriete en die Girgasiete
+
+**[10:17]** en die Hewiete en die Arkiete en die Siniete
+
+**[10:18]** en die Arwadiete en die Semariete en die Hamatiete; en daarna het die families van die Kanaäniete versprei.
+
+**[10:19]** En die grens van die Kanaäniete was van Sidon af, in die rigting van Gerar, tot by Gasa; in die rigting van Sodom en Gomorra en Adma en Seboïm, tot by Lesa.
+
+**[10:20]** Dit is die seuns van Gam volgens hulle families, volgens hulle tale, in hulle lande, in hulle nasies.
+
+**[10:21]** En vir Sem — ook hy — is kinders gebore; hy is die vader van al die seuns van Eber, die broer van Jafet, die oudste.
+
+**[10:22]** Die seuns van Sem: Elam en Assur en Arpagsad en Lud en Aram.
+
+**[10:23]** En die seuns van Aram: Us en Hul en Geter en Mas.
+
+**[10:24]** En Arpagsad het die vader geword van Selag, en Selag het die vader geword van Eber.
+
+**[10:25]** En vir Eber is twee seuns gebore: die naam van die een was Peleg, want in sy dae is die aarde verdeel; en die naam van sy broer was Joktan.
+
+**[10:26]** En Joktan het die vader geword van Almodad en Selef en Hasarmawet en Jerag
+
+**[10:27]** en Hadoram en Usal en Dikla
+
+**[10:28]** en Obal en Abímael en Skeba
+
+**[10:29]** en Ofir en Havila en Jobab. Hierdie almal was die seuns van Joktan.
+
+**[10:30]** En hulle woongebied was van Mesa af, in die rigting van Sefar, die berg van die ooste.
+
+**[10:31]** Dit is die seuns van Sem volgens hulle families, volgens hulle tale, in hulle lande, volgens hulle nasies.
+
+**[10:32]** Dit is die families van die seuns van Noag volgens hulle geslagte, in hulle nasies; en uit hulle het die nasies hulle versprei oor die aarde ná die watervloed.
+
 ## John
 
 ### Chapter 1
